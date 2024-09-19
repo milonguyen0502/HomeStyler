@@ -1,0 +1,128 @@
+[
+    {
+        "id": "65",
+        "color": "Black",
+        "price": "$8,396",
+        "fabric": "Fabric ",
+        "features": "159.5'",
+        "shape": "Rectangle",
+        "designer": "Ceci Thompson",
+        "name": "Malea 4-Piece L-Shaped Charcoal Grey Performance Fabric Sectional Sofa with Right-Arm Chaise",
+        "dimensions":" 159.5'Wx116.5'Dx31'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "The Malea sectional sofa is the perfect balance of refined, modern style and inviting comfort. Featuring a frame hand-assembled in America from kiln-dried, precision-cut wood with reinforced joinery for durability, the sectional's slim track arms give the piece a sense of lightness. Charcoal grey performance velvet upholstery woven by a mill operating for six generations in South Carolina offers plush texture, while a welt trim along the frame and cushions keeps the look neat. Packed with an ultra-comfortable feather-and-down blend, the deep cushions are key to the sofa's loungey appeal, while giving it just the right amount of support. CB2 exclusive.",
+        "image": "./img/collection/malea/65.jpg",
+        "thumbnails": [
+           "./img/collection/malea/65a.jpg",
+           "./img/collection/malea/65b.jpg",
+           "./img/collection/malea/65c.jpg",
+           "./img/collection/malea/65d.jpg"
+        ]
+    },
+    {
+        "id": "66",
+        "color": "White",
+        "price": "$8,396",
+        "fabric": "Fabric ",
+        "features": "159.5'",
+        "shape": "Rectangle",
+        "designer": "Ceci Thompson",
+        "name": "Malea 4-Piece L-Shaped White Performance Fabric Sectional Sofa with Right-Arm Chaise",
+        "dimensions":" 159.5'Wx116.5'Dx31'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "The Malea sectional sofa is the perfect balance of refined, modern style and inviting comfort. Featuring a frame hand-assembled in America from kiln-dried, precision-cut wood with reinforced joinery for durability, the sectional's slim track arms give the piece a sense of lightness. Crypton ® poly-linen performance upholstery offers plush texture, while a welt trim along the frame and cushions keeps the look neat. Packed with an ultra-comfortable feather-and-down blend, the deep cushions are key to the sofa's loungey appeal while giving it just the right amount of support. CB2 exclusive.",
+        "image": "./img/collection/malea/66.jpg",
+        "thumbnails": [
+           "./img/collection/malea/66a.jpg",
+           "./img/collection/malea/66b.jpg",
+           "./img/collection/malea/66c.jpg",
+           "./img/collection/malea/66d.jpg"
+        ]
+    },
+    {
+        "id": "67",
+        "color": "Black",
+        "price": "$2,499",
+        "fabric": "Fabric ",
+        "features": "76'",
+        "shape": "Rectangle",
+        "designer": "Ceci Thompson",
+        "name": "Malea Charcoal Grey Performance Fabric Armless Loveseat",
+        "dimensions":" 76'Wx40.5'Dx31'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "The Malea loveseat is the perfect balance of refined, modern style and inviting comfort. Featuring a frame hand-assembled in America from kiln-dried, precision-cut wood with reinforced joinery for durability, the loveseat's slim track arms give the piece a sense of lightness. Charcoal grey performance velvet upholstery woven by a mill operating for six generations in South Carolina offers plush texture, while a welt trim along the frame and cushions keeps the look neat. Packed with an ultra-comfortable feather-and-down blend, the deep cushions are key to the loveseat's loungey appeal while giving it just the right amount of support. CB2 exclusive.",
+        "image": "./img/collection/malea/67.jpg",
+        "thumbnails": [
+           "./img/collection/malea/67a.jpg",
+           "./img/collection/malea/67b.jpg",
+           "./img/collection/malea/67c.jpg",
+           "./img/collection/malea/67d.jpg"
+        ]
+    },
+    {
+        "id": "68",
+        "color": "White",
+        "price": "$2,499",
+        "fabric": "Fabric ",
+        "features": "76'",
+        "shape": "Rectangle",
+        "designer": "Ceci Thompson",
+        "name": "Malea White Performance Fabric Armless Loveseat",
+        "dimensions":" 76'Wx40.5'Dx31'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "The Malea loveseat is the perfect balance of refined, modern style and inviting comfort. Featuring a frame hand-assembled in America from kiln-dried, precision-cut wood with reinforced joinery for durability, the loveseat's slim track arms give the piece a sense of lightness. Charcoal grey performance velvet upholstery woven by a mill operating for six generations in South Carolina offers plush texture, while a welt trim along the frame and cushions keeps the look neat. Packed with an ultra-comfortable feather-and-down blend, the deep cushions are key to the loveseat's loungey appeal while giving it just the right amount of support. CB2 exclusive.",
+        "image": "./img/collection/malea/68.jpg",
+        "thumbnails": [
+           "./img/collection/malea/68a.jpg",
+           "./img/collection/malea/68b.jpg",
+           "./img/collection/malea/68c.jpg",
+           "./img/collection/malea/68d.jpg"
+        ]
+    },
+    {
+        "id": "69",
+        "color": "White",
+        "price": "$9,394",
+        "fabric": "Fabric ",
+        "features": "159.5'",
+        "shape": "Rectangle",
+        "designer": "Ceci Thompson",
+        "name": "Malea 5-Piece L-Shaped White Performance Fabric Sectional Sofa",
+        "dimensions":" 159.5'Wx121.5'Dx31'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "The Malea sectional sofa is the perfect balance of refined, modern style and inviting comfort. Featuring a frame hand-assembled in America from kiln-dried, precision-cut wood with reinforced joinery for durability, the sectional's slim track arms give the piece a sense of lightness. Crypton ® poly-linen performance upholstery offers plush texture, while a welt trim along the frame and cushions keeps the look neat. Packed with an ultra-comfortable feather-and-down blend, the deep cushions are key to the sofa's loungey appeal while giving it just the right amount of support. CB2 exclusive.",
+        "image": "./img/collection/malea/69.jpg",
+        "thumbnails": [
+           "./img/collection/malea/69a.jpg",
+           "./img/collection/malea/69b.jpg",
+           "./img/collection/malea/69c.jpg",
+           "./img/collection/malea/69d.jpg"
+        ]
+    },
+    {
+        "id": "70",
+        "color": "Black",
+        "price": "$9,095",
+        "fabric": "Fabric ",
+        "features": "159.5'",
+        "shape": "Rectangle",
+        "designer": "Ceci Thompson",
+        "name": "Malea 5-Piece L-Shaped Charcoal Grey Sectional Sofa",
+        "dimensions":" 159.5'Wx121.5'Dx31'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "The Malea sectional sofa is the perfect balance of refined, modern style and inviting comfort. Featuring a frame hand-assembled in America from kiln-dried, precision-cut wood with reinforced joinery for durability, the sectional's slim track arms give the piece a sense of lightness. Crypton ® poly-linen performance upholstery offers plush texture, while a welt trim along the frame and cushions keeps the look neat. Packed with an ultra-comfortable feather-and-down blend, the deep cushions are key to the sofa's loungey appeal while giving it just the right amount of support. CB2 exclusive.",
+        "image": "./img/collection/malea/70.jpg",
+        "thumbnails": [
+           "./img/collection/malea/70a.jpg",
+           "./img/collection/malea/70b.jpg",
+           "./img/collection/malea/70c.jpg",
+           "./img/collection/malea/70d.jpg"
+        ]
+    }
+]

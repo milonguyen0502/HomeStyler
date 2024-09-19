@@ -1,0 +1,129 @@
+[
+    {
+        "id": "83",
+        "color": "Grey",
+        "price": "$5,096",
+        "fabric": "Fabric ",
+        "features": "123.75'",
+        "shape": "Rectangle",
+        "designer": " Mermelada Estudio ",
+        "name": "Lumis 4-Piece Modular Snow White Performance Fabric Sectional Sofa",
+        "dimensions":" 123.75'Wx80.5'Dx31'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Upholstered in a charcoal performance velvet, large-scale sectional sits low to the ground for modern appeal. The plush silhouette features pillow-like detached cushions with broad armrests that can serve as a relaxed perch for socializing. Sectional pieces can be configured to suit your space. CB2 exclusive.",
+        "image": "./img/collection/deseo/83.jpg",
+        "thumbnails": [
+           "./img/collection/deseo/83a.jpg",
+           "./img/collection/deseo/83b.jpg",
+           "./img/collection/deseo/83c.jpg",
+           "./img/collection/deseo/83d.jpg"
+        ]
+    },
+    {
+        "id": "84",
+        "color": "Brown ",
+        "price": "$5,096",
+        "fabric": "Fabric ",
+        "features": "123.75'",
+        "shape": "Rectangle",
+        "designer": " Mermelada Estudio ",
+        "name": "Deseo 4-Piece Modular Copper Brown Performance Velvet Sectional Sofa",
+        "dimensions":" 123.75'Wx80.5'Dx31'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Upholstered in a rich copper performance velvet, large-scale sectional sits low to the ground for modern appeal. The plush silhouette features pillow-like detached cushions with broad armrests that can serve as a relaxed perch for socializing. Sectional pieces can be configured to suit your space. CB2 exclusive.",
+        "image": "./img/collection/deseo/84.jpg",
+        "thumbnails": [
+           "./img/collection/deseo/84a.jpg",
+           "./img/collection/deseo/84b.jpg",
+           "./img/collection/deseo/84c.jpg",
+           "./img/collection/deseo/84d.jpg"
+        ]
+    },
+    {
+        "id": "85",
+        "color": "Brown ",
+        "price": "$6,497",
+        "fabric": "Fabric ",
+        "features": "115'",
+        "shape": "Rectangle",
+        "designer": " Mermelada Estudio ",
+        "name": "Deseo 3-Piece Modular Copper Brown Performance Velvet Sectional Sofa",
+        "dimensions":" 115'Wx115'Dx31'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Upholstered in a rich copper performance velvet, large-scale sectional sits low to the ground for modern appeal. The plush silhouette features pillow-like detached cushions with broad armrests that can serve as a relaxed perch for socializing. Sectional pieces can be configured to suit your space. CB2 exclusive.",
+        "image": "./img/collection/deseo/85.jpg",
+        "thumbnails": [
+           "./img/collection/deseo/85a.jpg",
+           "./img/collection/deseo/85b.jpg",
+           "./img/collection/deseo/85c.jpg",
+           "./img/collection/deseo/85d.jpg"
+        ]
+    },
+    {
+        "id": "86",
+        "color": "Grey  ",
+        "price": "$6,497",
+        "fabric": "Fabric ",
+        "features": "115'",
+        "shape": "Rectangle",
+        "designer": " Mermelada Estudio ",
+        "name": "Deseo 3-Piece Modular Charcoal Grey Performance Velvet Sectional Sofa",
+        "dimensions":" 115'Wx115'Dx31'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Upholstered in a charcoal performance velvet, large-scale sectional sits low to the ground for modern appeal. The plush silhouette features pillow-like detached cushions with broad armrests that can serve as a relaxed perch for socializing. Sectional pieces can be configured to suit your space. CB2 exclusive.",
+        "image": "./img/collection/deseo/86.jpg",
+        "thumbnails": [
+           "./img/collection/deseo/86a.jpg",
+           "./img/collection/deseo/86b.jpg",
+           "./img/collection/deseo/86c.jpg",
+           "./img/collection/deseo/86d.jpg"
+        ]
+    },
+    {
+        "id": "87",
+        "color": "White  ",
+        "price": "$5,897",
+        "fabric": "Fabric ",
+        "features": "115'",
+        "shape": "Rectangle",
+        "designer": " Mermelada Estudio ",
+        "name": "Deseo 3-Piece L-Shaped White Performance Fabric Sectional Sofa With Loveseat",
+        "dimensions":" 115'Wx115'Dx31'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Upholstered in a snow white performance fabric, large-scale sectional sits low to the ground for modern appeal. The plush silhouette features pillow-like detached cushions with broad armrests that can serve as a relaxed perch for socializing. Sectional pieces can be configured to suit your space. CB2 exclusive.",
+        "image": "./img/collection/deseo/87.jpg",
+        "thumbnails": [
+           "./img/collection/deseo/87a.jpg",
+           "./img/collection/deseo/87b.jpg",
+           "./img/collection/deseo/87c.jpg",
+           "./img/collection/deseo/87d.jpg"
+        ]
+    },
+    {
+        "id": "88",
+        "color": "Grey  ",
+        "price": "$2,799",
+        "fabric": "Fabric ",
+        "features": "94.5''",
+        "shape": "Rectangle",
+        "designer": " Mermelada Estudio ",
+        "name": "Deseo 94.5' Charcoal Grey Performance Velvet Sofa",
+        "dimensions":" 94.5'Wx44'Dx30'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Upholstered in a lush grey performance velvet, large-scale sofa sits low to the ground with pillow-like detached cushions and wide arms for modern appeal. French seams add a tailored finish. CB2 exclusive.",
+        "image": "./img/collection/deseo/88.jpg",
+        "thumbnails": [
+           "./img/collection/deseo/88a.jpg",
+           "./img/collection/deseo/88b.jpg",
+           "./img/collection/deseo/887c.jpg",
+           "./img/collection/deseo/88d.jpg"
+        ]
+    }
+]
+    

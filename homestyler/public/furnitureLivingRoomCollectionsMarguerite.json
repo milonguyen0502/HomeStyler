@@ -1,0 +1,128 @@
+[
+    {
+        "id": "59",
+        "color": "White",
+        "price": "$7,695",
+        "fabric": "Fabric ",
+        "features": "144'",
+        "shape": "Rectangle",
+        "designer": "Ceci Thompson",
+        "name": "Marguerite 5-Piece L-Shaped White Performance Fabric Sectional Sofa",
+        "dimensions":" 144'Wx144'Dx29'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Perfectly proportioned in scale, sectional sofa has a slim frame with quality apparent throughout. Kiln-dried wooden frame is hand-crafted in the United States and certified sustainable by the Forest Stewardship Council ® (FSC). Thick foam-core cushions are generously filled with a feather blend for exceptional comfort. The piece is upholstered in an easy-to-clean Crypton® performance fabric that feels like a plush chenille with a hint of linen, giving it a soft texture designed to withstand plenty of wear while retaining its casually elegant feel. CB2 exclusive.",
+        "image": "./img/collection/marguerite/59.jpg",
+        "thumbnails": [
+           "./img/collection/marguerite/59a.jpg",
+           "./img/collection/marguerite/59b.jpg",
+           "./img/collection/marguerite/59c.jpg",
+           "./img/collection/marguerite/59d.jpg"
+        ]
+    },
+    {
+        "id": "60",
+        "color": "Grey",
+        "price": "$7,695",
+        "fabric": "Fabric ",
+        "features": "144'",
+        "shape": "Rectangle",
+        "designer": "Ceci Thompson",
+        "name": "Marguerite 5-Piece L-Shaped Sectional Sofa",
+        "dimensions":" 144'Wx144'Dx29'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Perfectly proportioned in scale, sectional sofa has a slim frame with quality apparent throughout. Kiln-dried wooden frame is hand-crafted in the United States and certified sustainable by the Forest Stewardship Council ® (FSC). Thick foam-core cushions are generously filled with a feather blend for exceptional comfort. The piece is upholstered in an easy-to-clean Crypton® performance fabric that feels like a plush chenille with a hint of linen, giving it a soft texture designed to withstand plenty of wear while retaining its casually elegant feel. CB2 exclusive.",
+        "image": "./img/collection/marguerite/59.jpg",
+        "thumbnails": [
+           "./img/collection/marguerite/60a.jpg",
+           "./img/collection/marguerite/60b.jpg",
+           "./img/collection/marguerite/60c.jpg",
+           "./img/collection/marguerite/60d.jpg"
+        ]
+    },
+    {
+        "id": "61",
+        "color": "White",
+        "price": "$5,297",
+        "fabric": "Fabric ",
+        "features": "111'",
+        "shape": "Rectangle",
+        "designer": "Ceci Thompson",
+        "name": "Marguerite 3-Piece L-Shaped White Performance Fabric Sectional Sofa",
+        "dimensions":" 111'Wx111'Dx29'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Perfectly proportioned in scale, sectional sofa has a slim frame with quality apparent throughout. Kiln-dried wooden frame is hand-crafted in the United States and certified sustainable by the Forest Stewardship Council ® (FSC). Thick foam-core cushions are generously filled with a feather blend for exceptional comfort. The piece is upholstered in an easy-to-clean Crypton® performance fabric that feels like a plush chenille with a hint of linen, giving it a soft texture designed to withstand plenty of wear while retaining its casually elegant feel. CB2 exclusive.",
+        "image": "./img/collection/marguerite/61.jpg",
+        "thumbnails": [
+           "./img/collection/marguerite/61a.jpg",
+           "./img/collection/marguerite/61b.jpg",
+           "./img/collection/marguerite/61c.jpg",
+           "./img/collection/marguerite/61d.jpg"
+        ]
+    },
+    {
+        "id": "62",
+        "color": "Grey",
+        "price": "$5,297",
+        "fabric": "Fabric ",
+        "features": "111'",
+        "shape": "Rectangle",
+        "designer": "Ceci Thompson",
+        "name": "Marguerite 3-Piece L-Shaped Sectional Sofa",
+        "dimensions":" 111'Wx111'Dx29'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Perfectly proportioned in scale, sectional sofa has a slim frame with quality apparent throughout. Kiln-dried wooden frame is hand-crafted in the United States and certified sustainable by the Forest Stewardship Council ® (FSC). Thick foam-core cushions are generously filled with a feather blend for exceptional comfort. The piece is upholstered in an easy-to-clean Crypton® performance fabric that feels like a plush chenille with a hint of linen, giving it a soft texture designed to withstand plenty of wear while retaining its casually elegant feel. CB2 exclusive.",
+        "image": "./img/collection/marguerite/62.jpg",
+        "thumbnails": [
+           "./img/collection/marguerite/62a.jpg",
+           "./img/collection/marguerite/62b.jpg",
+           "./img/collection/marguerite/62c.jpg",
+           "./img/collection/marguerite/62d.jpg"
+        ]
+    },
+    {
+        "id": "63",
+        "color": "Grey",
+        "price": "$2,399",
+        "fabric": "Fabric ",
+        "features": "90'",
+        "shape": "Rectangle",
+        "designer": "Ceci Thompson",
+        "name": "Marguerite 90' Sofa",
+        "dimensions":" 90'Wx41'Dx29'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Perfectly proportioned in scale, quietly chic white sofa has a slim frame that cuts a confident silhouette. Quality is apparent throughout, with a kiln-dried wooden frame certified by the Forest Stewardship Council ® and thick foam-core cushions generously filled with a feather blend for exceptional comfort. The piece is upholstered in an easy-to-clean Crypton® performance fabric that feels like a plush chenille with a hint of linen, giving it a soft texture designed to withstand plenty of wear while retaining its casually elegant feel. CB2 exclusive.",
+        "image": "./img/collection/marguerite/63.jpg",
+        "thumbnails": [
+           "./img/collection/marguerite/63a.jpg",
+           "./img/collection/marguerite/63b.jpg",
+           "./img/collection/marguerite/63c.jpg",
+           "./img/collection/marguerite/63d.jpg"
+        ]
+    },
+    {
+        "id": "64",
+        "color": "White",
+        "price": "$1,999",
+        "fabric": "Fabric ",
+        "features": "70'",
+        "shape": "Rectangle",
+        "designer": "Ceci Thompson",
+        "name": "Marguerite White Performance Fabric Left-Arm Sofa",
+        "dimensions":" 70'Wx41'Dx29'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Perfectly proportioned in scale, left-arm sofa has a slim frame with quality apparent throughout. Kiln-dried wooden frame is hand-crafted in the United States and certified sustainable by the Forest Stewardship Council ® (FSC). Thick foam-core cushions are generously filled with a feather blend for exceptional comfort. The piece is upholstered in an easy-to-clean Crypton ® performance fabric that feels like a plush chenille with a hint of linen, giving it a soft texture designed to withstand plenty of wear while retaining its casually elegant feel. CB2 exclusive.",
+        "image": "./img/collection/marguerite/64.jpg",
+        "thumbnails": [
+           "./img/collection/marguerite/64a.jpg",
+           "./img/collection/marguerite/64b.jpg",
+           "./img/collection/marguerite/64c.jpg",
+           "./img/collection/marguerite/64d.jpg"
+        ]
+    }
+]

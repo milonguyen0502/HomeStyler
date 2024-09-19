@@ -1,0 +1,128 @@
+[
+    {
+        "id": "53",
+        "color": "Green",
+        "price": "$1,499",
+        "fabric": "Fabric ",
+        "features": "72.5'",
+        "shape": "Rectangle",
+        "designer": "Ceci Thompson",
+        "name": "Fitz 72.5' Channeled Green Velvet Loveseat",
+        "dimensions":" 72.5'Wx33'Dx28'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Channel-tufted in rich green velvet, deco-inspired loveseat makes a vintage statement wherever it sits. Designed by VUUE, loveseat looks good from every angle. CB2 exclusive.",
+        "image": "./img/collection/fitz/53.jpg",
+        "thumbnails": [
+           "./img/collection/fitz/53a.jpg",
+           "./img/collection/fitz/53b.jpg",
+           "./img/collection/fitz/53c.jpg",
+           "./img/collection/fitz/53d.jpg"
+        ]
+    },
+    {
+        "id": "54",
+        "color": "White",
+        "price": "$1,899",
+        "fabric": "Fabric ",
+        "features": "72.5'",
+        "shape": "Rectangle",
+        "designer": "Ceci Thompson",
+        "name": "Fitz Loveseat Hatch Platinum",
+        "dimensions":" 72.5'Wx33'Dx28'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Channel-tufted in rich green velvet, deco-inspired loveseat makes a vintage statement wherever it sits. Designed by VUUE, loveseat looks good from every angle. CB2 exclusive.",
+        "image": "./img/collection/fitz/54.jpg",
+        "thumbnails": [
+           "./img/collection/fitz/54a.jpg",
+           "./img/collection/fitz/54b.jpg",
+           "./img/collection/fitz/54c.jpg",
+           "./img/collection/fitz/54d.jpg"
+        ]
+    },
+    {
+        "id": "55",
+        "color": "Orange",
+        "price": "$1,099",
+        "fabric": "Fabric ",
+        "features": "38.5'",
+        "shape": "Round/Curved",
+        "designer": "Ceci Thompson",
+        "name": "Fitz Channeled Russet Velvet Swivel Chair",
+        "dimensions":" 38.5'Wx32.5'Dx27.5'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Channel tufted, deco-inspired chair makes a vintage statement wherever it sits. Designed by VUUE with a swivel base, chair looks good from every angle. CB2 exclusive.",
+        "image": "./img/collection/fitz/55.jpg",
+        "thumbnails": [
+           "./img/collection/fitz/55a.jpg",
+           "./img/collection/fitz/55b.jpg",
+           "./img/collection/fitz/55c.jpg",
+           "./img/collection/fitz/55d.jpg"
+        ]
+    },
+    {
+        "id": "56",
+        "color": "Black",
+        "price": "$1,099",
+        "fabric": "Fabric ",
+        "features": "38.5'",
+        "shape": "Round/Curved",
+        "designer": "Ceci Thompson",
+        "name": "Fitz Channeled Black Boucle Swivel Chair",
+        "dimensions":" 38.5'Wx32.5'Dx27.5'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Channel-tufted in rich black boucle, deco-inspired chair makes a vintage statement wherever it sits. Designed by VUUE, swivel chair looks good from every angle. CB2 exclusive.",
+        "image": "./img/collection/fitz/56.jpg",
+        "thumbnails": [
+           "./img/collection/fitz/56a.jpg",
+           "./img/collection/fitz/56b.jpg",
+           "./img/collection/fitz/56c.jpg",
+           "./img/collection/fitz/56d.jpg"
+        ]
+    },
+    {
+        "id": "57",
+        "color": "Green",
+        "price": "$1,099",
+        "fabric": "Fabric ",
+        "features": "38.5'",
+        "shape": "Round/Curved",
+        "designer": "Ceci Thompson",
+        "name": "Fitz Channeled Green Velvet Swivel Chair",
+        "dimensions":" 38.5'Wx32.5'Dx27.5'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Channel-tufted in rich green velvet, deco-inspired swivel chair makes a vintage statement wherever it sits. Designed by VUUE, the chair looks good from every angle. CB2 exclusive.",
+        "image": "./img/collection/fitz/57.jpg",
+        "thumbnails": [
+           "./img/collection/fitz/57a.jpg",
+           "./img/collection/fitz/57b.jpg",
+           "./img/collection/fitz/57c.jpg",
+           "./img/collection/fitz/57d.jpg"
+        ]
+    },
+    {
+        "id": "58",
+        "color": "White",
+        "price": "$1,099",
+        "fabric": "Fabric ",
+        "features": "38.5'",
+        "shape": "Round/Curved",
+        "designer": "Ceci Thompson",
+        "name": "Fitz Channeled White Boucle Swivel Chair",
+        "dimensions":" 38.5'Wx32.5'Dx27.5'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Channel-tufted in rich white boucle, deco-inspired swivel chair makes a vintage statement wherever it sits. Designed by VUUE, the chair looks good from every angle. CB2 exclusive.",
+        "image": "./img/collection/fitz/58.jpg",
+        "thumbnails": [
+           "./img/collection/fitz/58a.jpg",
+           "./img/collection/fitz/58b.jpg",
+           "./img/collection/fitz/58c.jpg",
+           "./img/collection/fitz/58d.jpg"
+        ]
+    },
+]

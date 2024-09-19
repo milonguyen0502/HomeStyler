@@ -1,0 +1,128 @@
+[
+    {
+        "id": "89",
+        "color": "Grey",
+        "price": "$7,494",
+        "fabric": "Fabric ",
+        "features": "180'",
+        "shape": "Rectangle",
+        "designer": "VUUE",
+        "name": "Faible 6-Piece U-Shaped Grey Performance Velvet Sectional Sofa with Right-Arm.",
+        "dimensions":"180'Wx90'Dx29'H",
+        "type": "Daybed",
+        "status": "New",
+        "details": "Deep, generously proportioned sectional sofa designed by VUUEis sophisticated in a warm grey performance velvet. The oversized profile is perfect for lounging with family and friends without sacrificing style. Performance fabric withstands spills and other stressors, yet retains the lushness of a high-end textile. Customize the sectional layout to suit your individual space. CB2 exclusive.",
+        "image": "./img/collection/faible/89.jpg",
+        "thumbnails": [
+           "./img/collection/faible/89a.jpg",
+           "./img/collection/faible/89b.jpg",
+           "./img/collection/faible/89c.jpg",
+           "./img/collection/faible/89d.jpg"
+        ]
+    },
+    {
+        "id": "90",
+        "color": "Camel",
+        "price": "$7,494",
+        "fabric": "Fabric ",
+        "features": "180'",
+        "shape": "Rectangle",
+        "designer": "VUUE",
+        "name": "Faible 6-Piece U-Shaped Wheat Performance Velvet Sectional Sofa with Right-Arm",
+        "dimensions":"180'Wx90'Dx29'H",
+        "type": "Daybed",
+        "status": "New",
+        "details": "Deep, generously proportioned sectional sofa designed by VUUE is sophisticated in a wheat performance velvet. The oversized profile is perfect for lounging with family and friends without sacrificing style. Performance fabric withstands spills and other stressors, yet retains the lushness of a high-end textile. Customize the sectional layout to suit your individual space. CB2 exclusive.",
+        "image": "./img/collection/faible/90.jpg",
+        "thumbnails": [
+           "./img/collection/faible/90a.jpg",
+           "./img/collection/faible/90b.jpg",
+           "./img/collection/faible/90c.jpg",
+           "./img/collection/faible/90d.jpg"
+        ]
+    },
+    {
+        "id": "91",
+        "color": "White ",
+        "price": "$2,499",
+        "fabric": "Fabric ",
+        "features": "99'",
+        "shape": "Rectangle",
+        "designer": "VUUE",
+        "name": "Faible 100' White Performance Fabric Sofa",
+        "dimensions":"99'Wx45'Dx29'H",
+        "type": "Daybed",
+        "status": "New",
+        "details": "Deep, generously proportioned sofa designed by Melbourne-based VUUE is sophisticated in a snow white performance fabric. The oversized profile is perfect for lounging with family and friends without sacrificing style. Performance fabric withstands spills and other stressors, yet retains the lushness of a high-end textile. CB2 exclusive.",
+        "image": "./img/collection/faible/91.jpg",
+        "thumbnails": [
+           "./img/collection/faible/91a.jpg",
+           "./img/collection/faible/91b.jpg",
+           "./img/collection/faible/91c.jpg",
+           "./img/collection/faible/91d.jpg"
+        ]
+    },
+    {
+        "id": "92",
+        "color": "Grey  ",
+        "price": "$2,499",
+        "fabric": "Fabric ",
+        "features": "99'",
+        "shape": "Rectangle",
+        "designer": "VUUE",
+        "name": "Faible 100' Grey Performance Velvet Sofa",
+        "dimensions":"99'Wx45'Dx29'H",
+        "type": "Daybed",
+        "status": "New",
+        "details": "Deep, generously proportioned sofa designed by Melbourne-based VUUE is sophisticated in a warm grey performance velvet. The oversized profile is perfect for lounging with family and friends without sacrificing style. Performance velvet withstands spills and other stressors, yet retains the lushness of a high-end textile. CB2 exclusive.",
+        "image": "./img/collection/faible/92.jpg",
+        "thumbnails": [
+           "./img/collection/faible/92a.jpg",
+           "./img/collection/faible/92b.jpg",
+           "./img/collection/faible/92c.jpg",
+           "./img/collection/faible/92d.jpg"
+        ]
+    },
+    {
+        "id": "93",
+        "color": "Grey  ",
+        "price": "$7,494",
+        "fabric": "Fabric ",
+        "features": "180'",
+        "shape": "Rectangle",
+        "designer": "VUUE",
+        "name": "Faible 6-Piece U-Shaped Grey Performance Velvet Sectional Sofa with Right-Arm",
+        "dimensions":"180'Wx90'Dx29'H",
+        "type": "Daybed",
+        "status": "New",
+        "details": "Deep, generously proportioned sectional sofa designed by VUUEis sophisticated in a warm grey performance velvet. The oversized profile is perfect for lounging with family and friends without sacrificing style. Performance fabric withstands spills and other stressors, yet retains the lushness of a high-end textile. Customize the sectional layout to suit your individual space. CB2 exclusive.",
+        "image": "./img/collection/faible/93.jpg",
+        "thumbnails": [
+           "./img/collection/faible/93a.jpg",
+           "./img/collection/faible/93b.jpg",
+           "./img/collection/faible/93c.jpg",
+           "./img/collection/faible/93d.jpg"
+        ]
+    },
+    {
+        "id": "94",
+        "color": "Grey  ",
+        "price": "$4,896",
+        "fabric": "Fabric ",
+        "features": "145'",
+        "shape": "Rectangle",
+        "designer": "VUUE",
+        "name": "Faible 4-Piece Grey Performance Velvet Sectional Sofa with Right-Arm",
+        "dimensions":"145'Wx90'Dx29'H",
+        "type": "Daybed",
+        "status": "New",
+        "details": "Deep, generously proportioned sectional sofa designed by VUUEis sophisticated in a warm grey performance velvet. The oversized profile is perfect for lounging with family and friends without sacrificing style. Performance fabric withstands spills and other stressors, yet retains the lushness of a high-end textile. Customize the sectional layout to suit your individual space. CB2 exclusive.",
+        "image": "./img/collection/faible/94.jpg",
+        "thumbnails": [
+           "./img/collection/faible/94a.jpg",
+           "./img/collection/faible/94b.jpg",
+           "./img/collection/faible/94c.jpg",
+           "./img/collection/faible/94d.jpg"
+        ]
+    },
+]

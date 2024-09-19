@@ -1,0 +1,128 @@
+[
+    {
+        "id": "77",
+        "color": "White",
+        "price": "$5,196",
+        "fabric": "Fabric ",
+        "features": "126'",
+        "shape": "Rectangle",
+        "designer": " Mermelada Estudio ",
+        "name": "Lumis 4-Piece Modular Snow White Performance Fabric Sectional Sofa",
+        "dimensions":" 126'Wx83.5'Dx27'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Low-slung sectional by Barcelona-based Mermelada Estudio is designed for lounging. Upholstered in a textured, linen-like performance fabric, the sectional's deep frame is topped with pillow-like cushions finished with a clean piping welt. Arrange and rearrange sectional pieces to fit your changing needs. CB2 exclusive.",
+        "image": "./img/collection/lumis/77.jpg",
+        "thumbnails": [
+           "./img/collection/lumis/77a.jpg",
+           "./img/collection/lumis/77b.jpg",
+           "./img/collection/lumis/77c.jpg",
+           "./img/collection/lumis/77d.jpg"
+        ]
+    },
+    {
+        "id": "78",
+        "color": "Grey",
+        "price": "$5,196",
+        "fabric": "Fabric ",
+        "features": "126'",
+        "shape": "Rectangle",
+        "designer": " Mermelada Estudio ",
+        "name": "Lumis 4-Piece Modular Grey Performance Fabric Sectional Sofa",
+        "dimensions":" 126'Wx83.5'Dx27'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Sink into relaxed luxury with this low-slung design by Barcelona-based Mermelada Estudio. Formed of four modular pieces, the sectional's deep, pillow-topped seat and back cushions are finished with a clean piping welt in a soft, linen-like performance fabric. Arrange and rearrange sectional pieces to fit your changing needs. CB2 exclusive.",
+        "image": "./img/collection/lumis/78.jpg",
+        "thumbnails": [
+           "./img/collection/lumis/78a.jpg",
+           "./img/collection/lumis/78b.jpg",
+           "./img/collection/lumis/78c.jpg",
+           "./img/collection/lumis/78d.jpg"
+        ]
+    },
+    {
+        "id": "79",
+        "color": "White",
+        "price": "$5,196",
+        "fabric": "Fabric ",
+        "features": "126'",
+        "shape": "Rectangle",
+        "designer": " Mermelada Estudio ",
+        "name": "Lumis 4-Piece Modular Snow White Performance Fabric Sectional Sofa",
+        "dimensions":" 126'Wx83.5'Dx27'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Sink into relaxed luxury with this low-slung design by Barcelona-based Mermelada Estudio. Formed of four modular pieces, the sectional's deep, pillow-topped seat and back cushions are finished with a clean piping welt in a soft, linen-like performance fabric. Arrange and rearrange sectional pieces to fit your changing needs. CB2 exclusive.",
+        "image": "./img/collection/lumis/79.jpg",
+        "thumbnails": [
+           "./img/collection/lumis/79a.jpg",
+           "./img/collection/lumis/79b.jpg",
+           "./img/collection/lumis/79c.jpg",
+           "./img/collection/lumis/79d.jpg"
+        ]
+    },
+    {
+        "id": "80",
+        "color": "White",
+        "price": "$1,299",
+        "fabric": "Fabric ",
+        "features": "41'",
+        "shape": "Round/Curved",
+        "designer": " Mermelada Estudio ",
+        "name": "Lumis Snow White Performance Fabric Armless Chair",
+        "dimensions":" 41'Wx42.5'Dx27'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Sink into relaxed luxury with this low-slung design by Mermelada Estudio. Certified sustainable by the Forest Stewardship Council ® (FSC), the armless chair wood frame is paired with deep, pillow-topped seat and back cushions. Soft, linen-like performance fabric is finished with a clean piping welt. Pair with the ottoman or corner chair for a configuration that fits your space. CB2 exclusive.",
+        "image": "./img/collection/lumis/80.jpg",
+        "thumbnails": [
+           "./img/collection/lumis/80a.jpg",
+           "./img/collection/lumis/80b.jpg",
+           "./img/collection/lumis/80c.jpg",
+           "./img/collection/lumis/80d.jpg"
+        ]
+    },
+    {
+        "id": "81",
+        "color": "White",
+        "price": "$1,399",
+        "fabric": "Fabric ",
+        "features": "42.5'",
+        "shape": "Round/Curved",
+        "designer": " Mermelada Estudio ",
+        "name": "Lumis Snow White Performance Fabric Corner Chair",
+        "dimensions":" 42.5'Wx42.5'Dx27'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Sink into relaxed luxury with this low-slung design by Mermelada Estudio. Certified sustainable by the Forest Stewardship Council ® (FSC), the corner chair wood frame is paired with deep, pillow-topped seat and back cushions. Soft, linen-like performance fabric is finished with a clean piping welt. Pair with the ottoman or armless chair for a configuration that fits your space. CB2 exclusive.",
+        "image": "./img/collection/lumis/81.jpg",
+        "thumbnails": [
+           "./img/collection/lumis/81a.jpg",
+           "./img/collection/lumis/81b.jpg",
+           "./img/collection/lumis/81c.jpg",
+           "./img/collection/lumis/81d.jpg"
+        ]
+    },
+    {
+        "id": "82",
+        "color": "Grey",
+        "price": "$1,299",
+        "fabric": "Fabric ",
+        "features": "41'",
+        "shape": "Round/Curved",
+        "designer": " Mermelada Estudio ",
+        "name": "Lumis Grey Performance Fabric Armless Chair",
+        "dimensions":" 41'Wx42.5'Dx27'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Sink into relaxed luxury with this low-slung design by Mermelada Estudio. Certified sustainable by the Forest Stewardship Council ® (FSC), the armless chair wood frame is paired with deep, pillow-topped seat and back cushions. Soft, linen-like performance fabric is finished with a clean piping welt. Pair with the ottoman or corner chair for a configuration that fits your space. CB2 exclusive.",
+        "image": "./img/collection/lumis/82.jpg",
+        "thumbnails": [
+           "./img/collection/lumis/82a.jpg",
+           "./img/collection/lumis/82b.jpg",
+           "./img/collection/lumis/82c.jpg",
+           "./img/collection/lumis/82d.jpg"
+        ]
+    }
+]

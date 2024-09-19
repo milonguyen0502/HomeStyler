@@ -1,0 +1,128 @@
+[
+    {
+        "id": "35",
+        "color": "White",
+        "price": "$1,499",
+        "fabric": "Fabric ",
+        "features": "68'",
+        "shape": "Rectangle",
+        "designer": "Goop",
+        "name": "Gwyneth 68' Boucle Loveseat by goop",
+        "dimensions":"68'Wx36'Dx29'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Plush loveseat from goop is proof that things don't have to be cold and hard to be chic, says Gwyneth Paltrow. We're taking the compromise out of the equation with chic furniture that's to be lived in and loved.Covered in a rich, textural boucle-like fabric, the loveseat feels slightly vintage with a mod silhouette that highlights the high-end upholstery. CB2 exclusive.",
+        "image": "./img/collection/gwyneth/35.jpg",
+        "thumbnails": [
+           "./img/collection/gwyneth/35a.jpg",
+           "./img/collection/gwyneth/35b.jpg",
+           "./img/collection/gwyneth/35c.jpg",
+           "./img/collection/gwyneth/35d.jpg"
+        ]
+    },
+    {
+        "id": "36",
+        "color": "Blue",
+        "price": "$1,499",
+        "fabric": "Fabric ",
+        "features": "68'",
+        "shape": "Rectangle",
+        "designer": "Goop",
+        "name": "Gwyneth 68' Light Blue Velvet Loveseat by goop",
+        "dimensions":"68'Wx36'Dx29'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Plush loveseat from goop is proof that things don't have to be cold and hard to be chic, says Gwyneth Paltrow. We're taking the compromise out of the equation with chic furniture that's to be lived in and loved.Covered in a rich, textural boucle-like fabric, the loveseat feels slightly vintage with a mod silhouette that highlights the high-end upholstery. CB2 exclusive.",
+        "image": "./img/collection/gwyneth/36.jpg",
+        "thumbnails": [
+           "./img/collection/gwyneth/36a.jpg",
+           "./img/collection/gwyneth/36b.jpg",
+           "./img/collection/gwyneth/36c.jpg",
+           "./img/collection/gwyneth/36d.jpg"
+        ]
+    },
+    {
+        "id": "37",
+        "color": "Black",
+        "price": "$1,499",
+        "fabric": "Fabric ",
+        "features": "68'",
+        "shape": "Rectangle",
+        "designer": "Goop",
+        "name": "Gwyneth 68' Black Boucle Loveseat by goop",
+        "dimensions":"68'Wx36'Dx29'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Plush loveseat from goop is proof that things don't have to be cold and hard to be chic, says Gwyneth Paltrow. We're taking the compromise out of the equation with chic furniture that's to be lived in and loved.Covered in a rich, textural boucle-like fabric, the loveseat feels slightly vintage with a mod silhouette that highlights the high-end upholstery. CB2 exclusive.",
+        "image": "./img/collection/gwyneth/37.jpg",
+        "thumbnails": [
+           "./img/collection/gwyneth/37a.jpg",
+           "./img/collection/gwyneth/37b.jpg",
+           "./img/collection/gwyneth/37c.jpg",
+           "./img/collection/gwyneth/37d.jpg"
+        ]
+    },
+    {
+        "id": "38",
+        "color": "White",
+        "price": "$1,000",
+        "fabric": "Fabric ",
+        "features": "33'",
+        "shape": "Round/Curved ",
+        "designer": "Goop",
+        "name": "Gwyneth Ivory Boucle Swivel Chair by goop",
+        "dimensions":"33'Wx35.5'Dx29.5'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Plush swivel chair from goop is proof that things don't have to be cold and hard to be chic, says Gwyneth Paltrow. We're taking the compromise out of the equation with chic furniture that's to be lived in and loved. Covered in a rich, textural boucle-like fabric, the chair feels slightly vintage with a mod silhouette that highlights the high-end upholstery. CB2 exclusive.",
+        "image": "./img/collection/gwyneth/38.jpg",
+        "thumbnails": [
+           "./img/collection/gwyneth/38a.jpg",
+           "./img/collection/gwyneth/38b.jpg",
+           "./img/collection/gwyneth/38c.jpg",
+           "./img/collection/gwyneth/38d.jpg"
+        ]
+    },
+    {
+        "id": "39",
+        "color": "Black",
+        "price": "$1,000",
+        "fabric": "Fabric ",
+        "features": "33'",
+        "shape": "Round/Curved ",
+        "designer": "Goop",
+        "name": "Gwyneth Black Boucle Swivel Chair by goop",
+        "dimensions":"33'Wx35.5'Dx29.5'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Plush swivel chair from goop is proof that things don't have to be cold and hard to be chic, says Gwyneth Paltrow. We're taking the compromise out of the equation with chic furniture that's to be lived in and loved. Covered in a rich, textural boucle-like fabric, the chair feels slightly vintage with a mod silhouette that highlights the high-end upholstery. CB2 exclusive.",
+        "image": "./img/collection/gwyneth/39.jpg",
+        "thumbnails": [
+           "./img/collection/gwyneth/39a.jpg",
+           "./img/collection/gwyneth/39b.jpg",
+           "./img/collection/gwyneth/39c.jpg",
+           "./img/collection/gwyneth/39d.jpg"
+        ]
+    },
+    {
+        "id": "40",
+        "color": "Blue",
+        "price": "$1,000",
+        "fabric": "Fabric ",
+        "features": "33'",
+        "shape": "Round/Curved ",
+        "designer": "Goop",
+        "name": "Gwyneth Light Blue Velvet Swivel Chair by goop",
+        "dimensions":"33'Wx35.5'Dx29.5'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Plush swivel chair from goop is proof that things don't have to be cold and hard to be chic, says Gwyneth Paltrow. We're taking the compromise out of the equation with chic furniture that's to be lived in and loved. Covered in a rich, textural boucle-like fabric, the chair feels slightly vintage with a mod silhouette that highlights the high-end upholstery. CB2 exclusive.",
+        "image": "./img/collection/gwyneth/40.jpg",
+        "thumbnails": [
+           "./img/collection/gwyneth/40a.jpg",
+           "./img/collection/gwyneth/40b.jpg",
+           "./img/collection/gwyneth/40c.jpg",
+           "./img/collection/gwyneth/40d.jpg"
+        ]
+    }
+]

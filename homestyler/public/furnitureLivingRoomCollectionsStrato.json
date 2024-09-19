@@ -1,0 +1,128 @@
+[
+    {
+        "id": "71",
+        "color": "White",
+        "price": "$4,197",
+        "fabric": "Fabric ",
+        "features": "97.5'",
+        "shape": "Rectangle",
+        "designer": " Mermelada Estudio",
+        "name": "Strato 3-Piece L-Shaped Channeled Ivory Performance Fabric Sectional Sofa",
+        "dimensions":" 97.5'Wx98Dx27.5'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Designed by Mermelada Estudio, vintage '70s-inspired sectional sofa is upholstered in a textured performance fabric with plush channel tufting on all sides. Sectional pieces can be configured to suit your space. CB2 exclusive.",
+        "image": "./img/collection/strato/71.jpg",
+        "thumbnails": [
+           "./img/collection/strato/71a.jpg",
+           "./img/collection/strato/71b.jpg",
+           "./img/collection/strato/71c.jpg",
+           "./img/collection/strato/71d.jpg"
+        ]
+    },
+    {
+        "id": "72",
+        "color": "Camel",
+        "price": "$4,197",
+        "fabric": "Fabric ",
+        "features": "97.5'",
+        "shape": "Rectangle",
+        "designer": " Mermelada Estudio",
+        "name": "Strato 4-Piece L-Shaped Camel Brown Velvet Sectional Sofa",
+        "dimensions":" 97.5'Wx98Dx27.5'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Designed by Mermelada Estudio, this vintage '70s-inspired sectional sofa is upholstered in rich camel velvet with plush channel tufting. Luxe doesn't do it justice. Learn more about Mermelada Estudio on our blog. CB2 exclusive.",
+        "image": "./img/collection/strato/72.jpg",
+        "thumbnails": [
+           "./img/collection/strato/7a.jpg",
+           "./img/collection/strato/72b.jpg",
+           "./img/collection/strato/72c.jpg",
+           "./img/collection/strato/72d.jpg"
+        ]
+    },
+    {
+        "id": "73",
+        "color": "Camel",
+        "price": "$4,197",
+        "fabric": "Fabric ",
+        "features": "103'",
+        "shape": "Rectangle",
+        "designer": " Mermelada Estudio",
+        "name": "Strato 103' Extra-Large Camel Velvet Sofa",
+        "dimensions":"  103'Wx38'Dx27.5'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Designed by Mermelada Estudio, this extra-long vintage '70s-inspired sofa is upholstered in rich camel velvet with plush channel tufting on all sides. Luxe doesn't do it justice. CB2 exclusive.",
+        "image": "./img/collection/strato/73.jpg",
+        "thumbnails": [
+           "./img/collection/strato/73a.jpg",
+           "./img/collection/strato/73b.jpg",
+           "./img/collection/strato/73c.jpg",
+           "./img/collection/strato/73d.jpg"
+        ]
+    },
+    {
+        "id": "74",
+        "color": "White",
+        "price": "$4,197",
+        "fabric": "Fabric ",
+        "features": "103'",
+        "shape": "Rectangle",
+        "designer": " Mermelada Estudio",
+        "name": "Strato 103' Channeled Ivory Performance Fabric Sofa",
+        "dimensions":"  103'Wx38'Dx27.5'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Designed by Mermelada Estudio, this extra-long vintage '70s-inspired sofa is upholstered in rich camel velvet with plush channel tufting on all sides. Luxe doesn't do it justice. CB2 exclusive.",
+        "image": "./img/collection/strato/74.jpg",
+        "thumbnails": [
+           "./img/collection/strato/74a.jpg",
+           "./img/collection/strato/74b.jpg",
+           "./img/collection/strato/74c.jpg",
+           "./img/collection/strato/74d.jpg"
+        ]
+    },
+    {
+        "id": "75",
+        "color": "White",
+        "price": "$4,997",
+        "fabric": "Fabric ",
+        "features": "125'",
+        "shape": "Rectangle",
+        "designer": " Mermelada Estudio",
+        "name": "Strato 4-Piece L-Shaped Channeled Ivory Performance Fabric Sectional Sofa",
+        "dimensions":"  125'Wx98'Dx27.5'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Designed by Mermelada Estudio, vintage '70s-inspired sectional sofa is upholstered in a textured performance fabric with plush channel tufting on all sides. Sectional pieces can be configured to suit your space. CB2 exclusive.",
+        "image": "./img/collection/strato/75.jpg",
+        "thumbnails": [
+           "./img/collection/strato/75a.jpg",
+           "./img/collection/strato/75b.jpg",
+           "./img/collection/strato/75c.jpg",
+           "./img/collection/strato/75d.jpg"
+        ]
+    },
+    {
+        "id": "76",
+        "color": "Camel",
+        "price": "$4,997",
+        "fabric": "Fabric ",
+        "features": "125'",
+        "shape": "Rectangle",
+        "designer": " Mermelada Estudio",
+        "name": "Strato 4-Piece L-Shaped Camel Brown Velvet Sectional Sofa",
+        "dimensions":"  125'Wx98'Dx27.5'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Designed by Mermelada Estudio, this vintage '70s-inspired sectional sofa is upholstered in rich camel velvet with plush channel tufting. Luxe doesn't do it justice. Learn more about Mermelada Estudio on our blog. CB2 exclusive.",
+        "image": "./img/collection/strato/76.jpg",
+        "thumbnails": [
+           "./img/collection/strato/76a.jpg",
+           "./img/collection/strato/76b.jpg",
+           "./img/collection/strato/76c.jpg",
+           "./img/collection/strato/76d.jpg"
+        ]
+    }
+]

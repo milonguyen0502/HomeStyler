@@ -1,0 +1,129 @@
+[
+    {
+        "id": "47",
+        "color": "Natural Linen",
+        "price": "$1,999",
+        "fabric": "Fabric ",
+        "features": "92.75'",
+        "shape": "Rectangle",
+        "designer": "Lawson-Fenning",
+        "name": "Corroy 92.75' Natural Linen Sofa",
+        "dimensions":" 92.75'Wx39.5'Dx32'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Built on a thin frame, Italian-inspired sofa brings a sense of lightness despite its oversized proportions. Transitioning easily between formal and informal settings, the sofa's slim silhouette and seamless armrests offer a modern aesthetic, while flange-trimmed linen upholstery in a tonal neutral nods to more traditional influences. CB2 exclusive.",
+        "image": "./img/collection/corroy/47.jpg",
+        "thumbnails": [
+           "./img/collection/corroy/47a.jpg",
+           "./img/collection/corroy/47b.jpg",
+           "./img/collection/corroy/47c.jpg",
+           "./img/collection/corroy/47d.jpg"
+        ]
+    },
+    {
+        "id": "48",
+        "color": "White",
+        "price": "$1,999",
+        "fabric": "Fabric ",
+        "features": "92.75'",
+        "shape": "Rectangle",
+        "designer": "Lawson-Fenning",
+        "name": "Corroy 92.75' White Performance Fabric Sofa",
+        "dimensions":" 92.75'Wx39.5'Dx32'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Built on a thin frame, Italian-inspired sofa brings a sense of lightness despite its oversized proportions. Transitioning easily between formal and informal settings, the sofa's slim silhouette and seamless armrests offer a modern aesthetic, while flange-trimmed linen upholstery in a tonal neutral nods to more traditional influences. CB2 exclusive.",
+        "image": "./img/collection/corroy/48.jpg",
+        "thumbnails": [
+           "./img/collection/corroy/48a.jpg",
+           "./img/collection/corroy/48b.jpg",
+           "./img/collection/corroy/48c.jpg",
+           "./img/collection/corroy/48d.jpg"
+        ]
+    },
+    {
+        "id": "49",
+        "color": "Grey",
+        "price": "$1,999",
+        "fabric": "Fabric ",
+        "features": "92.75'",
+        "shape": "Rectangle",
+        "designer": "Lawson-Fenning",
+        "name": "Corroy Sofa",
+        "dimensions":" 92.75'Wx39.5'Dx32'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Built on a thin frame, Italian-inspired sofa brings a sense of lightness despite its oversized proportions. Transitioning easily between formal and informal settings, the sofa's slim silhouette and seamless armrests offer a modern aesthetic, while flange-trimmed linen upholstery in a tonal neutral nods to more traditional influences. CB2 exclusive.",
+        "image": "./img/collection/corroy/49.jpg",
+        "thumbnails": [
+           "./img/collection/corroy/49a.jpg",
+           "./img/collection/corroy/49b.jpg",
+           "./img/collection/corroy/49c.jpg",
+           "./img/collection/corroy/49d.jpg"
+        ]
+    },
+    {
+        "id": "50",
+        "color": "Natural Linen",
+        "price": "$1,799",
+        "fabric": "Fabric ",
+        "features": "78.75'",
+        "shape": "Rectangle",
+        "designer": "Lawson-Fenning",
+        "name": "Corroy 78.25' Natural Linen Apartment Sofa",
+        "dimensions":" 78.25'Wx39.5'Dx32'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Built on a thin frame, Italian-inspired sofa brings a sense of lightness to smaller spaces. Transitioning easily between formal and informal settings, the sofa's slim silhouette and seamless armrests offer a modern aesthetic, while flange-trimmed linen upholstery in a tonal neutral nods to more traditional influences. CB2 exclusive.",
+        "image": "./img/collection/corroy/50.jpg",
+        "thumbnails": [
+           "./img/collection/corroy/50a.jpg",
+           "./img/collection/corroy/50b.jpg",
+           "./img/collection/corroy/50c.jpg",
+           "./img/collection/corroy/50d.jpg"
+        ]
+    },
+    {
+        "id": "51",
+        "color": "White",
+        "price": "$1,799",
+        "fabric": "Fabric ",
+        "features": "78.75'",
+        "shape": "Rectangle",
+        "designer": "Lawson-Fenning",
+        "name": "Corroy 78.25' White Performance Fabric Apartment Sofa",
+        "dimensions":" 78.25'Wx39.5'Dx32'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Built on a thin frame, Italian-inspired sofa brings a sense of lightness to smaller spaces. Transitioning easily between formal and informal settings, the sofa's slim silhouette and seamless armrests offer a modern aesthetic, while flange-trimmed linen upholstery in a tonal neutral nods to more traditional influences. CB2 exclusive.",
+        "image": "./img/collection/corroy/51.jpg",
+        "thumbnails": [
+           "./img/collection/corroy/51a.jpg",
+           "./img/collection/corroy/51b.jpg",
+           "./img/collection/corroy/51c.jpg",
+           "./img/collection/corroy/51d.jpg"
+        ]
+    },
+    {
+        "id": "52",
+        "color": "Natural Linen",
+        "price": "$1,199",
+        "fabric": "Fabric ",
+        "features": "41.75'",
+        "shape": "Rectangle",
+        "designer": "Lawson-Fenning",
+        "name": "Corroy Natural Linen Chair and a Half",
+        "dimensions":"  41.75'Wx39.5'Dx32'H",
+        "type": "Sofa",
+        "status": "New",
+        "details": "Built on a thin frame, Italian-inspired chair and a half brings a sense of lightness despite its oversized proportions. Transitioning easily between formal and informal settings, the chair's clean lines and slim silhouette offer a modern aesthetic, while flange-trimmed linen upholstery in a tonal neutral nods to more traditional influences. Seamless armrests and super-soft loose cushions make it a perfect spot to curl up. CB2 exclusive.",
+        "image": "./img/collection/corroy/52.jpg",
+        "thumbnails": [
+           "./img/collection/corroy/52a.jpg",
+           "./img/collection/corroy/52b.jpg",
+           "./img/collection/corroy/52c.jpg",
+           "./img/collection/corroy/52d.jpg"
+        ]
+    }
+
+]

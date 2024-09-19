@@ -1,0 +1,82 @@
+[
+    {
+        "id": "25",
+        "designer": "Ceci Thompson",
+        "name": "Faible Collection ",
+        "details": "Designed by Ceci Thompson of Australian-based VUUE exclusively for CB2. Available in Sofa, Sectional, Modular, Chair & Ottoman. Stocked fabrics are ready to deliver. Custom, made-to-order fabrics can be delivered in as little as 6 weeks.",
+        "video": "./img/collection/faible.mp4"
+
+    },
+    {
+        "id": "26",
+        "designer": "Ceci Thompson",
+        "name": "Deseo Collection ",
+        "details": "CB2 exclusive Available in Loveseat, Sofa, Standard & Deep Sectional & Ottoman. Stocked fabrics are ready to deliver. Custom, made-to-order fabrics delivered in as little as 4 weeks",
+        "video": "./img/collection/deseo.mp4"
+
+    },
+    {
+        "id": "27",
+        "designer": "Mermelada Estudio",
+        "name": "Lumis Collection ",
+        "details": "Designed by Barcelona-based Mermelada Estudio exclusively for CB2. Available in modular Sofa, Sectional, Armless Chair & Ottoman. Stocked fabrics are ready to deliver.Custom, made-to-order fabrics delivered in as little as 3 weeks",
+        "video": "./img/collection/deseo.mp4"
+
+    },
+    {
+        "id": "28",
+        "designer": "Mermelada Estudio",
+        "name": "Strato Collection ",
+        "details": "Designed by Barcelona-based Mermelada Estudio exclusively for CB2. Available in Sofa, Sectional & Armless Chair. Stocked fabrics are ready to deliver. Custom, made-to-order fabrics delivered in as little as 9 weeks",
+        "video": "./img/collection/strato.mp4"
+
+    },
+    {
+        "id": "29",
+        "designer": "Mermelada Estudio",
+        "name": "Malea Collection ",
+        "details": "CB2 exclusive. Available in Sofa, Sectional, Oversized Chair & Ottoman. Stocked fabrics are ready to deliver. Custom, made-to-order fabrics delivered in as little as 6 weeks",
+        "video": "./img/collection/malea.mp4"
+
+    },
+    {
+        "id": "30",
+        "designer": "Mermelada Estudio",
+        "name": "Marguerite Collection ",
+        "details": "CB2 exclusive. Available in Sofa, modular Sectional, Armless Chair & Ottoman. Stocked fabrics are ready to deliver. Custom, made-to-order fabrics delivered in as little as 3 weeks",
+        "video": "./img/collection/marguerite.mp4"
+
+    },
+    {
+        "id": "31",
+        "designer": "Ceci Thompson",
+        "name": "Fitz Collection ",
+        "details": "Designed by Ceci Thompson of Australian-based VUUE exclusively for CB2. Available in Loveseat, Sofa & Swivel Chair. Stocked fabrics are ready to deliver. Custom, made-to-order fabrics delivered in as little as 10 weeks",
+        "video": "./img/collection/fitz.mp4"
+
+    },
+    {
+        "id": "32",
+        "designer": "Mermelada Estudio",
+        "name": "Corroy Collection ",
+        "details": "CB2 exclusive. Available in Apartment Sofa, Sofa & Oversized Chair. Stocked fabrics are ready to deliver. Custom, made-to-order fabrics delivered in as little as 4 weeks",
+        "video": "./img/collection/corroy.mp4"
+
+    },
+    {
+        "id": "33",
+        "designer": "Lawson-Fenning",
+        "name": "Muir Collection ",
+        "details": "Designed by Los Angeles-based design Lawson-Fenning exclusively for CB2. Available in Sofa & Swivel Chair. Stocked fabrics are ready to deliver. Custom, made-to-order fabrics delivered in as little as 10 weeks",
+        "video": "./img/collection/muir.mp4"
+
+    },
+    {
+        "id": "34",
+        "designer": "Goop",
+        "name": "Gwyneth Collection ",
+        "details": "Designed by goop exclusively for CB2. Available in Loveseat, Chair & Swivel Chair. Stocked fabrics are ready to deliver. Custom, made-to-order fabrics delivered in as little as 13 weeks",
+        "video": "./img/collection/gwyneth.mp4"
+
+    },
+]
