@@ -1,0 +1,256 @@
+[
+    {
+        "id": "13",
+        "color": "White",
+        "price": "$2,399",
+        "fabric": "Fabric ",
+        "features": "101'",
+        "shape": "Rectangle",
+        "designer": "Mermelada Estudio",
+        "name": "Camden 101' White Performance Fabric Sofa",
+        "dimensions":"101'Wx37'Dx31'H",
+        "type": "Daybed",
+        "status": "New",
+        "details": "Barcelona-based Mermelada Estudio puts a slightly '70s spin on this vintage-inspired sofa, upholstered in pure white performance fabric for a modern-meets-livable take. Wraparound arms add architectural interest, while three loose back cushions keep it comfortable. CB2 exclusive.",
+        "image": "./img/daybed/13.jpg",
+        "thumbnails": [
+           "./img/daybed/13a.jpg",
+           "./img/daybed/13b.jpg",
+           "./img/daybed/13c.jpg",
+           "./img/daybed/13d.jpg"
+        ]
+    },
+    
+    {
+        "id": "14",
+        "color": "White",
+        "price": "$1,999",
+        "fabric": "Fabric ",
+        "features": "98'",
+        "shape": "Rectangle",
+        "designer": "Ceci Thompson",
+        "name": "Fitz 98' Channeled White Boucle Sofa",
+        "dimensions":"97.5'Wx33.5'Dx28'H",
+        "type": "Daybed",
+        "status": "New",
+        "details": "Channel-tufted in rich white boucle, deco-inspired sofa makes a vintage statement wherever it sits. Designed by VUUE and made with wood certified sustainable by the Forest Stewardship Council ® (FSC), the sofa looks good from every angle. CB2 exclusive.",
+        "image": "./img/daybed/14.jpg",
+        "thumbnails": [
+           "./img/daybed/14a.jpg",
+           "./img/daybed/14b.jpg",
+           "./img/daybed/14c.jpg",
+           "./img/daybed/14d.jpg"
+        ]
+    },
+
+    {
+        "id": "15",
+        "color": "White",
+        "price": "$1,999",
+        "fabric": "Fabric ",
+        "features": "100'",
+        "shape": "Rectangle",
+        "designer": "Mermelada Estudio",
+        "name": "Camden 101' White Performance Fabric Sofa",
+        "dimensions":"101'Wx37'Dx31'H",
+        "type": "Daybed",
+        "status": "New",
+        "details": "Durant 100' White Performance Fabric Sofa",
+        "image": "./img/daybed/15.jpg",
+        "thumbnails": [
+           "./img/daybed/15a.jpg",
+           "./img/daybed/15b.jpg",
+           "./img/daybed/15c.jpg",
+           "./img/daybed/15d.jpg"
+        ]
+    },
+    {
+        "id": "16",
+        "color": "Brown ",
+        "price": "$2,199",
+        "fabric": "Fabric ",
+        "features": "84.75'",
+        "shape": "Rectangle",
+        "designer": "Jannis Ellenberger",
+        "name": "Lazar 84.75' Brown Leather and Beige Performance Fabric Daybed",
+        "dimensions":"84.75'Wx36.25'Dx22'H",
+        "type": "Daybed",
+        "status": "New",
+        "details": "Elegant mixed-material daybed from German designer Jannis Ellenberger is deep in profile as it sits low to the ground. Featuring wide channel tufting, the low back is wrapped in a matte leather from Moore & Giles—an organic contrast to the soft cotton-blend seat. Crafted by a third generation tannery, the full-grain leather is finished with a soft wax treatment for subtle tonal variations that make each piece naturally one of a kind. The leather evolves beautifully once upholstered, becoming more matte with wear and use. CB2 exclusive.",
+        "image": "./img/daybed/16.jpg",
+        "thumbnails": [
+           "./img/daybed/16a.jpg",
+           "./img/daybed/16b.jpg",
+           "./img/daybed/16c.jpg",
+           "./img/daybed/16d.jpg"
+        ]
+    },
+    {
+        "id": "17",
+        "color": "Brown ",
+        "price": "$2,799",
+        "fabric": "Fabric ",
+        "features": "92'",
+        "shape": "Rectangle",
+        "designer": "Jannis Ellenberger",
+        "name": "Dorien 92' Tufted Cognac Brown Velvet Sofa",
+        "dimensions":"92'Wx33.5'Dx29.5'H",
+        "type": "Daybed",
+        "status": "New",
+        "details": "A modern take on a classic silhouette, velvet sofa by London-based designer James Patterson is influenced by vintage English designs. Capped with brass ferrules, its tapered walnut legs are crafted by hand to support a long, sleek frame with a tight tufted back cushion and sloped arms. Ideal for more formal lounging. CB2 exclusive.",
+        "image": "./img/daybed/17.jpg",
+        "thumbnails": [
+           "./img/daybed/17a.jpg",
+           "./img/daybed/17b.jpg",
+           "./img/daybed/17c.jpg",
+           "./img/daybed/17d.jpg"
+        ]
+    },
+    {
+        "id": "18",
+        "color": "Brown ",
+        "price": "$2,299",
+        "fabric": "Fabric ",
+        "features": "95''",
+        "shape": "Rectangle",
+        "designer": "Jannis Ellenberger",
+        "name": "Curvo 95' Camel Velvet Sofa by goop",
+        "dimensions":"95'Wx38'Dx30.5'H",
+        "type": "Daybed",
+        "status": "New",
+        "details": "A goop classic, now upholstered in velvet fabric with a camel tone. As Gwyneth Paltrow says, It's a nod to Italian midcentury designs by way of its fluid lines. The undeniably elegant form doesn't sacrifice on comfort, either. Enveloped in a luxe cotton velvet, its soft crescent shape perches on champagne-finish legs for a light and loungey vibe. CB2 exclusive.",
+        "image": "./img/daybed/18.jpg",
+        "thumbnails": [
+           "./img/daybed/18a.jpg",
+           "./img/daybed/18b.jpg",
+           "./img/daybed/18c.jpg",
+           "./img/daybed/18d.jpg"
+        ]
+    },
+    {
+        "id": "19",
+        "color": "Brown ",
+        "price": "$2,299",
+        "fabric": "Fabric ",
+        "features": "81''",
+        "shape": "Rectangle",
+        "designer": "Jannis Ellenberger",
+        "name": "Serafin 81' Brown Leather Daybe",
+        "dimensions":"81'Wx37'Dx26.75'H",
+        "type": "Daybed",
+        "status": "New",
+        "details": "Vintage-inspired daybed by Adam Rogers brings the cool parts of the '70s back in a generously scaled silhouette. Luxe, semi-aniline cowhide leather will patina over time, adding to the had this forever feel, while the wood base sports a mid-tone walnut veneer that lets the vertical grain detail shine through.",
+        "image": "./img/daybed/19.jpg",
+        "thumbnails": [
+           "./img/daybed/19a.jpg",
+           "./img/daybed/19b.jpg",
+           "./img/daybed/19c.jpg",
+           "./img/daybed/19d.jpg"
+        ]
+    },
+    {
+        "id": "20",
+        "color": "Black ",
+        "price": "$3,299",
+        "fabric": "Fabric ",
+        "features": "100''",
+        "shape": "Rectangle",
+        "designer": "Ceci Thompson",
+        "name": "Algora 100' Charcoal Grey Performance Linen Sleeper Sofa",
+        "dimensions":"100'Wx39'Dx33'H",
+        "type": "Daybed",
+        "status": "New",
+        "details": "Designed by VUUE, sleeper sofa offers elevated comfort in a relaxed performance linen. The deep, loungy profile is contrasted by two angled arms that, when paired with the pillow-like cushions, make a perfect spot for an impromptu nap. Featuring a memory foam mattress, the sofa effortlessly stretches out to a queen bed for overnight guests. CB2 exclusive.",
+        "image": "./img/daybed/20.jpg",
+        "thumbnails": [
+           "./img/daybed/20a.jpg",
+           "./img/daybed/20b.jpg",
+           "./img/daybed/20c.jpg",
+           "./img/daybed/20d.jpg"
+        ]
+    },
+    {
+        "id": "21",
+        "color": "Grey ",
+        "price": "$2,899",
+        "fabric": "Fabric ",
+        "features": "86''",
+        "shape": "Rectangle",
+        "designer": "Mermelada Estudio",
+        "name": "Sentosa 86' Grey Performance Fabric Sleeper Sofa",
+        "dimensions":"86'Wx40'Dx31'H",
+        "type": "Daybed",
+        "status": "New",
+        "details": "Sleeper sofa by Barcelona-based Mermelada Estudio sports well-balanced proportions and a distinctive silhouette. Building upon simple and classic lines, the sofa features gently curving side panels that lead to a rounded top and backrest. Memory foam and coil mattress unfurls to create a comfortable guest sleep space, while linen-look performance fabric in grey makes for a well-tailored finish. CB2 exclusive.",
+        "image": "./img/daybed/21.jpg",
+        "thumbnails": [
+           "./img/daybed/21a.jpg",
+           "./img/daybed/21b.jpg",
+           "./img/daybed/21c.jpg",
+           "./img/daybed/21d.jpg"
+        ]
+    },
+    {
+        "id": "22",
+        "color": "Grey ",
+        "price": "$1,299",
+        "fabric": "Fabric ",
+        "features": "84''",
+        "shape": "Rectangle",
+        "designer": "Jannis Ellenberger",
+        "name": "Una 84' Grey Fabric Sleeper Sofa",
+        "dimensions":"84'Wx40'Dx31'H",
+        "type": "Daybed",
+        "status": "New",
+        "details": "Convertible grey sleeper sofa is the am/pm solution for the space-challenged or the friendly out-of-towner. By day, it's a comfy lounge for TV/reading/etc. At night, flip the back all the way down and voilà…a worthy platform bed with real pocketed coil mattress innersprings that sleeps two. CB2 exclusive.",
+        "image": "./img/daybed/22.jpg",
+        "thumbnails": [
+           "./img/daybed/22a.jpg",
+           "./img/daybed/22b.jpg",
+           "./img/daybed/22c.jpg",
+           "./img/daybed/22d.jpg"
+        ]
+    },
+    {
+        "id": "23",
+        "color": "Grey ",
+        "price": "$1,299",
+        "fabric": "Fabric ",
+        "features": "87.75''",
+        "shape": "Rectangle",
+        "designer": "Jannis Ellenberger",
+        "name": "Claremont 87.75' Dark Grey Sleeper Sofa",
+        "dimensions":"87.75'Wx38'Dx31.75'H",
+        "type": "Daybed",
+        "status": "New",
+        "details": "Tailored sofa in charcoal grey menswear-inspired fabric goes from day to night seamlessly. Remove the back cushions, pull up the seat and extend front legs from hidden zipper pockets underneath. Slide the seat forward and fold the back down. No need to pull away from the wall or unfold a heavy mattress. Neat feature: Full-length arms become the headboard and footboard. Sofa sleeps two comfortably. CB2 exclusive.",
+        "image": "./img/daybed/23.jpg",
+        "thumbnails": [
+           "./img/daybed/23a.jpg",
+           "./img/daybed/23b.jpg",
+           "./img/daybed/23c.jpg",
+           "./img/daybed/23d.jpg"
+        ]
+    },
+    {
+        "id": "24",
+        "color": "Grey ",
+        "price": "$2,299",
+        "fabric": "Fabric ",
+        "features": "80''",
+        "shape": "Rectangle",
+        "designer": "Jannis Ellenberger",
+        "name": "Movie 80' Sleeper Sofa",
+        "dimensions":"80'Wx40'Dx27'H",
+        "type": "Daybed",
+        "product status": "New",
+        "details": "This sleeper version of our best-selling Movie Sofa is a two-in-one. The deep down lounge appeal of the sofa we know and love, but with a spacious queen bed inside. It's off with the uni-cushion, then pull out the 5.25' coil/foam mattress in one smooth move.",
+        "image": "./img/daybed/24.jpg",
+        "thumbnails": [
+           "./img/daybed/24a.jpg",
+           "./img/daybed/24b.jpg",
+           "./img/daybed/24c.jpg",
+           "./img/daybed/24d.jpg"
+        ]
+    }
+]

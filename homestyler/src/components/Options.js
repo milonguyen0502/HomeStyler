@@ -6,7 +6,7 @@ function Options(){
             <h1>Modern Furniture</h1>
             <div className="container-menu">
                 <div className="menu-item">
-                <Link>
+                <Link to="/viewoption">
                 <img src="https://tse3.mm.bing.net/th?id=OIP.fCDnfamOf746DrTZMDujrgHaJq&pid=Api&P=0&h=220" alt="Example"  />
                 <p>Living Room Furniture</p>
                 </Link>
