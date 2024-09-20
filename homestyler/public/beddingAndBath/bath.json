@@ -1,0 +1,181 @@
+[{
+    "id": "623",
+    "color": "White",
+    "price": "359",
+    "fabric":"Cotton",
+    "designer": "Brett Beldock",
+    "name": "Brooks Ribbed Organic Cotton White Washcloth",
+    "size": "M",
+    "type":"bath",
+    "details": "Organic cotton with ribbed texture makes the perfect everyday bath towels. Soft, absorbent but not heavy, and classic in clean, bright white.",
+     "image": "/img/bath/623.jpg",
+  
+    "thumbnails": [
+      "./img/bath/623.jpg"
+      
+     
+    ]
+  },
+  {
+    "id": "624",
+    "color": "Grey",
+    "price": "359",
+    "fabric":"Cotton",
+    "designer": "Brett Beldock",
+    "name": "Arlow Organic Cotton Charcoal Grey Washcloth",
+    "size": "M",
+    "type":"bath",
+    "details": "Organic cotton with ribbed texture makes the perfect everyday bath towels. Soft, absorbent but not heavy, and classic in clean, bright white.",
+     "image": "/img/bath/624.jpg",
+  
+    "thumbnails": [
+      "./img/bath/624.jpg"
+      
+     
+    ]
+  },
+  {
+    "id": "625",
+    "color": "Black",
+    "price": "359",
+    "fabric":"Cotton",
+    "designer": "Brett Beldock",
+    "name": "Neela Organic Cotton Black Trim Washcloth",
+    "size": "M",
+    "type":"bath",
+    "details": "Organic cotton with ribbed texture makes the perfect everyday bath towels. Soft, absorbent but not heavy, and classic in clean, bright white.",
+     "image": "/img/bath/625.jpg",
+  
+    "thumbnails": [
+      "./img/bath/625.jpg"
+      
+     
+    ]
+  },
+  {
+    "id": "626",
+    "color": "Black",
+    "price": "359",
+    "fabric":"Cotton",
+    "designer": "Brett Beldock",
+    "name": "Brooks Ribbed Organic Cotton Black Washcloth",
+    "size": "M",
+    "type":"bath",
+    "details": "Organic cotton with ribbed texture makes the perfect everyday bath towels. Soft, absorbent but not heavy, and classic in clean, bright white.",
+     "image": "/img/bath/626.jpg",
+  
+    "thumbnails": [
+      "./img/bath/626.jpg"
+      
+     
+    ]
+  },
+  {
+    "id": "627",
+    "color": "Taupe",
+    "price": "359",
+    "fabric":"Cotton",
+    "designer": "Brett Beldock",
+    "name": "Arlow Organic Cotton Light Taupe Washcloth",
+    "size": "M",
+    "type":"bath",
+    "details": "Organic cotton with ribbed texture makes the perfect everyday bath towels. Soft, absorbent but not heavy, and classic in clean, bright white.",
+     "image": "/img/bath/627.jpg",
+  
+    "thumbnails": [
+      "./img/bath/627.jpg"
+      
+     
+    ]
+  },
+  {
+    "id": "628",
+    "color": "Taupe",
+    "price": "359",
+    "fabric":"Cotton",
+    "designer": "Brett Beldock",
+    "name": "Abbie Organic Cotton Black and White Hand Towel",
+    "size": "M",
+    "type":"bath",
+    "details": "Organic cotton with ribbed texture makes the perfect everyday bath towels. Soft, absorbent but not heavy, and classic in clean, bright white.",
+     "image": "/img/bath/628.jpg",
+  
+    "thumbnails": [
+      "./img/bath/628.jpg"
+      
+     
+    ]
+  },
+  {
+    "id": "629",
+    "color": "Green",
+    "price": "359",
+    "fabric":"Cotton",
+    "designer": "Brett Beldock",
+    "name": "Arlow Organic Cotton Green Washcloth",
+    "size": "M",
+    "type":"bath",
+    "details": "Organic cotton with ribbed texture makes the perfect everyday bath towels. Soft, absorbent but not heavy, and classic in clean, bright white.",
+     "image": "/img/bath/629.jpg",
+  
+    "thumbnails": [
+      "./img/bath/629.jpg"
+      
+     
+    ]
+  },
+  {
+    "id": "630",
+    "color": "Sand",
+    "price": "359",
+    "fabric":"Cotton",
+    "designer": "Brett Beldock",
+    "name": "Kalani Organic Cotton Sand Solid Washcloth",
+    "size": "M",
+    "type":"bath",
+    "details": "Organic cotton with ribbed texture makes the perfect everyday bath towels. Soft, absorbent but not heavy, and classic in clean, bright white.",
+     "image": "/img/bath/630.jpg",
+  
+    "thumbnails": [
+      "./img/bath/630.jpg"
+      
+     
+    ]
+  },
+  {
+    "id": "631",
+    "color": "White",
+    "price": "359",
+    "fabric":"Cotton",
+    "designer": "Brett Beldock",
+    "name": "Brooks Ribbed Organic Cotton Warm White Bath Towel Set",
+    "size": "M",
+    "type":"bath",
+    "details": "Organic cotton with ribbed texture makes the perfect everyday bath towels. Soft, absorbent but not heavy, and classic in clean, bright white.",
+     "image": "/img/bath/631.jpg",
+  
+    "thumbnails": [
+      "./img/bath/631.jpg"
+      
+     
+    ]
+  },
+  {
+    "id": "632",
+    "color": "White",
+    "price": "359",
+    "fabric":"Cotton",
+    "designer": "Brett Beldock",
+    "name": "Arlow Organic Cotton White Bath Towel Set",
+    "size": "M",
+    "type":"bath",
+    "details": "Organic cotton with ribbed texture makes the perfect everyday bath towels. Soft, absorbent but not heavy, and classic in clean, bright white.",
+     "image": "/img/bath/632.jpg",
+  
+    "thumbnails": [
+      "./img/bath/632.jpg"
+      
+     
+    ]
+  }
+]

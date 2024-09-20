@@ -70,21 +70,223 @@
   "color": "Brown",
   "price": "1999",
   "material": "oak ",
-  "features": "80'",
+  "features": "83.25'",
   "shape": "rectangle",
   "designer": "Kravitz Design",
   "name": "Kibo 83feet Steel and Oak Wood Media Console by Kravitz Design",
-  "dimensions":"80'Wx20'H",
+  "dimensions":"83.25'Wx18'Dx24'H",
   "type": "Media Console",
   "status": "New",
   "details": "Kravitz Design combines metal and wood into a striking statement piece. Combining French industrial and Brutalist inspirations, elongated oak frame artfully contrasts with sculptural metal doors for a style both raw and refined. Inside offers ample storage and discreet cord cutouts.",
-  "image":  "./img/storageandmedia/540.jpg",
+  "image":  "./img/storageandmedia/541.jpg",
   "thumbnails": [
      
-    "./img/storageandmedia/540a.jpg",
-    "./img/storageandmedia/540b.jpg",
-    "./img/storageandmedia/540c.jpg"
+    "./img/storageandmedia/541a.jpg",
+    "./img/storageandmedia/541b.jpg",
+    "./img/storageandmedia/541c.jpg"
   
   ]
 },
+{
+  "id": "542",
+  "color": "Brown",
+  "price": "1999",
+  "material": "Walnut ",
+  "features": "57'",
+  "shape": "rectangle",
+  "designer": "VUUE",
+  "name": "Suspend 57feet Walnut Wood Media Console with White Marble Top",
+  "dimensions":"57'Wx19.75'Dx29'H",
+  "type": "Media Console",
+  "status": "New",
+  "details": "Crafted in a fusion of marble, wood and metal, this media console by VUUE spotlights the richness of natural materials. A cool slab of white Carrara-style marble with grey veining tops this statement storage piece, framed by the contrasting warmth of walnut veneer elevated on a framework of matte black iron. Precisely cut panels angle diagonally on the front four cabinet doors, creating an abstract chevron pattern of swirling grain and tones. Emphasizing the beauty of the wood, doors pull open via discreet grooved channels to reveal two adjustable shelves inside. Shelves stop just short of the back of the cabinet to feed cords through hidden cutouts with ease. Scaled slightly taller than our other consoles, this multifunctional design can hide clutter in the entry, store serveware in the dining room or display a flat screen in the living room. Learn about VUUE on our blog.",
+  "image":  "./img/storageandmedia/542.jpg",
+  "thumbnails": [
+     
+    "./img/storageandmedia/542a.jpg",
+    "./img/storageandmedia/542b.jpg",
+    "./img/storageandmedia/542c.jpg"
+  
+  ]
+},
+{
+  "id": "543",
+  "color": "Brown",
+  "price": "1999",
+  "material": "Walnut ",
+  "features": "71'",
+  "shape": "rectangle",
+  "designer": "VUUE",
+  "name": "Trace 71feet Brass Wire Mesh Credenza",
+  "dimensions":" 71'Wx18.25'Dx30.25'H",
+  "type": "Media Console",
+  "status": "New",
+  "details": "Modern wire mesh credenza from Melbourne-based design studio VUUE is framed in wirebrushed oak with a grey finish for a rich, layered look. Inspired by similar designs from the 1960s, brass-plated mesh door fronts create a peak-a-boo effect, ideal for concealing media devices without losing remote functionality. Two adjustable shelves offer versatile storage, while a cutout in the back keeps cords out of sight.",
+  "image":  "./img/storageandmedia/543.jpg",
+  "thumbnails": [
+     
+    "./img/storageandmedia/543a.jpg",
+    "./img/storageandmedia/543b.jpg",
+    "./img/storageandmedia/543c.jpg"
+  
+  ]
+},
+{
+  "id": "544",
+  "color": "Black",
+  "price": "1349",
+  "material": "Walnut ",
+  "features": "71'",
+  "shape": "rectangle",
+  "designer": "VUUE",
+  "name": "Trace 71' Black Wire Mesh Credenza",
+  "dimensions":" 71'Wx18.25'Dx30.25'H",
+  "type": "Media Console",
+  "status": "New",
+  "details": "Modern wire mesh credenza from Melbourne-based design studio VUUE is framed in wirebrushed oak with a grey finish for a rich, layered look. Inspired by similar designs from the 1960s, brass-plated mesh door fronts create a peak-a-boo effect, ideal for concealing media devices without losing remote functionality. Two adjustable shelves offer versatile storage, while a cutout in the back keeps cords out of sight.",
+  "image":  "./img/storageandmedia/544.jpg",
+  "thumbnails": [
+     
+    "./img/storageandmedia/544a.jpg",
+    "./img/storageandmedia/544b.jpg",
+    "./img/storageandmedia/544c.jpg"
+  
+  ]
+},
+{
+  "id": "545",
+  "color": "Brown",
+  "price": "1899",
+  "material": "Walnut ",
+  "features": "82'",
+  "shape": "rectangle",
+  "designer": "Mermelada Estudio",
+  "name": "Carbon 82' Brown Burl Wood Media Console",
+  "dimensions":" 71'Wx18.25'Dx30.25'H",
+  "type": "Media Console",
+  "status": "New",
+  "details": "Mermelada Estudio 's media credenza embodies classic art deco design with its rich burl wood veneer, precisely diamond-matched for symmetry and a pleasing aesthetic. Circular pulls and leg tips made of unlacquered brass warmth and will develop a natural patina with age. Doors open to reveal abundant shelving for books, electronics and other contemporary essentials.",
+  "image":  "./img/storageandmedia/545.jpg",
+  "thumbnails": [
+     
+    "./img/storageandmedia/545a.jpg",
+    "./img/storageandmedia/545b.jpg",
+    "./img/storageandmedia/545c.jpg"
+  
+  ]
+},
+{
+  "id": "546",
+  "color": "White",
+  "price": "1099",
+  "material": "Marble ",
+  "features": "23.5'",
+  "shape": "rectangle",
+  "designer": "VUUE",
+  "name": "Suspend White Marble and Wood Bar Cabinet",
+  "dimensions":"23.5'Wx15'Dx74'H",
+  "type": "Cabinet",
+  "status": "New",
+  "details": "Designed by VUUE, warm walnut veneer frame stands tall with three bar cabinet doors that open to concealed storage. Precisely cut panels angle diagonally across each door to create an abstract chevron pattern of swirling grains and tones. Single open storage space, coolly defined by slabs of white Carrara-style marble on the shelf and in back, sits cabinet-height. Wood and marble cabinet chicly hides guilty-pleasure reads or serves strong drinks in the living room. Learn about VUUE on our blog.",
+  "image":  "./img/storageandmedia/546.jpg",
+  "thumbnails": [
+     
+    "./img/storageandmedia/546a.jpg",
+    "./img/storageandmedia/546b.jpg",
+    "./img/storageandmedia/546c.jpg"
+  
+  ]
+},
+{
+  "id": "547",
+  "color": "Brown",
+  "price": "1099",
+  "material": "Walnut ",
+  "features": "23.5'",
+  "shape": "rectangle",
+  "designer": "Brett Beldock",
+  "name": "Cupla Wood Entryway Cabinet",
+  "dimensions":"23.5'Wx15'Dx74'H",
+  "type": "Cabinet",
+  "status": "New",
+  "details": "Entryway cabinet by Brett Beldock captures attention through rich materiality. Crafted from two tones of fine white oak certified sustainable by the Forest Stewardship Council ® (FSC), its quality is unmistakable. White oak frame showcases cerused-finished doors, which feature marquetry details in a kaleidoscopic pattern. Inside, find organization made effortless with an adjustable shelf, cord management cutouts and a soft-close drawer that glides shut.",
+  "image":  "./img/storageandmedia/547.jpg",
+  "thumbnails": [
+     
+    "./img/storageandmedia/547a.jpg",
+    "./img/storageandmedia/547b.jpg",
+    "./img/storageandmedia/547c.jpg"
+  
+  ]
+},
+{
+  "id": "548",
+  "color": "Brown",
+  "price": "898",
+  "material": "Walnut ",
+  "features": "38'",
+  "shape": "rectangle",
+  "designer": "Mermelada Estudio",
+  "name": "Carbon Brown Burl Wood Entryway Cabinet",
+  "dimensions":"38'Wx15'Dx74'H",
+  "type": "Cabinet",
+  "status": "New",
+  "details": "Modern entry cabinet by Barcelona-based Mermelada Estudio is informed by classic art deco design with its rich burl wood veneer, precisely diamond-matched for symmetry and a pleasing aesthetic. Satin black legs are capped with brass to match the circular brass pulls. Brass is unlacquered, offering a living finish with the patina of a vintage find. ",
+  "image":  "./img/storageandmedia/548.jpg",
+  "thumbnails": [
+     
+    "./img/storageandmedia/548a.jpg",
+    "./img/storageandmedia/548b.jpg",
+    "./img/storageandmedia/548c.jpg"
+  
+  ]
+},
+{
+  "id": "549",
+  "color": "Smoked",
+  "price": "3489",
+  "material": "Oak ",
+  "features": "84'",
+  "shape": "rectangle",
+  "designer": "Mermelada Estudio",
+  "name": "Luciana Smoked Oak Bookcase",
+  "dimensions":"84'Wx14'Dx60.5'H",
+  "type": "Bookcase",
+  "status": "New",
+  "details": "Designed with a contrasting mix of cylindrical pillars and dramatically curved shelves on a plinth base, smoked oak bookcase functions as shelving or a room divider. Generously sized shelves hold books, keepsakes and other treasures. ",
+
+  "image":  "./img/storageandmedia/549.jpg",
+  "thumbnails": [
+     
+    "./img/storageandmedia/549a.jpg",
+    "./img/storageandmedia/549b.jpg",
+    "./img/storageandmedia/549c.jpg"
+  
+  ]
+},
+{
+  "id": "550",
+  "color": "gold",
+  "price": "1439",
+  "material": "Oak ",
+  "features": "84'",
+  "shape": "rectangle",
+  "designer": "VUUE",
+  "name": "Trace Brass Wire Bookcase",
+  "dimensions":"84'Wx14'Dx60.5'H",
+  "type": "Bookcase",
+  "status": "New",
+  "details": "Designed by VUUE, modern brushed oak veneer frame takes on a Mad Men-esque vibe with two tall brass-plated fine wire mesh doors. Rich and textured, mesh creates a peek-a-boo effect, veiling books, objects and collectables in a bit of mystery. Four shelves rest inside the bookcase—the first and the fourth adjust, the middle two are fixed.",
+
+  "image":  "./img/storageandmedia/550.jpg",
+  "thumbnails": [
+     
+    "./img/storageandmedia/550a.jpg",
+    "./img/storageandmedia/550b.jpg",
+    "./img/storageandmedia/550c.jpg"
+  
+  ]
+}
+
+
 ]

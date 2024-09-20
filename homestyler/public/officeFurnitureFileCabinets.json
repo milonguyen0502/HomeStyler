@@ -1,0 +1,50 @@
+[ {
+    "id": "566",
+    "color": "Brown",
+    "price": "1599",
+    "material": "Walnut ",
+    "features": "47.25'",
+    "shape": "10-Drawer",
+    "designer": "Gianfranco Frattini",
+    "name": "Lanzone 10-Drawer Walnut Storage Cabinet by Gianfranco Frattini",
+    "dimensions":"47.25'Wx33.5'Dx34'H",
+    "type": "Storage Cabinet",
+    "status": "New",
+    "details": "Defined by its unexpected mix of materials, black walnut file cabinet from legendary midcentury Italian designer Gianfranco Frattini is grand in scale. Smooth American black walnut veneer adds a natural warmth that contrasts beautifully with the cool grey glass accents and satin black hardware. Designed for one of Frattini's villas, the piece was originally conceived as a storage unit for the dressing area. Roomy drawers store office supplies, clothing or flatware on top with a cabinet at the bottom for larger items.",
+    "image":  "./img/officefilecabinets/566.jpg",
+    "thumbnails": [
+       
+      "./img/officefilecabinets/566a.jpg",
+      "./img/officefilecabinets/566b.jpg",
+      "./img/officefilecabinets/566c.jpg",
+      "./img/officefilecabinets/566d.jpg",
+      "./img/officefilecabinets/566e.jpg",
+      "./img/officefilecabinets/566f.jpg"
+    
+    ]
+  },
+  {
+    "id": "566",
+    "color": "Brown",
+    "price": "1039",
+    "material": "Oak ",
+    "features": "47.25'",
+    "shape": "4-Drawer",
+    "designer": "Gianfranco Frattini",
+    "name": "Inline Black Oak Wood 4-Drawer File Cabinet with Blackened Steel Handles",
+    "dimensions":"47.25'Wx33.5'Dx34'H",
+    "type": "Storage Cabinet",
+    "status": "New",
+    "details": "Familiarity reigns and favorites are reimagined with a splash of LA cool and a fashion edge, says Fred Segal of their eclectic approach to furniture design. Take this mixed-material file cabinet fronted with stripes of blackened nickel inlay. Inspired by vintage flat-file cabinets with tons of tiny drawers, our modern version has only four: two small, one medium and one large for hanging letter or legal files.",
+    "image":  "./img/officefilecabinets/567.jpg",
+    "thumbnails": [
+       
+      "./img/officefilecabinets/567a.jpg",
+      "./img/officefilecabinets/567b.jpg",
+      "./img/officefilecabinets/567c.jpg",
+      "./img/officefilecabinets/567d.jpg",
+      "./img/officefilecabinets/567e.jpg"
+    
+    ]
+  }
+]
