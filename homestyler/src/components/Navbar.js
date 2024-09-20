@@ -15,7 +15,7 @@ function Navbar() {
           <button className="search-button">🔍</button>
         </div>
         <div className="navbar-center">
-          <h1>HomeStyler</h1>
+          <img src="./img/homepage/logo.png" />
         </div>
         <div className="navbar-right">
           <Link to="/cart">

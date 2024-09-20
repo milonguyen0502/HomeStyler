@@ -106,3 +106,7 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+.navbar-center img {
+  width: 100px;
+}
