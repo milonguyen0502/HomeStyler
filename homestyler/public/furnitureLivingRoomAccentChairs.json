@@ -1,0 +1,314 @@
+[
+    {
+        "id": "513",
+        "color": "Green",
+        "price": "1999",
+        "fabric": "Velvet ",
+        "features": "38.5'",
+        "shape": "Swivel base",
+        "designer": " VUUE",
+        "name": "Fitz Channeled Green Velvet Swivel Chair",
+        "dimensions":"38.5'Wx32.5'Dx27.5'H",
+        "type": "accent chair",
+        "status": "New",
+        "details": "Channel-tufted in rich green velvet, deco-inspired swivel chair makes a vintage statement wherever it sits. Designed by VUUE, the chair looks good from every angle.",
+        "image":  "./img/accentchairs/513.jpg",
+        "thumbnails": [
+           
+          "./img/sofas/513a.jpg",
+          "./img/sofas/513b.jpg",
+          "./img/sofas/513c.jpg",
+          "./img/sofas/513d.jpg"
+        ]
+    },
+    {
+        "id": "514",
+        "color": "Green",
+        "price": "1499",
+        "fabric": "Velvet ",
+        "features": "34.5'",
+        "shape": "Swivel base",
+        "designer": " Gianfranco Frattini",
+        "name": "Marconi Tufted Green Velvet Accent Chair by Gianfranco Frattini",
+        "dimensions":"34.5'Wx33'Dx24'H",
+        "type": "accent chair",
+        "status": "New",
+        "details": "This sleek, low accent chair was originally created by iconic Italian designer Gianfranco Frattini for the fashionable Restaurant St. Andrews in the heart of old Milan. Now, a modern classic returns with the same spirit of the original design, reimagined in a rich, olive green-colored velvet with room for four. Period-authentic details include hand-sewn button tufts on the interior sides and cushions, along with the inset walnut legs that are characteristic of the designer's signature style.",
+        "image":  "./img/accentchairs/514.jpg",
+        "thumbnails": [
+           
+          "./img/sofas/514a.jpg",
+          "./img/sofas/514b.jpg",
+          "./img/sofas/514c.jpg",
+          "./img/sofas/514d.jpg"
+        ]
+    },
+    {
+        "id": "515",
+        "color": "Camel Brown",
+        "price": "1299",
+        "fabric": "Boucle ",
+        "features": "34.5'",
+        "shape": "Swivel base",
+        "designer": "Ross Cassidy",
+        "name": "Laszlo Camel Brown Boucle Swivel Chair by Ross Cassidy",
+        "dimensions":"35.5'Wx37'Dx25.5'H",
+        "type": "accent chair",
+        "status": "New",
+        "details": "Boucle swivel chair by Los Angeles-based designer Ross Cassidy strikes the perfect balance between modern style and cloud-like comfort. Floating atop a natural oak swivel base, the curved back hugs a generously cushioned seat. Developed exclusively for CB2, the texture-rich custom boucle features a uniquely fluffy hand for an ultra-plush sit. It's easily one of our most comfortable swivel chairs to date.",
+        "image":  "./img/accentchairs/515.jpg",
+        "thumbnails": [
+           
+          "./img/sofas/515a.jpg",
+          "./img/sofas/515b.jpg",
+          "./img/sofas/515c.jpg",
+          "./img/sofas/515d.jpg"
+        ]
+    },
+    {
+        "id": "516",
+        "color": "Camel Brown",
+        "price": "1299",
+        "fabric": "Velvet ",
+        "features": "34.5'",
+        "shape": "Swivel base",
+        "designer": "Lawson-Fenning",
+        "name": "Muir Camel Velvet Swivel Chair by Lawson-Fenning",
+        "dimensions":"35.5'Wx37'Dx25.5'H",
+        "type": "accent chair",
+        "status": "New",
+        "details": "Swivel chair by Lawson-Fenning draws on the designers' admiration of California interior design in the 1950s and 1960s. Inviting seat fully swivels 360 degrees, appearing to float above a circular base of wood certified sustainable by the Forest Stewardship Council ®. Sumptuous camel-colored velvet finishes things off with a luxurious midcentury-inspired moment.",
+        "image":  "./img/accentchairs/516.jpg",
+        "thumbnails": [
+           
+          "./img/sofas/516a.jpg",
+          "./img/sofas/516b.jpg",
+          "./img/sofas/516c.jpg",
+          "./img/sofas/516d.jpg"
+        ]
+    },
+    {
+        "id": "517",
+        "color": "Blue",
+        "price": "1099",
+        "fabric": "Velvet ",
+        "features": "38.5'",
+        "shape": "Swivel base",
+        "designer": "VUUE",
+        "name": "Gwyneth Light Blue Velvet Swivel Chair by goop",
+        "dimensions":"38.5'Wx32.5'Dx27.5'H",
+        "type": "accent chair",
+        "status": "New",
+        "details": "Plush swivel chair from goop is proof that things don't have to be cold and hard to be chic,says Gwyneth Paltrow. We're taking the compromise out of the equation with chic furniture that's to be lived in and loved.Covered in an ice blue velvet, the chair feels slightly vintage with a mod silhouette that highlights the high-end upholstery.",
+        "image":  "./img/accentchairs/517.jpg",
+        "thumbnails": [
+           
+          "./img/sofas/517a.jpg",
+          "./img/sofas/517b.jpg",
+          "./img/sofas/517c.jpg",
+          "./img/sofas/517d.jpg"
+        ]
+    },
+    {
+        "id": "518",
+        "color": "Rose",
+        "price": "1099",
+        "fabric": "Velvet ",
+        "features": "38.5'",
+        "shape": "Swivel base",
+        "designer": "VUUE",
+        "name": "Fitz Rose Velvet Swivel Chair",
+        "dimensions":"38.5'Wx32.5'Dx27.5'H",
+        "type": "accent chair",
+        "status": "New",
+        "details": "Channel-tufted in rich rose velvet, deco-inspired swivel chair makes a vintage statement wherever it sits. Designed by Ceci Thompson of VUUE and made with wood certified sustainable by the Forest Stewardship Council ® (FSC), the chair looks good from every angle..",
+        "image":  "./img/accentchairs/518.jpg",
+        "thumbnails": [
+           
+          "./img/sofas/518a.jpg",
+          "./img/sofas/518b.jpg",
+          "./img/sofas/518c.jpg",
+          "./img/sofas/518d.jpg"
+        ]
+    },
+    {
+        "id": "519",
+        "color": "White",
+        "price": "1299",
+        "fabric": "Boucle ",
+        "features": "35.5'",
+        "shape": "Swivel base",
+        "designer": "Ross Cassidy",
+        "name": "Laszlo Warm White Boucle Swivel Chair by Ross Cassidy",
+        "dimensions":"35.5'Wx37'Dx25.5'H",
+        "type": "accent chair",
+        "status": "New",
+        "details": "Boucle swivel chair by Los Angeles-based designer Ross Cassidy strikes the perfect balance between modern style and cloud-like comfort. Floating atop a natural oak swivel base, the curved back hugs a generously cushioned seat. Developed exclusively for CB2, the texture-rich custom boucle features a uniquely fluffy hand for an ultra-plush sit. It's easily one of our most comfortable swivel chairs to date.",
+        "image":  "./img/accentchairs/519.jpg",
+        "thumbnails": [
+           
+          "./img/sofas/519a.jpg",
+          "./img/sofas/519b.jpg",
+          "./img/sofas/519c.jpg",
+          "./img/sofas/519d.jpg"
+        ]
+    },
+    {
+        "id": "520",
+        "color": "White",
+        "price": "899",
+        "fabric": "Performance ",
+        "features": "26'",
+        "shape": "Swivel base",
+        "designer": "Jannis Ellenberger",
+        "name": "LImogene White Performance Fabric Lounge Chair",
+        "dimensions":"26'Wx31'Dx31.5'H",
+        "type": "accent chair",
+        "status": "New",
+        "details": "From German designer Jannis Ellenberger comes a lounge chair that blends modern, traditional and playful details. Black hammered steel arms and legs support cushions upholstered in white textured basketweave performance fabric.",
+        "image":  "./img/accentchairs/520.jpg",
+        "thumbnails": [
+           
+          "./img/sofas/520a.jpg",
+          "./img/sofas/520b.jpg",
+          "./img/sofas/520c.jpg",
+          "./img/sofas/520d.jpg"
+        ]
+    },
+    {
+        "id": "521",
+        "color": "Brown",
+        "price": "1299",
+        "fabric": "Leather ",
+        "features": "32.5'",
+        "shape": "Swivel base",
+        "designer": "Brett Beldock",
+        "name": "LAbruzzo Brown Leather Tufted Chair",
+        "dimensions":"32.5'Wx34'Dx28'H",
+        "type": "accent chair",
+        "status": "New",
+        "details": "Rich, buttery leather covers a solid hardwood frame in perfectly worn-in texture and craftsmanship. Brett Beldock's spacious accent chair feels elevated with tufts running across the seat and back, generously draping the arms in full-grain leather that will only get better with age. Learn more about Brett Beldock on our blog.",
+        "image":  "./img/accentchairs/521.jpg",
+        "thumbnails": [
+           
+          "./img/sofas/521a.jpg",
+          "./img/sofas/521b.jpg",
+          "./img/sofas/521c.jpg",
+          "./img/sofas/521d.jpg"
+        ]
+    },
+    {
+        "id": "522",
+        "color": " Caramel Brown",
+        "price": "1299",
+        "fabric": "Leather ",
+        "features": "35.5'",
+        "shape": "Swivel base",
+        "designer": "Ross Cassidy",
+        "name": "Laszlo Caramel Brown Leather Swivel Chair by Ross Cassidy",
+        "dimensions":"35.5'Wx37'Dx25.5'H",
+        "type": "accent chair",
+        "status": "New",
+        "details": "Honey brown leather swivel chair by Los Angeles-based designer Ross Cassidy strikes the perfect balance between modern style and cloud-like comfort. Floating atop a natural oak swivel base, the curved back hugs a generously cushioned seat upholstered in Moore & Giles ® polished full-grain leather. The leather's burnished surface is complemented by a velvety texture that will become more visually appealing with age and wear. Naturally milled for a super-soft hand, it's easily one of our most comfortable leather chairs to date.",
+        "image":  "./img/accentchairs/522.jpg",
+        "thumbnails": [
+           
+          "./img/sofas/522a.jpg",
+          "./img/sofas/522b.jpg",
+          "./img/sofas/522c.jpg",
+          "./img/sofas/522d.jpg"
+        ]
+    },
+    {
+        "id": "523",
+        "color": " Caramel Brown",
+        "price": "1999",
+        "fabric": "Shearling ",
+        "features": "31'",
+        "shape": "Swivel base",
+        "designer": " Paul McCobb",
+        "name": "Pull-Up Shearling Lounge Chair Model 1321 by Paul McCobb",
+        "dimensions":"31'Wx32'Dx36.5'H",
+        "type": "accent chair",
+        "status": "New",
+        "details": "Open-arm lounge chair by Paul McCobb sports genuine shearling upholstery on a black satin FSC ®-certified beechwood frame. Has a bit of an oversized feel to it despite not having that large of a footprint—perfect for a bedroom or living room corner.",
+        "image":  "./img/accentchairs/523.jpg",
+        "thumbnails": [
+           
+          "./img/sofas/523a.jpg",
+          "./img/sofas/523b.jpg",
+          "./img/sofas/523c.jpg",
+          "./img/sofas/523d.jpg"
+        ]
+    },
+    {
+        "id": "524",
+        "color": "White",
+        "price": "1049",
+        "fabric": "Linen and Shearling ",
+        "features": "27.75'",
+        "shape": "Swivel base",
+        "designer": "Ross Cassidy",
+        "name": "Jed Linen and Shearling Chair with Natural Legs by Ross Cassidy",
+        "dimensions":"27.75'Wx31.25'Dx31.5'H",
+        "type": "accent chair",
+        "status": "New",
+        "details": "In true Ross Cassidy fashion, this linen chair takes a conventional silhouette and flips it on its head. And by head, we mean a seat cushion upholstered in real shearling and a frame of FSC ®-certified wood. A variation in feet only adds to the charm, with the front wrapped in suede and the back shaped like horns.",
+        "image":  "./img/accentchairs/524.jpg",
+        "thumbnails": [
+           
+          "./img/sofas/524a.jpg",
+          "./img/sofas/524b.jpg",
+          "./img/sofas/524c.jpg",
+          "./img/sofas/524d.jpg"
+        ]
+    },
+    {
+        "id": "525",
+        "color": " Caramel Brown",
+        "price": "1599",
+        "fabric": "Leather ",
+        "features": "35.5'",
+        "shape": "Swivel base",
+        "designer": "Jannis Ellenberger",
+        "name": "Brace Saddle Leather Chair",
+        "dimensions":"43.75'Wx39.5'Dx28.25'H",
+        "type": "accent chair",
+        "status": "New",
+        "details": "1970s Italian-inspired chair designed by Jannis Ellenberger makes lounging look vintage. Curvaceous design is wrapped in rich, buttery leather with natural distressing that only adds to the beauty of this piece. Four metal braces add structural detail to each end. Luxe seat is low, deep and so easy to sink into. Learn more about Jannis Ellenberger on our blog.",
+        "image":  "./img/accentchairs/525.jpg",
+        "thumbnails": [
+           
+          "./img/sofas/525a.jpg",
+          "./img/sofas/525b.jpg",
+          "./img/sofas/525c.jpg",
+          "./img/sofas/525d.jpg"
+        ]
+    },
+    {
+        "id": "526",
+        "color": "Beige",
+        "price": "1599",
+        "fabric": "Leather ",
+        "features": "35.5'",
+        "shape": "Swivel base",
+        "designer": "Jannis Ellenberger",
+        "name": "Hada Armless Beige Leather Lounge Chair",
+        "dimensions":"35.5'Wx37'Dx25.5'H",
+        "type": "accent chair",
+        "status": "New",
+        "details": "Drawing on 1970s Italian modernism, armless chair by Jannis Ellenberger has a voluminous look and firm sit made for lounging. Polished stainless steel frame complements buttery-soft beige Moore & Giles leather. Imported from New Zealand, the meticulously pleated leather will develop a beautiful patina over time.",
+        "image":  "./img/accentchairs/526.jpg",
+        "thumbnails": [
+           
+          "./img/sofas/526a.jpg",
+          "./img/sofas/526b.jpg",
+          "./img/sofas/526c.jpg",
+          "./img/sofas/526d.jpg"
+        ]
+    }
+   
+    
+
+
+]

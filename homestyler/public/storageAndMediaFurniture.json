@@ -1,0 +1,90 @@
+[
+    {
+        "id": "539",
+        "color": "Brown",
+        "price": "1999",
+        "material": "Ash ",
+        "features": "84'",
+        "shape": "rectangle",
+        "designer": "Nicholas Obeid",
+        "name": "Shutter 84feet Ash Wood Media Console",
+        "dimensions":"84'Wx20'H",
+        "type": "Media Console",
+        "status": "New",
+        "details": "Media cabinet by Nicholas Obeid sports a natural ash finish that shows off the quartersawn wood grain. Ingenious door design is slightly angled for ease of opening and creates an intriguing visual illusion, while interior shelves offer abundant storage space. ",
+        "image":  "./img/storageandmedia/539.jpg",
+        "thumbnails": [
+           
+          "./img/storageandmedia/539a.jpg",
+          "./img/storageandmedia/539b.jpg",
+          "./img/storageandmedia/539c.jpg"
+         
+        ]
+    },
+    {
+      "id": "540",
+      "color": "black",
+      "price": "1999",
+      "material": "oak ",
+      "features": "80'",
+      "shape": "rectangle",
+      "designer": "Mermelada Estudio",
+      "name": "Roane 80feet Black Oak Media Console",
+      "dimensions":"80'Wx20'H",
+      "type": "Media Console",
+      "status": "New",
+      "details": "Minimalist black oak media console by Barcelona-based Mermelada Estudio is designed to give full expression to the wood. The streamlined silhouette reveals a juxtaposition of crisp corners and rounded legs that finish in an arc at each end. Topped with a slab of polished Marquina black marble, each piece features veining and activity that only add to the drama.",
+      "image":  "./img/storageandmedia/540.jpg",
+      "thumbnails": [
+         
+        "./img/storageandmedia/540a.jpg",
+        "./img/storageandmedia/540b.jpg",
+        "./img/storageandmedia/540c.jpg"
+      
+      ]
+  },
+  {
+    "id": "540",
+    "color": "Brown",
+    "price": "1999",
+    "material": "oak ",
+    "features": "80'",
+    "shape": "rectangle",
+    "designer": "Kravitz Design",
+    "name": "Kibo 83feet Steel and Oak Wood Media Console by Kravitz Design",
+    "dimensions":"80'Wx20'H",
+    "type": "Media Console",
+    "status": "New",
+    "details": "Kravitz Design combines metal and wood into a striking statement piece. Combining French industrial and Brutalist inspirations, elongated oak frame artfully contrasts with sculptural metal doors for a style both raw and refined. Inside offers ample storage and discreet cord cutouts.",
+    "image":  "./img/storageandmedia/540.jpg",
+    "thumbnails": [
+       
+      "./img/storageandmedia/540a.jpg",
+      "./img/storageandmedia/540b.jpg",
+      "./img/storageandmedia/540c.jpg"
+    
+    ]
+},
+{
+  "id": "541",
+  "color": "Brown",
+  "price": "1999",
+  "material": "oak ",
+  "features": "80'",
+  "shape": "rectangle",
+  "designer": "Kravitz Design",
+  "name": "Kibo 83feet Steel and Oak Wood Media Console by Kravitz Design",
+  "dimensions":"80'Wx20'H",
+  "type": "Media Console",
+  "status": "New",
+  "details": "Kravitz Design combines metal and wood into a striking statement piece. Combining French industrial and Brutalist inspirations, elongated oak frame artfully contrasts with sculptural metal doors for a style both raw and refined. Inside offers ample storage and discreet cord cutouts.",
+  "image":  "./img/storageandmedia/540.jpg",
+  "thumbnails": [
+     
+    "./img/storageandmedia/540a.jpg",
+    "./img/storageandmedia/540b.jpg",
+    "./img/storageandmedia/540c.jpg"
+  
+  ]
+},
+]

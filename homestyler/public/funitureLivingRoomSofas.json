@@ -1,0 +1,279 @@
+[  {
+    "id": "1",
+    "color": "nomad snow",
+    "price": "2299",
+    "fabric": "Performance ",
+    "features": "95'",
+    "shape": "reactangle",
+    "designer": "Ceci Thompson",
+
+    "name": "Ceva 103 Light Blue Performance Velvet Sofa",
+   
+    "dimensions": "102feet Wx41Dx29 H",
+    "product status": "new",
+    "details": " I wanted Ceva to have interest from all angles, says designer Ceci  Thompson of the Melbourne-based design studio VUUE. Framed in kiln-dried hardwood for durability, the sofa's wide frame wraps around the long bench seat and back cushions in one continuous line for  a low, loungy seat. Plush feather and down cushions ensure long-lasting comfort while softening the design's strong lines.Upholstered in an icy blue performance velvet for a pop of color. CB2 exclusive.",
+      "image": "/img/sofas/1.jpg",
+
+        "thumbnails": [
+           
+          "./img/sofas/1a.jpg",
+          "./img/sofas/1b.jpg",
+          "./img/sofas/1c.jpg",
+          "./img/sofas/1d.jpg"
+        ]
+    },
+    {
+        "id": "2",
+        "color": "nomad snow",
+    "price":"2699",
+    "fabric": "Performance",
+    "features": "102'",
+    "shape": "rectangle",
+    "designer": "Ceci Thompson",
+    "name": "Marguerite 102' White Performance Fabric Sofa",
+    "dimensions": "102feet Wx41 Dx29 H",
+   "type":"sofa",
+    "status": "new",
+    "details": "Perfectly proportioned in scale, long white sofa has a slim frame that cuts a confident silhouette. Quality is apparent throughout, with a kiln-dried wooden frame certified by the Forest Stewardship Council ® and thick foam-core cushions generously filled with a feather blend for exceptional comfort. The piece is upholstered in an easy-to-clean Crypton® performance fabric that feels like a plush chenille with a hint of linen, giving it a soft texture designed to withstand plenty of wear while retaining its casually elegant feel. CB2 exclusive.",
+    "image": "./img/sofas/2.jpg",
+    "thumbnails": [
+      
+       "./img/sofas/2a.jpg",
+       "./img/sofas/2b.jpg",
+       "./img/sofas/2c.jpg",
+       "./img/sofas/2d.jpg"
+    ]
+
+},
+{
+    "id": "3",
+    "color": "White",
+    "price": "1999",
+    "fabric": "Performance",
+    "features": "100'",
+    "shape": "rectangle",
+    "designer": "Ceci Thompson",
+    "name": "Faible 100feet White Performance Fabric Sofa",
+  
+    "status": "new",
+    "details": "Sofa by Ceci Thompson of VUUE makes a bold statement. Simple frame is benchmade in North Carolina of American and global materials including wood certified sustainable by the Forest Stewardship Council ® and kiln-dried for superior durability. The sofa's structure contrasts with loose cushions, all fully upholstered in white Crypton performance fabric with a linen look and handfeel. A long, plush bench cushion makes this a striking design moment that's well-equipped for everyday living. CB2 exclusive.",
+    "dimensions": "100.75'Wx35.5'Dx29.5'H",
+    "image":  "./img/sofas/3.jpg",
+    "thumbnails": [
+      
+      "./img/sofas/3a.jpg",
+      "./img/sofas/3b.jpg",
+      "./img/sofas/3c.jpg",
+      "./img/sofas/3d.jpg"
+    ]
+
+},
+{
+    "id": "4",
+    "color": "Green",
+    "price": "1499",
+    "fabric": "Velvet",
+    "features": "72.5'",
+    "shape": "circle",
+    "designer": "Ceci Thompson",
+    "name": "Fitz 72.5feet Channeled Green Velvet Loveseat",
+  
+    "status": "new",
+    "details": "Sofa by Ceci Thompson of VUUE makes a bold statement. Simple frame is benchmade in North Carolina of American and global materials including wood certified sustainable by the Forest Stewardship Council ® and kiln-dried for superior durability. The sofa's structure contrasts with loose cushions, all fully upholstered in white Crypton performance fabric with a linen look and handfeel. A long, plush bench cushion makes this a striking design moment that's well-equipped for everyday living. CB2 exclusive.",
+    "dimensions": "72.5'Wx33'Dx28'H",
+    "image":  "./img/sofas/4.jpg",
+    "thumbnails": [
+     
+      "./img/sofas/4a.jpg",
+      "./img/sofas/4b.jpg",
+      "./img/sofas/4c.jpg",
+      "./img/sofas/4d.jpg"
+    ]
+},
+{
+    "id": "5",
+    "color": "Green",
+    "price": "2799",
+    "fabric": "Velvet",
+    "features": "78'",
+    "shape": "rectangle",
+    "designer": "Ceci Thompson",
+    "name": "Malea 78feet Green Velvet Apartment Sofa",
+  
+    "status": "new",
+    "details": "The Malea apartment sofa is the perfect balance of refined, modern style and inviting comfort. Featuring a frame hand-assembled in America from kiln-dried, precision-cut wood with reinforced joinery for durability, the sofa's slim track arms give the piece a sense of lightness despite its oversized proportions. Rich green striated velvet woven by a mill operating for six generations in South Carolina offers plush texture, while a welt trim along the frame and cushions keeps the look neat. Packed with an ultra-comfortable feather-and-down blend, the deep cushions are key to the sofa's lounge-worthy appeal while giving it just the right amount of support. CB2 exclusive.",
+    "dimensions": " 77.5'Wx40.5'Dx31'H",
+    "image":  "./img/sofas/5.jpg",
+    "thumbnails": [
+       
+      "./img/sofas/5a.jpg",
+      "./img/sofas/5b.jpg",
+      "./img/sofas/5c.jpg",
+      "./img/sofas/5d.jpg"
+    ]
+},
+{
+    "id": "6",
+    "color": "White",
+    "price": "1999",
+    "fabric": "Performance",
+    "features": "100'",
+    "shape": "rectangle",
+    "designer": "Ceci Thompson",
+    "name": "Strato 80feet Channeled Ivory Performance Fabric Sofa",
+  
+    "status": "new",
+    "details": "Designed by Mermelada Estudio, vintage '70s-inspired sofa is upholstered in a textured performance fabric with plush channel tufting on all sides. CB2 exclusive.",
+
+  "dimensions": "80'Wx38'Dx27.5'H",
+    "image":  "./img/sofas/6.jpg",
+    "thumbnails": [
+      
+      "./img/sofas/6a.jpg",
+      "./img/sofas/6b.jpg",
+      "./img/sofas/6c.jpg",
+      "./img/sofas/6d.jpg"
+    ]
+},
+{
+    "id": "7",
+    "color": "Green",
+    "price": "2999",
+    "fabric": "Velvet",
+    "features": " 105'",
+    "shape": "rectangle",
+    "designer": "Gianfranco Frattini",
+    "name": "Marconi 105feet Tufted Green Velvet Sofa by Gianfranco Frattini",
+  
+    "status": "new",
+    "details": "Sofa by Ceci Thompson of VUUE makes a bold statement. Simple frame is benchmade in North Carolina of American and global materials including wood certified sustainable by the Forest Stewardship Council ® and kiln-dried for superior durability. The sofa's structure contrasts with loose cushions, all fully upholstered in white Crypton performance fabric with a linen look and handfeel. A long, plush bench cushion makes this a striking design moment that's well-equipped for everyday living. CB2 exclusive.",
+
+    "dimensions": "105'Wx33'Dx24'H",
+    "image":  "./img/sofas/7.jpg",
+    "thumbnails": [
+     
+      "./img/sofas/7a.jpg",
+      "./img/sofas/7b.jpg",
+      "./img/sofas/7c.jpg",
+      "./img/sofas/7d.jpg"
+    ]
+},
+{
+    "id": "8",
+    "color": "blue",
+    "price": "1999",
+    "fabric": "Performance Velvet ",
+    "features": "103'",
+    "shape": "rectangle",
+    "designer": "Ceci Thompson",
+    "name": "Ceva 103feet Light Blue Performance Velvet Sofa ",
+  
+    "status": "new",
+    "details": "Sofa by Ceci Thompson of VUUE makes a bold statement. Simple frame is benchmade in North Carolina of American and global materials including wood certified sustainable by the Forest Stewardship Council ® and kiln-dried for superior durability. The sofa's structure contrasts with loose cushions, all fully upholstered in white Crypton performance fabric with a linen look and handfeel. A long, plush bench cushion makes this a striking design moment that's well-equipped for everyday living. CB2 exclusive.",
+    "dimensions": "103'Wx38'Dx31'H",
+    "image":  "./img/sofas/8.jpg",
+    "thumbnails": [
+      
+      "./img/sofas/8a.jpg",
+      "./img/sofas/8b.jpg",
+      "./img/sofas/8c.jpg",
+      "./img/sofas/8d.jpg"
+    ]
+},
+{
+"id": "9",
+        "color": "Blue",
+        "price": "1999",
+        "fabric": "Velvet",
+        "features": "68'",
+        "shape": "circle",
+        "designer": "goop",
+        "name": "Gwyneth 68feet Light Blue Velvet Loveseat by goop",
+      
+        "status": "new",
+        "details": "Sofa by Ceci Thompson of VUUE makes a bold statement. Simple frame is benchmade in North Carolina of American and global materials including wood certified sustainable by the Forest Stewardship Council ® and kiln-dried for superior durability. The sofa's structure contrasts with loose cushions, all fully upholstered in white Crypton performance fabric with a linen look and handfeel. A long, plush bench cushion makes this a striking design moment that's well-equipped for everyday living. CB2 exclusive.",
+
+        "dimensions": "68'Wx35'Dx29.25'H",
+        "image":  "./img/sofas/9.jpg",
+        "thumbnails": [
+          
+          "./img/sofas/9a.jpg",
+          "./img/sofas/9b.jpg",
+          "./img/sofas/9c.jpg",
+          "./img/sofas/9d.jpg"
+        ]
+},
+{
+"id": "10",
+        "color": "Leather",
+        "price": "3999",
+        "fabric": "Tufted Saddle Leather",
+        "features": " 81.5'",
+        "shape": "rectangle",
+        "designer": "Gianfranco Frattini",
+        "name": "Marconi 81.5feet Tufted Saddle Leather Sofa by Gianfranco Frattini",
+      
+        "status": "new",
+        "details": "This sleek, low sofa was originally created by iconic Italian designer Gianfranco Frattini for the fashionable Restaurant St. Andrews in the heart of old Milan. Now, a modern classic returns with the same spirit of the original design, reimagined in full-grain saddle leather. Semi-aniline cowhide is gently polished for a smooth hand that showcases its natural markings. Period-authentic details include hand-pulled button tufts on the interior sides and cushions, along with the inset American black walnut legs that are characteristic of the designer's signature style. CB2 exclusive.",
+
+        "dimensions": "81.5'Wx33'Dx24'H",
+        "image":  "./img/sofas/10.jpg",
+        "thumbnails": [
+          
+          "./img/sofas/10a.jpg",
+          "./img/sofas/10b.jpg",
+          "./img/sofas/10c.jpg",
+          "./img/sofas/10d.jpg"
+        ]
+},
+{
+    "id": "11",
+    "color": "Leather",
+    "price": "3499",
+
+
+    "fabric": " Saddle Leather",
+    "features": "88'",
+    "shape": "circle",
+    "designer": "Studio ANANSI",
+    "name": "Rodez 88feet Saddle Leather Apartment Sofa",
+  
+    "status": "new",
+    "details": "Low-slung leather apartment sofa by Studio ANANSI is a modern classic. Featuring a welt trim along the perimeter, the oversized frame is wrapped in Moore & Giles full-grain leather with a delicate ruched detail. Crafted by a third generation tannery, the hand-stained leather upholstery is individually selected for its inherent markings and characteristics for a naturally worn-in aesthetic. CB2 exclusive.",
+
+
+    "dimensions": "88'Wx40'Dx26.5'H",
+    "image":  "./img/sofas/11.jpg",
+    "thumbnails": [
+      
+      "./img/sofas/11a.jpg",
+      "./img/sofas/11b.jpg",
+      "./img/sofas/11c.jpg",
+      "./img/sofas/11d.jpg"
+    ]
+},
+{
+    "id": "12",
+    "color": "Copper Brown",
+    "price": "2799",
+    "fabric": "Leather",
+    "features": "94.5'",
+    "shape": "rectangle",
+    "designer": "goop",
+    "name": "Deseo 94.5feet Copper Brown Leather  Sofa",
+  
+    "status": "new",
+    "details": "Upholstered in a lush copper performance Leather, large-scale sofa sits low to the ground with pillow-like detached cushions and wide arms for modern appeal. French seams add a tailored finish. Combine with other Deseo sectional pieces for a configuration that suits your space. CB2 exclusive.",
+
+    "dimensions": "94.5'Wx44'Dx30'H'",
+    "image":  "./img/sofas/12.jpg",
+    "thumbnails": [
+       
+      "./img/sofas/12a.jpg",
+      "./img/sofas/12b.jpg",
+      "./img/sofas/12c.jpg",
+      "./img/sofas/12d.jpg"
+    ]
+}
+
+]
