@@ -1,78 +1,96 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
-import '../css/Footer.css';
+import '../css/footer.css'; 
 
-function Footer() {
+const Footer = () => {
   return (
-    <div className="footer-container">
-      <div className="contact">
-        <div>
-          <h3>Stay in the loop</h3>
-          <p>We'd love to hear from you! Send us your questions, comments, or ideas.</p>
-          <form>
-            <input className="input1" placeholder="Your email address" />
-            <input className='input2' type="submit" value="Sign up" />
-          </form>
+    <footer>
+      <div className="footer-top">
+        <div className="footer-item">
+          <h3>ORDERS</h3>
+          <p>Find out when your purchase will arrive or schedule a delivery.</p>
+          <a href="#">TRACK ORDER</a> | <a href="#">SCHEDULE DELIVERY</a>
         </div>
-        <div>
-          <h3>Follow us</h3>
-          <div className="btn-social">
-            <button className='btn-1'><i className="fa fa-facebook" aria-hidden="true"></i></button>
-            <button><i className="fa fa-twitter" aria-hidden="true"></i></button>
-            <button><i className="fa fa-envelope-o" aria-hidden="true"></i></button>
+        <div className="footer-item">
+          <h3>CONTACT US & STORE LOCATOR</h3>
+          <p>Questions? Text us: <a href="tel:+15103992206">(510) 399-2206</a></p>
+          <a href="#">CHAT WITH US</a> | <a href="#">LEAVE FEEDBACK</a> | <a href="#">FIND A STORE</a>
+        </div>
+        <div className="footer-item">
+          <h3>CB2 CREDIT CARD</h3>
+          <p>Earn Reward Dollars every time you shop* (excluding special financing purchases), plus get access to special offers and events.</p>
+          <a href="#">APPLY NOW</a> | <a href="#">MANAGE YOUR ACCOUNT</a>
+        </div>
+        <div className="footer-item">
+          <h3>OUR IOS APP</h3>
+          <p>Shop exclusive first looks, get personalized alerts and manage your registry faster and easier than ever before.</p>
+        </div>
+      </div>
+
+      <hr />
+
+      <div className="footer-bottom">
+        <div className="footer-links">
+          <div className="footer-column">
+            <h4>HELP</h4>
+            <a href="#">CUSTOMER SERVICE</a>
+            <a href="#">ACCOUNT</a>
+            <a href="#">RETURN POLICY</a>
+            <a href="#">SHIPPING INFORMATION</a>
+            <a href="#">PRODUCT RECALLS</a>
+            <a href="#">EMAIL & TEXT PREFERENCES</a>
+            <a href="#">SIGN UP FOR TEXTS</a>
+          </div>
+
+          <div className="footer-column">
+            <h4>RESOURCES</h4>
+            <a href="#">FREE DESIGN SERVICES</a>
+            <a href="#">GIFT REGISTRY</a>
+            <a href="#">GIFT CARDS</a>
+            <a href="#">CATALOGS</a>
+            <a href="#">TRADE PROGRAM</a>
+            <a href="#">CONTRACT GRADE FURNITURE</a>
+          </div>
+
+          <div className="footer-column">
+            <h4>OUR COMPANY</h4>
+            <a href="#">ABOUT US</a>
+            <a href="#">CAREERS</a>
+            <a href="#">RESPONSIBLE DESIGN</a>
+            <a href="#">ACCESSIBILITY STATEMENT</a>
+          </div>
+
+          <div className="footer-column">
+            <h4>SHOW US YOUR LOOK WITH #MYCB2</h4>
+            <a href="#"><i className="fa fa-instagram"></i></a>
+            <a href="#"><i className="fa fa-tiktok"></i></a>
+            <a href="#"><i className="fa fa-pinterest"></i></a>
+            <a href="#"><i className="fa fa-youtube"></i></a>
+            <a href="#"><i className="fa fa-facebook"></i></a>
+          </div>
+
+          <div className="footer-column">
+            <h4>OUR BRANDS</h4>
+            <a href="#">CB2</a>
+            <a href="#">HUDSON</a>
+            <a href="#">GRACE</a>
+            <a href="#">Crate&Barrel</a>
+            <a href="#">Crate&kids</a>
           </div>
         </div>
-        <div className="btn-help">
-          <h3>Need Help?</h3>
-          <button>Contact Support</button>
-        </div>
       </div>
-      <hr />
-      <div className="footer-content">
-        <div>
-          {/* <img src="logo.png" alt="logo" className="logo" /> */}
-        <h2>HomeStyler</h2>
-          <p>The world's first platform for auctioning premium products. Buy, sell, and exchange your items.</p>
-        </div>
-        <div className="footer-link">
-          <ul>
-            <h3>Auctions</h3>
-            <li><a href="#">Upcoming Auction</a></li>
-            <li><a href="#">Private Sales</a></li>
-            <li><a href="#">Antique</a></li>
-            <li><a href="#">Furniture</a></li>
-            <li><a href="#">Collectibles</a></li>
-          </ul>
-          <ul>
-            <h3>Account</h3>
-            <li><a href="#">Profile</a></li>
-            <li><a href="#">Absentee bids</a></li>
-            <li><a href="#">Purchases</a></li>
-            <li><a href="#">Follow searches</a></li>
-            <li><a href="#">Update details</a></li>
-          </ul>
-          <ul>
-            <h3>Resources</h3>
-            <li><a href="#">Blog</a></li>
-            <li><a href="#">Help center</a></li>
-            <li><a href="#">Taxes</a></li>
-            <li><a href="#">Partners</a></li>
-            <li><a href="#">Developer platform</a></li>
-          </ul>
-          <ul>
-            <h3>Company</h3>
-            <li><Link to="/about">About</Link></li> {/* Add Link to About */}
-            <li><a href="#">Career</a></li>
-            <li><a href="#">Terms of service</a></li>
-            <li><a href="#">Privacy policy</a></li>
-            <li><a href="#">Auction Houses</a></li>
-          </ul>
-        </div>
+
+      <div className="footer-terms">
+        <a href="#">TERMS OF USE</a> | 
+        <a href="#">PRIVACY</a> | 
+        <a href="#">SITE INDEX</a> | 
+        <a href="#">AD CHOICES</a> | 
+        <a href="#">COOKIE SETTINGS</a> | 
+        <a href="#">CA SUPPLY CHAINS ACT</a> | 
+        <a href="#">DO NOT SELL OR SHARE MY PERSONAL INFORMATION</a>
+        <p>©2024 All rights reserved.</p>
       </div>
-      <hr />
-      <p className="p-footer">©2024 All rights reserved. If you are using a screen reader and are having problems using this website, please call 0909-486-591 for assistance.</p>
-    </div>
+    </footer>
   );
-}
+};
 
 export default Footer;

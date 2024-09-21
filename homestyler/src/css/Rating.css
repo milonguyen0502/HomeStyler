@@ -1,0 +1,131 @@
+.rating-container {
+    display: grid;
+    grid-template-columns: auto auto; 
+    gap: 20px; 
+    width: 80%; 
+    margin: 0 auto; 
+    padding: 30px;
+}
+
+.review-form-section,
+.summary-section {
+    padding: 20px;
+    border: 1px solid #ddd; 
+    background-color: #f9f9f9; 
+}
+
+.review-form-section h2,
+.summary-section h3 {
+    color: #444; 
+    margin-bottom: 15px;
+    font-size: 1.5em; 
+    text-align: center; 
+}
+
+.stars {
+    display: flex;
+    justify-content: center;
+    margin: 10px 0;
+}
+
+.star {
+    cursor: pointer;
+    color: rgba(128, 128, 128, 0.227); 
+    font-size: 30px; 
+    transition: color 0.3s ease; 
+    margin: 0 5px; 
+}
+
+.star:hover,
+.star.selected {
+    color: gray; 
+}
+
+textarea {
+    width: 95%; 
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-top: 10px; 
+    font-size: 16px; 
+    transition: border-color 0.3s ease; 
+    resize: none; 
+    height: 100px; 
+}
+
+textarea:focus {
+    border-color: gray; 
+    outline: none; 
+}
+
+button {
+    padding: 10px 20px; 
+    background-color: #000000c6; 
+    color: white; 
+    border: none;
+    cursor: pointer;
+    font-size: 16px; 
+    margin-top: 15px; 
+    transition: background-color 0.3s ease; 
+}
+
+button:hover {
+    background-color: #000000; 
+}
+
+.summary-section {
+    display: flex;
+    flex-direction: column;
+}
+
+.rating-summary {
+    display: flex;
+    flex-direction: column;
+}
+
+.average-rating {
+    margin-bottom: 20px;
+}
+
+.average-rating .stars {
+    display: flex;
+    justify-content: center;
+}
+
+.rating-distribution {
+    display: flex;
+    flex-direction: column;
+}
+
+.summary-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.summary-item .star {
+    margin-right: 10px; 
+}
+
+.reviews-section {
+    grid-column: 1 / span 2; 
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+}
+
+.review {
+    margin-bottom: 15px;
+    border-bottom: 1px solid #eee; 
+    padding-bottom: 10px;
+}
+
+.review-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.review-timestamp {
+    font-size: 0.9em; 
+    color: #666; 
+}

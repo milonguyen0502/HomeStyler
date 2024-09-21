@@ -1,0 +1,17 @@
+.pro5-container{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.pro5-container img{
+    width:750px;
+    object-fit: cover;
+}
+.pro5-content{
+    align-self: center;
+    text-align: left;
+    width: 65%;
+    margin-left: 20%;
+}
+.contact-info p a{
+    color: black;
+}

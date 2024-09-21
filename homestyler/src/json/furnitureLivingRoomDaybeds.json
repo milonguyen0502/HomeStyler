@@ -2,7 +2,7 @@
     {
         "id": "13",
         "color": "White",
-        "price": "$2,399",
+        "price": "2399",
         "fabric": "Fabric ",
         "features": "101'",
         "shape": "Rectangle",
@@ -24,7 +24,7 @@
     {
         "id": "14",
         "color": "White",
-        "price": "$1,999",
+        "price": "1999",
         "fabric": "Fabric ",
         "features": "98'",
         "shape": "Rectangle",
@@ -46,7 +46,7 @@
     {
         "id": "15",
         "color": "White",
-        "price": "$1,999",
+        "price": "1999",
         "fabric": "Fabric ",
         "features": "100'",
         "shape": "Rectangle",
@@ -67,7 +67,7 @@
     {
         "id": "16",
         "color": "Brown ",
-        "price": "$2,199",
+        "price": "2199",
         "fabric": "Fabric ",
         "features": "84.75'",
         "shape": "Rectangle",
@@ -88,7 +88,7 @@
     {
         "id": "17",
         "color": "Brown ",
-        "price": "$2,799",
+        "price": "2799",
         "fabric": "Fabric ",
         "features": "92'",
         "shape": "Rectangle",
@@ -109,7 +109,7 @@
     {
         "id": "18",
         "color": "Brown ",
-        "price": "$2,299",
+        "price": "2299",
         "fabric": "Fabric ",
         "features": "95''",
         "shape": "Rectangle",
@@ -130,7 +130,7 @@
     {
         "id": "19",
         "color": "Brown ",
-        "price": "$2,299",
+        "price": "2299",
         "fabric": "Fabric ",
         "features": "81''",
         "shape": "Rectangle",
@@ -151,7 +151,7 @@
     {
         "id": "20",
         "color": "Black ",
-        "price": "$3,299",
+        "price": "3299",
         "fabric": "Fabric ",
         "features": "100''",
         "shape": "Rectangle",
@@ -172,7 +172,7 @@
     {
         "id": "21",
         "color": "Grey ",
-        "price": "$2,899",
+        "price": "2899",
         "fabric": "Fabric ",
         "features": "86''",
         "shape": "Rectangle",
@@ -193,7 +193,7 @@
     {
         "id": "22",
         "color": "Grey ",
-        "price": "$1,299",
+        "price": "1299",
         "fabric": "Fabric ",
         "features": "84''",
         "shape": "Rectangle",
@@ -214,7 +214,7 @@
     {
         "id": "23",
         "color": "Grey ",
-        "price": "$1,299",
+        "price": "1299",
         "fabric": "Fabric ",
         "features": "87.75''",
         "shape": "Rectangle",
@@ -230,27 +230,6 @@
            "./img/daybed/23b.jpg",
            "./img/daybed/23c.jpg",
            "./img/daybed/23d.jpg"
-        ]
-    },
-    {
-        "id": "24",
-        "color": "Grey ",
-        "price": "$2,299",
-        "fabric": "Fabric ",
-        "features": "80''",
-        "shape": "Rectangle",
-        "designer": "Jannis Ellenberger",
-        "name": "Movie 80' Sleeper Sofa",
-        "dimensions":"80'Wx40'Dx27'H",
-        "type": "Daybed",
-        "product status": "New",
-        "details": "This sleeper version of our best-selling Movie Sofa is a two-in-one. The deep down lounge appeal of the sofa we know and love, but with a spacious queen bed inside. It's off with the uni-cushion, then pull out the 5.25' coil/foam mattress in one smooth move.",
-        "image": "./img/daybed/24.jpg",
-        "thumbnails": [
-           "./img/daybed/24a.jpg",
-           "./img/daybed/24b.jpg",
-           "./img/daybed/24c.jpg",
-           "./img/daybed/24d.jpg"
         ]
     }
 ]

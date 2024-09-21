@@ -1,0 +1,311 @@
+[
+    {
+        "id": "527",
+        "color": "Brown",
+        "price": "1299",
+        "material": "Wood ",
+        "features": "45.75'",
+        "shape": "rectangle",
+        "designer": "Caleb Zipperer",
+        "name": "Derrico Acacia Wood Coffee Table",
+        "dimensions":"45.75'Wx33.75'Dx15'H",
+        "type": "Coffee Table",
+        "status": "New",
+        "details": "Defined by softly rounded edges and a pedestal base, carved wood coffee table by Caleb Zipperer makes a striking statement with its bold proportions. Crafted of solid acacia wood, the table is wirebrushed and stained to a matte walnut finish to highlight the wood's organic texture and rich grain pattern.",
+        "image":  "./img/coffeetables/527.jpg",
+        "thumbnails": [
+           
+          "./img/coffeetables/527a.jpg",
+          "./img/coffeetables/527b.jpg",
+          "./img/coffeetables/527c.jpg"
+         
+        ]
+    },
+    {
+        "id": "528",
+        "color": "Cream",
+        "price": "699",
+        "material": "Wood ",
+        "features": "35'",
+        "shape": "Round",
+        "designer": "Caleb Zipperer",
+        "name": "Espira Round Cream Marbled Resin Coffee Table",
+        "dimensions":"35' dia. x 15'H",
+        "type": "Coffee Table",
+        "status": "New",
+        "details": "Sculptural coffee table from Brooklyn-based Caleb Zipperer updates the classic pedestal table with striking materiality and a modern biomorphic base. The organic silhouette is hand-poured and casted of matte resin with swirls of cream and ivory to resemble a richly veined marble. Perfectly scaled for smaller living spaces.",
+        "image":  "./img/coffeetables/528.jpg",
+        "thumbnails": [
+           
+          "./img/coffeetables/528a.jpg",
+          "./img/coffeetables/528b.jpg",
+          "./img/coffeetables/528c.jpg"
+          
+        ]
+    },
+    {
+        "id": "529",
+        "color": "Black",
+        "price": "999",
+        "material": "Wood ",
+        "features": "35'",
+        "shape": "Round",
+        "designer": "Paul McCobb",
+        "name": "Irwin Black Marble Coffee Table Model 8713 by Paul McCobb",
+        "dimensions":"42' dia. x 15'H",
+        "type": "Coffee Table",
+        "status": "New",
+        "details": "First designed in 1952, the Irwin Collection designed by Paul McCobb is stunning in its simplicity. Updated in Fantasy black solid marble with a solid iron rod base and cap feet detail, coffee table showcases the attention to detail and quality typical of classic midcentury design. ",
+        "image":  "./img/coffeetables/529.jpg",
+        "thumbnails": [
+           
+          "./img/coffeetables/529a.jpg",
+          "./img/coffeetables/529b.jpg",
+          "./img/coffeetables/529c.jpg"
+         
+        ]
+    },
+    {
+        "id": "530",
+        "color": "Brown",
+        "price": "809",
+        "material": "Wood ",
+        "features": "35'",
+        "shape": "Round",
+        "designer": "Felipe Hidalgo",
+        "name": "Burl Rotating Coffee Table",
+        "dimensions":"42' dia. x 15'H",
+        "type": "Coffee Table",
+        "status": "New",
+        "details": "Burl wood coffee table is storage refined. Designed by Felipe Hidalgo for Ellenberger Studio, low-profile round is covered in a luxe layer of Italian mappa burl wood known for its hi/lo tonal contrast. One large push-to-open drawer cleanly stashes away remotes and other living room necessities. Round swivel base allows for smooth 360-degree turns.",
+        "image":  "./img/coffeetables/530.jpg",
+        "thumbnails": [
+           
+          "./img/coffeetables/530a.jpg",
+          "./img/coffeetables/530b.jpg",
+          "./img/coffeetables/530c.jpg"
+         
+        ]
+    },
+    {
+        "id": "531",
+        "color": "White",
+        "price": "809",
+        "material": "Quartz ",
+        "features": "35'",
+        "shape": "Round",
+        "designer": "Felipe Hidalgo",
+        "name": "Santoro Round White Quartz Coffee Table",
+        "dimensions":"42' dia. x 15'H",
+        "type": "Coffee Table",
+        "status": "New",
+        "details": "Minimal design meets elevated materiality in this statement coffee table. A polished round of solid white quartz rests on three acacia wood legs. Active with high-low tones, each piece of quartz is unique. A refined bullnose edge gives the coffee table a sophisticated finish.",
+        "image":  "./img/coffeetables/531.jpg",
+        "thumbnails": [
+           
+          "./img/coffeetables/531a.jpg",
+          "./img/coffeetables/531b.jpg",
+          "./img/coffeetables/531c.jpg"
+         
+        ]
+    },
+    {
+        "id": "532",
+        "color": "Black",
+        "price": "809",
+        "material": "Resin ",
+        "features": "35'",
+        "shape": "Round",
+        "designer": "VUUE",
+        "name": "Bodene Round Black Resin Coffee Table",
+        "dimensions":"50' dia. x 15'H",
+        "type": "Coffee Table",
+        "status": "New",
+        "details": "Designed by Melbourne-based VUUE, bold cast resin coffee table stands as a postmodern work of art. The amorphous silhouette evokes a hand-molded look, while the matte black finish accentuates the highs and lows of the undulating surface created during the casting process.",
+        "image":  "./img/coffeetables/532.jpg",
+        "thumbnails": [
+           
+          "./img/coffeetables/532a.jpg",
+          "./img/coffeetables/532b.jpg",
+          "./img/coffeetables/532c.jpg"
+         
+        ]
+    },
+    {
+        "id": "533",
+        "color": "Black",
+        "price": "629",
+        "material": "Resin ",
+        "features": "35'",
+        "shape": "Round",
+        "designer": "Caleb Zipperer",
+        "name": "Espira Round Black Marbled Resin Coffee Table",
+        "dimensions":"35' dia. x 15'H",
+        "type": "Coffee Table",
+        "status": "New",
+        "details": "Sculptural coffee table from Caleb Zipperer updates the classic pedestal table with striking materiality and a modern biomorphic base. The organic silhouette is hand-poured and casted of matte black resin with swirls that resemble marble veining. Perfectly scaled for smaller living spaces.",
+        "image":  "./img/coffeetables/533.jpg",
+        "thumbnails": [
+           
+          "./img/coffeetables/533a.jpg",
+          "./img/coffeetables/533b.jpg",
+          "./img/coffeetables/533c.jpg"
+         
+        ]
+    },
+    {
+        "id": "534",
+        "color": "Black",
+        "price": "629",
+        "material": "Resin ",
+        "features": "35'",
+        "shape": "Round",
+        "designer": "Caleb Zipperer",
+        "name": "Espira Round Black Marbled Resin Coffee Table",
+        "dimensions":"35' dia. x 15'H",
+        "type": "Coffee Table",
+        "status": "New",
+        "details": "culptural coffee table from Caleb Zipperer updates the classic pedestal table with striking materiality and a modern biomorphic base. The organic silhouette is hand-poured and casted of matte black resin with swirls that resemble marble veining. Perfectly scaled for smaller living spaces. ",
+        "image":  "./img/coffeetables/534.jpg",
+        "thumbnails": [
+           
+          "./img/coffeetables/534a.jpg",
+          "./img/coffeetables/534b.jpg",
+          "./img/coffeetables/534c.jpg"
+         
+        ]
+    },
+    {
+        "id": "535",
+        "color": "Black",
+        "price": "1099",
+        "material": "Marble ",
+        "features": "35'",
+        "shape": "rectangle",
+        "designer": "Caleb Zipperer",
+        "name": "Santoro Rectangular Black Marble Coffee Table",
+        "dimensions":"53'Wx29.25'Dx15.75'H",
+        "type": "Coffee Table",
+        "status": "New",
+        "details": "Polished Cosmic black marble stuns with its dramatic activity set within oversized acacia wood legs. Carved with smooth bullnose edges, the black marble top pairs beautifully with the natural warmth of the wood for a sophisticated finish. ",
+        "image":  "./img/coffeetables/535.jpg",
+        "thumbnails": [
+           
+          "./img/coffeetables/535a.jpg",
+          "./img/coffeetables/535b.jpg",
+          "./img/coffeetables/535c.jpg"
+         
+        ]
+    },
+    {
+        "id": "535",
+        "color": "Black",
+        "price": "1099",
+        "material": "Marble ",
+        "features": "35'",
+        "shape": "rectangle",
+        "designer": "Caleb Zipperer",
+        "name": "Santoro Rectangular Black Marble Coffee Table",
+        "dimensions":"53'Wx29.25'Dx15.75'H",
+        "type": "Coffee Table",
+        "status": "New",
+        "details": "Polished Cosmic black marble stuns with its dramatic activity set within oversized acacia wood legs. Carved with smooth bullnose edges, the black marble top pairs beautifully with the natural warmth of the wood for a sophisticated finish. ",
+        "image":  "./img/coffeetables/535.jpg",
+        "thumbnails": [
+           
+          "./img/coffeetables/535a.jpg",
+          "./img/coffeetables/535b.jpg",
+          "./img/coffeetables/535c.jpg"
+         
+        ]
+    },
+    {
+        "id": "535",
+        "color": "Black",
+        "price": "1099",
+        "material": "Marble ",
+        "features": "35'",
+        "shape": "rectangle",
+        "designer": "Caleb Zipperer",
+        "name": "Santoro Rectangular Black Marble Coffee Table",
+        "dimensions":"53'Wx29.25'Dx15.75'H",
+        "type": "Coffee Table",
+        "status": "New",
+        "details": "Polished Cosmic black marble stuns with its dramatic activity set within oversized acacia wood legs. Carved with smooth bullnose edges, the black marble top pairs beautifully with the natural warmth of the wood for a sophisticated finish. ",
+        "image":  "./img/coffeetables/535.jpg",
+        "thumbnails": [
+           
+          "./img/coffeetables/535a.jpg",
+          "./img/coffeetables/535b.jpg",
+          "./img/coffeetables/535c.jpg"
+         
+        ]
+    },
+    {
+        "id": "536",
+        "color": "Black",
+        "price": "1099",
+        "material": "Resin ",
+        "features": "35'",
+        "shape": "Round",
+        "designer": "Balutto Associati",
+        "name": "Pompeo Round Ivory Cast Resin Indoor/Outdoor Coffee Table Large",
+        "dimensions":"53'Wx29.25'Dx15.75'H",
+        "type": "Coffee Table",
+        "status": "New",
+        "details": "Outdoor tables by Balutto Associati have an organic, amorphous shape and subtly undulating texture. Molded of stain-resistant polyester resin in a satin dove finish, the tables nest together for a natural and graceful tableau. ",
+        "image":  "./img/coffeetables/536.jpg",
+        "thumbnails": [
+           
+          "./img/coffeetables/536a.jpg",
+          "./img/coffeetables/536b.jpg",
+          "./img/coffeetables/536c.jpg"
+         
+        ]
+    },
+    {
+        "id": "537",
+        "color": "Black",
+        "price": "649",
+        "material": "Linen ",
+        "features": "35'",
+        "shape": "Round",
+        "designer": "VUUE",
+        "name": "Horseshoe Black Laquered Linen 46feet Coffee Table",
+        "dimensions":"46'Wx29.25'Dx15.75'H",
+        "type": "Coffee Table",
+        "status": "New",
+        "details": "Inspired by the modern silhouettes and unique materials of the 1970s, VUUE's design turns a simple U-shape into a statement coffee table with extra-rich texture. Raffia wraps the piece, finished in high-gloss black. Mixes effortlessly into any modern living situation. ",
+        "image":  "./img/coffeetables/537.jpg",
+        "thumbnails": [
+           
+          "./img/coffeetables/537a.jpg",
+          "./img/coffeetables/537b.jpg",
+          "./img/coffeetables/537c.jpg"
+         
+        ]
+    },
+    {
+        "id": "538",
+        "color": "Brown",
+        "price": "649",
+        "material": "Oak ",
+        "features": "35'",
+        "shape": "rectangle",
+        "designer": "VUUE",
+        "name": "Macello Brown Oak Coffee Table",
+        "dimensions":"46'Wx29.25'Dx15.75'H",
+        "type": "Coffee Table",
+        "status": "New",
+        "details": "Warm oak coffee table by Melbourne-based design studio VUUE updates any space with its unexpected silhouette. Soft curves of white oak veneer rest atop two tapered legs for a vintage-inspired look. Style on its own or pair with the Macello console and side tables. ",
+        "image":  "./img/coffeetables/538.jpg",
+        "thumbnails": [
+           
+          "./img/coffeetables/538a.jpg",
+          "./img/coffeetables/538b.jpg",
+          "./img/coffeetables/538c.jpg"
+         
+        ]
+    }
+]
+

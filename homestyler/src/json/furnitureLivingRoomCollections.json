@@ -2,7 +2,7 @@
     {
         "id": "35",
         "color": "White",
-        "price": "$1,499",
+        "price": "1499",
         "fabric": "Fabric ",
         "features": "68'",
         "shape": "Rectangle",
@@ -11,6 +11,7 @@
         "dimensions":"68'Wx36'Dx29'H",
         "type": "Sofa",
         "status": "New",
+        "sku":"13798",
         "details": "Plush loveseat from goop is proof that things don't have to be cold and hard to be chic, says Gwyneth Paltrow. We're taking the compromise out of the equation with chic furniture that's to be lived in and loved.Covered in a rich, textural boucle-like fabric, the loveseat feels slightly vintage with a mod silhouette that highlights the high-end upholstery. CB2 exclusive.",
         "image": "./img/collection/gwyneth/35.jpg",
         "thumbnails": [
@@ -23,7 +24,7 @@
     {
         "id": "36",
         "color": "Blue",
-        "price": "$1,499",
+        "price": "1499",
         "fabric": "Fabric ",
         "features": "68'",
         "shape": "Rectangle",
@@ -32,6 +33,7 @@
         "dimensions":"68'Wx36'Dx29'H",
         "type": "Sofa",
         "status": "New",
+        "sku":"13798",
         "details": "Plush loveseat from goop is proof that things don't have to be cold and hard to be chic, says Gwyneth Paltrow. We're taking the compromise out of the equation with chic furniture that's to be lived in and loved.Covered in a rich, textural boucle-like fabric, the loveseat feels slightly vintage with a mod silhouette that highlights the high-end upholstery. CB2 exclusive.",
         "image": "./img/collection/gwyneth/36.jpg",
         "thumbnails": [
@@ -44,7 +46,7 @@
     {
         "id": "37",
         "color": "Black",
-        "price": "$1,499",
+        "price": "1499",
         "fabric": "Fabric ",
         "features": "68'",
         "shape": "Rectangle",
@@ -53,6 +55,7 @@
         "dimensions":"68'Wx36'Dx29'H",
         "type": "Sofa",
         "status": "New",
+        "sku":"13798",
         "details": "Plush loveseat from goop is proof that things don't have to be cold and hard to be chic, says Gwyneth Paltrow. We're taking the compromise out of the equation with chic furniture that's to be lived in and loved.Covered in a rich, textural boucle-like fabric, the loveseat feels slightly vintage with a mod silhouette that highlights the high-end upholstery. CB2 exclusive.",
         "image": "./img/collection/gwyneth/37.jpg",
         "thumbnails": [
@@ -65,7 +68,7 @@
     {
         "id": "38",
         "color": "White",
-        "price": "$1,000",
+        "price": "1000",
         "fabric": "Fabric ",
         "features": "33'",
         "shape": "Round/Curved ",
@@ -74,6 +77,7 @@
         "dimensions":"33'Wx35.5'Dx29.5'H",
         "type": "Sofa",
         "status": "New",
+        "sku":"13798",
         "details": "Plush swivel chair from goop is proof that things don't have to be cold and hard to be chic, says Gwyneth Paltrow. We're taking the compromise out of the equation with chic furniture that's to be lived in and loved. Covered in a rich, textural boucle-like fabric, the chair feels slightly vintage with a mod silhouette that highlights the high-end upholstery. CB2 exclusive.",
         "image": "./img/collection/gwyneth/38.jpg",
         "thumbnails": [
@@ -86,7 +90,7 @@
     {
         "id": "39",
         "color": "Black",
-        "price": "$1,000",
+        "price": "1000",
         "fabric": "Fabric ",
         "features": "33'",
         "shape": "Round/Curved ",
@@ -95,6 +99,7 @@
         "dimensions":"33'Wx35.5'Dx29.5'H",
         "type": "Sofa",
         "status": "New",
+        "sku":"13798",
         "details": "Plush swivel chair from goop is proof that things don't have to be cold and hard to be chic, says Gwyneth Paltrow. We're taking the compromise out of the equation with chic furniture that's to be lived in and loved. Covered in a rich, textural boucle-like fabric, the chair feels slightly vintage with a mod silhouette that highlights the high-end upholstery. CB2 exclusive.",
         "image": "./img/collection/gwyneth/39.jpg",
         "thumbnails": [
@@ -107,7 +112,7 @@
     {
         "id": "40",
         "color": "Blue",
-        "price": "$1,000",
+        "price": "1000",
         "fabric": "Fabric ",
         "features": "33'",
         "shape": "Round/Curved ",
@@ -116,6 +121,7 @@
         "dimensions":"33'Wx35.5'Dx29.5'H",
         "type": "Sofa",
         "status": "New",
+        "sku":"13798",
         "details": "Plush swivel chair from goop is proof that things don't have to be cold and hard to be chic, says Gwyneth Paltrow. We're taking the compromise out of the equation with chic furniture that's to be lived in and loved. Covered in a rich, textural boucle-like fabric, the chair feels slightly vintage with a mod silhouette that highlights the high-end upholstery. CB2 exclusive.",
         "image": "./img/collection/gwyneth/40.jpg",
         "thumbnails": [
@@ -128,7 +134,7 @@
     {
         "id": "41",
         "color": "White",
-        "price": "$2,499",
+        "price": "2499",
         "fabric": "Fabric ",
         "features": "90'",
         "shape": "Rectangle",
@@ -137,6 +143,7 @@
         "dimensions":"90'Wx43.5'Dx28'H",
         "type": "Sofa",
         "status": "New",
+        "sku":"13798",
         "details": "Sofa by Lawson-Fenning has a graceful, arching silhouette, mirrored by bentwood legs that follow its curve. Semi-detached cushions are comfortable and plush, creating an inviting spot to unwind for hours. Satisfyingly chunky ivory boucle feels pleasing to the touch. CB2 exclusive.",
         "image": "./img/collection/muir/41.jpg",
         "thumbnails": [
@@ -149,7 +156,7 @@
     {
         "id": "42",
         "color": "Camel",
-        "price": "$2,499",
+        "price": "2499",
         "fabric": "Fabric ",
         "features": "90'",
         "shape": "Rectangle",
@@ -158,6 +165,7 @@
         "dimensions":"90'Wx43.5'Dx28'H",
         "type": "Sofa",
         "status": "New",
+        "sku":"13798",
         "details": "Sofa by Lawson-Fenning has a graceful arching silhouette, mirrored by bent-wood legs that follow its curve. Semi-detached cushions are comfortable and plush, creating an inviting spot to unwind for hours. Sumptuous camel-toned velvet upholstery feels pleasing to the touch. CB2 exclusive.",
         "image": "./img/collection/muir/42.jpg",
         "thumbnails": [
@@ -170,7 +178,7 @@
     {
         "id": "43",
         "color": "Grey",
-        "price": "$2,599",
+        "price": "2599",
         "fabric": "Fabric ",
         "features": "90'",
         "shape": "Rectangle",
@@ -179,6 +187,7 @@
         "dimensions":"90'Wx43.5'Dx28'H",
         "type": "Sofa",
         "status": "New",
+        "sku":"13798",
         "details": "Sofa by Lawson-Fenning has a graceful arching silhouette, mirrored by bent-wood legs that follow its curve. Semi-detached cushions are comfortable and plush, creating an inviting spot to unwind for hours. Sumptuous camel-toned velvet upholstery feels pleasing to the touch. CB2 exclusive.",
         "image": "./img/collection/muir/43.jpg",
         "thumbnails": [
@@ -191,7 +200,7 @@
     {
         "id": "44",
         "color": "Grey",
-        "price": "$1,399",
+        "price": "1399",
         "fabric": "Fabric ",
         "features": "35'",
         "shape": "Round/Curved",
@@ -200,6 +209,7 @@
         "dimensions":"35'Wx33'Dx28'H",
         "type": "Sofa",
         "status": "New",
+        "sku":"13798",
         "details": "Swivel chair by Lawson-Fenning draws on the designers' admiration of California interior design in the 1950s and 1960s. Inviting seat fully swivels 360 degrees, appearing to float above a circular base of wood certified sustainable by the Forest Stewardship Council ®. CB2 exclusive.",
         "image": "./img/collection/muir/44.jpg",
         "thumbnails": [
@@ -212,7 +222,7 @@
     {
         "id": "45",
         "color": "Camel",
-        "price": "$1,399",
+        "price": "1399",
         "fabric": "Fabric ",
         "features": "35'",
         "shape": "Round/Curved",
@@ -221,6 +231,7 @@
         "dimensions":"35'Wx33'Dx28'H'H",
         "type": "Sofa",
         "status": "New",
+        "sku":"13798",
         "details": "Swivel chair by Lawson-Fenning draws on the designers' admiration of California interior design in the 1950s and 1960s. Inviting seat fully swivels 360 degrees, appearing to float above a circular base of wood certified sustainable by the Forest Stewardship Council ®. Sumptuous camel-colored velvet finishes things off with a luxurious midcentury-inspired moment. CB2 exclusive.",
         "image": "./img/collection/muir/45.jpg",
         "thumbnails": [
@@ -233,7 +244,7 @@
     {
         "id": "46",
         "color": "White ",
-        "price": "$1,299",
+        "price": "1299",
         "fabric": "Fabric ",
         "features": "35'",
         "shape": "Round/Curved",
@@ -242,6 +253,7 @@
         "dimensions":"35'Wx33'Dx28'H'H",
         "type": "Sofa",
         "status": "New",
+        "sku":"13798",
         "details": "Swivel chair by Lawson-Fenning draws on the designers' admiration of California interior design in the 1950s and 1960s. Inviting seat fully swivels 360 degrees, appearing to float above a circular base of wood certified sustainable by the Forest Stewardship Council ®. Sumptuous camel-colored velvet finishes things off with a luxurious midcentury-inspired moment. CB2 exclusive.",
         "image": "./img/collection/muir/46.jpg",
         "thumbnails": [

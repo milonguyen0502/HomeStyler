@@ -15,7 +15,7 @@
     color: black;
     text-align: left;
     margin: 0;
-    flex: 1; /* Chiếm không gian còn lại */
+    flex: 1;
 }
 
 .nav-container {
@@ -24,17 +24,17 @@
 }
 
 .nav-btn {
-    border: 2px solid #fff; /* Thêm viền trắng cho nút */
+    border: 2px solid #fff; 
     outline: none;
     cursor: pointer;
     font-size: 24px;
     padding: 10px;
-    background-color: rgba(0, 0, 0, 0.5); /* Nền tối trong suốt */
+    background-color: rgba(0, 0, 0, 0.5);
     color: white;
-    border-radius: 0; /* Đặt border-radius bằng 0 để tạo hình vuông */
-    margin: 0 10px; /* Khoảng cách giữa các nút */
-    width: 40px; /* Kích thước nút vuông */
-    height: 40px; /* Kích thước nút vuông */
+    border-radius: 0; 
+    margin: 0 10px; 
+    width: 40px;
+    height: 40px; 
     display: flex;
     align-items: center;
     justify-content: center;
@@ -55,13 +55,14 @@
 .category-item {
     position: relative;
     flex: 0 0 275px;
-    height: auto; /* Điều chỉnh chiều cao để phù hợp với hình ảnh và văn bản */
+    height: auto; 
     margin-right: 20px;
     border: none;
     transition: transform 0.3s ease;
     box-sizing: border-box;
     cursor: pointer;
     text-align: center;
+    
 }
 
 .category-item img {
@@ -77,3 +78,29 @@
     font-weight: bold;
     color: black;
 }
+
+
+@media only screen and (max-width: 1024px) {
+    .category-list{
+        display: grid;
+        grid-template-columns: 50% 50%;
+    }
+
+    .category-carousel{
+        margin: 10px;
+    }
+    .header {
+        margin-left: 200px;
+    }
+  }
+  
+  /* Mobile layout (for screens smaller than 768px) */
+@media only screen and (max-width: 768px) {
+    .category-list{
+        display: grid;
+        grid-template-columns: auto;
+    }
+    .header {
+        margin-left: 350px;
+    }
+  }

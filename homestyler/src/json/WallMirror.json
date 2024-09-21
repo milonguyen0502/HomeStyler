@@ -1,0 +1,157 @@
+[
+  {
+      "id": "594",
+      "color": "Brown",
+      "price": "359",
+      "shape":"oval",
+      "designer": "Ceci Thompson",
+      "name": "Abel Brass Round Wall Mirror ",
+      "size": "M",
+      "status":"New",
+      "type":"Wall Mirror",
+      "details": "Handmade oversized mirror has a sculptural look with a brass finish that nods to vintage designs. The organic shape of the rough cast aluminum frame is an elegant way to add textural interest to the entryway or bedroom.",
+       "image": "./img/wallMirror/594.jpg",
+
+      "thumbnails": [
+        "./img/wallMirror/594a.jpg",
+        "./img/wallMirror/594b.jpg",
+        "./img/wallMirror/594c.jpg"
+       
+      ]
+  },
+  {
+    "id": "595",
+    "color": "Brown",
+    "price": "359",
+    "shape":"oval",
+    "designer": "Ceci Thompson",
+    "name": "Diani Cream Onyx Wall Mirror",
+    "size": "M",
+    "status":"New",
+    "type":"Wall Mirror",
+    "details": "Handmade oversized mirror has a sculptural look with a brass finish that nods to vintage designs. The organic shape of the rough cast aluminum frame is an elegant way to add textural interest to the entryway or bedroom.",
+     "image": "./img/wallMirror/595.jpg",
+
+    "thumbnails": [
+      "./img/wallMirror/595a.jpg",
+      "./img/wallMirror/595b.jpg",
+      "./img/wallMirror/595c.jpg"
+     
+    ]
+},
+{
+  "id": "596",
+  "color": "Black",
+  "price": "359",
+  "shape":"oval",
+  "designer": "Ceci Thompson",
+  "name": "Horn Black Round Wall Mirror",
+  "size": "M",
+  "status":"New",
+  "type":"Wall Mirror",
+  "details": "Handmade oversized mirror has a sculptural look with a brass finish that nods to vintage designs. The organic shape of the rough cast aluminum frame is an elegant way to add textural interest to the entryway or bedroom.",
+   "image": "./img/wallMirror/596.jpg",
+
+  "thumbnails": [
+    "./img/wallMirror/596a.jpg",
+    "./img/wallMirror/596b.jpg",
+    "./img/wallMirror/596c.jpg"
+   
+  ]
+},
+{
+  "id": "597",
+  "color": "Brown",
+  "price": "359",
+  "shape":"square",
+  "designer": "Ceci Thompson",
+  "name": "Infinity Brass Oblong Wall Mirror",
+  "size": "M",
+  "type":"Wall Mirror",
+  "details": "Handmade oversized mirror has a sculptural look with a brass finish that nods to vintage designs. The organic shape of the rough cast aluminum frame is an elegant way to add textural interest to the entryway or bedroom.",
+   "image": "./img/wallMirror/597.jpg",
+
+  "thumbnails": [
+    "./img/wallMirror/597a.jpg",
+    "./img/wallMirror/597b.jpg",
+    "./img/wallMirror/597c.jpg"
+   
+  ]
+},
+{
+  "id": "598",
+  "color": "Brown",
+  "price": "359",
+  "shape":"square",
+  "designer": "Ceci Thompson",
+  "name": "Navone Unlacquered Brass Wall Mirror",
+  "size": "M",
+  "type":"Wall Mirror",
+  "details": "Handmade oversized mirror has a sculptural look with a brass finish that nods to vintage designs. The organic shape of the rough cast aluminum frame is an elegant way to add textural interest to the entryway or bedroom.",
+   "image": "./img/wallMirror/598.jpg",
+
+  "thumbnails": [
+    "./img/wallMirror/598a.jpg",
+    "./img/wallMirror/598b.jpg",
+    "./img/wallMirror/598c.jpg"
+   
+  ]
+},
+{
+  "id": "599",
+  "color": "Black",
+  "price": "359",
+  "shape":"square",
+  "designer": "Ceci Thompson",
+  "name": "Infinity Black Round Wall Mirror",
+  "size": "M",
+  "type":"Wall Mirror",
+  "details": "Handmade oversized mirror has a sculptural look with a brass finish that nods to vintage designs. The organic shape of the rough cast aluminum frame is an elegant way to add textural interest to the entryway or bedroom.",
+   "image": "./img/wallMirror/599.jpg",
+
+  "thumbnails": [
+    "./img/wallMirror/599a.jpg",
+    "./img/wallMirror/599b.jpg",
+    "./img/wallMirror/599c.jpg"
+   
+  ]
+},
+{
+  "id": "600",
+  "color": "Black",
+  "price": "359",
+  "shape":"Rectangle",
+  "designer": "Ceci Thompson",
+  "name": "Infinity Brass Rectangular Wall Mirror",
+  "size": "M",
+  "type":"Wall Mirror",
+  "details": "Handmade oversized mirror has a sculptural look with a brass finish that nods to vintage designs. The organic shape of the rough cast aluminum frame is an elegant way to add textural interest to the entryway or bedroom.",
+   "image": "./img/wallMirror/600.jpg",
+
+  "thumbnails": [
+    "./img/wallMirror/600a.jpg",
+    "./img/wallMirror/600b.jpg",
+    "./img/wallMirror/600c.jpg"
+   
+  ]
+},
+{
+  "id": "601",
+  "color": "Black",
+  "price": "359",
+  "shape":"Rectangle",
+  "designer": "Ceci Thompson",
+  "name": "Abel Nickel Round Wall Mirror",
+  "size": "M",
+  "type":"Wall Mirror",
+  "details": "Handmade oversized mirror has a sculptural look with a brass finish that nods to vintage designs. The organic shape of the rough cast aluminum frame is an elegant way to add textural interest to the entryway or bedroom.",
+   "image": "./img/wallMirror/601.jpg",
+
+  "thumbnails": [
+    "./img/wallMirror/601a.jpg",
+    "./img/wallMirror/601b.jpg",
+    "./img/wallMirror/601c.jpg"
+   
+  ]
+}
+]

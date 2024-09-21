@@ -1,4 +1,24 @@
 .container-menu{
     display: grid;
     grid-template-columns: auto auto auto auto;
+    width: 95%;
+    margin: 0 auto;
+}
+
+.menu-item img{
+    width:330px;
+    height: 390px;
+    object-fit: cover;
+}
+.menu-item p{
+    text-align: left;
+    margin-left: 15px;
+    color: black;
+}
+.menu-item a{
+    text-decoration: none;
+}
+.h1-option{
+    text-align: left;
+    margin-left: 5%;
 }

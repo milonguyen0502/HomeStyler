@@ -1,0 +1,177 @@
+[{
+  "id": "558",
+  "color": "White",
+  "price": "1049",
+  "material": "performance ",
+  "features": "60'",
+  "shape": "Oval",
+  "designer": "VUUE",
+  "name": "Saroy Ivory Upholstered Office Chair",
+  "dimensions":"27.5'Wx25'D",
+  "type": "office chair",
+  "status": "New",
+  "details": "ith its curved back and ruched upholstery, ivory office chair by Melbourne-based VUUE is the perfect balance of functional design and sophisticated style. Elegant ivory performance fabric looks like a linen weave but is designed for easy cleaning. Fitted with an adjustable seat and casters for smooth movement.",
+  "image":  "./img/officechairs/558.jpg",
+  "thumbnails": [
+     
+    "./img/officechairs/558a.jpg",
+    "./img/officechairs/558b.jpg",
+    "./img/officechairs/558c.jpg"
+  
+  ]
+},
+{
+  "id": "559",
+  "color": "Brown",
+  "price": "1049",
+  "material": "Leather ",
+  "features": "27.5'",
+  "shape": "Oval",
+  "designer": "VUUE",
+  "name": "Saroy Brown Leather Office Chair",
+  "dimensions":"27.5'Wx25'D",
+  "type": "office chair",
+  "status": "New",
+  "details": "ith its curved back and ruched upholstery, ivory office chair by Melbourne-based VUUE is the perfect balance of functional design and sophisticated style. Elegant ivory performance fabric looks like a linen weave but is designed for easy cleaning. Fitted with an adjustable seat and casters for smooth movement.",
+  "image":  "./img/officechairs/559.jpg",
+  "thumbnails": [
+     
+    "./img/officechairs/559a.jpg",
+    "./img/officechairs/559b.jpg",
+    "./img/officechairs/559c.jpg"
+  
+  ]
+},
+{
+  "id": "560",
+  "color": "Green",
+  "price": "349",
+  "material": "Velvet ",
+  "features": "27.5'",
+  "shape": "Oval",
+  "designer": "VUUE",
+  "name": "Saroy Teal Velvet Office Chair",
+  "dimensions":"27.5'Wx25'D",
+  "type": "office chair",
+  "status": "New",
+  "details": "With its curved back and ruched upholstery, teal velvet office chair by Melbourne-based VUUE is the perfect balance of functional design and sophisticated style. Lustrous teal velvet upholstery adds a pop of color. Fitted with an adjustable seat and casters for smooth movement.",
+  "image":  "./img/officechairs/560.jpg",
+  "thumbnails": [
+     
+    "./img/officechairs/560a.jpg",
+    "./img/officechairs/560b.jpg",
+    "./img/officechairs/560c.jpg"
+  
+  ]
+},
+{
+  "id": "561",
+  "color": "Grey",
+  "price": "1049",
+  "material": "Boucle ",
+  "features": "27.5'",
+  "shape": "Swivel",
+  "designer": "VUUE",
+  "name": "Ellessi Peppered Grey Boucle Swivel Office Chair",
+  "dimensions":"27.5'Wx25'D",
+  "type": "office chair",
+  "status": "New",
+  "details": "rresistibly textured boucle desk chair from Melbourne-based VUUE brings living room luxury to the office. Set atop a sleek swivel base with casters, the curvy silhouette is blanketed in a soft, peppered grey boucle for an ultra-plush spot to work. ",
+  "image":  "./img/officechairs/561.jpg",
+  "thumbnails": [
+     
+    "./img/officechairs/561a.jpg",
+    "./img/officechairs/561b.jpg",
+    "./img/officechairs/561c.jpg"
+  
+  ]
+},
+{
+  "id": "562",
+  "color": "Black",
+  "price": "799",
+  "material": "Leather ",
+  "features": "27.5'",
+  "shape": "Swivel",
+  "designer": "Nicholas Obeid",
+  "name": "Etana Black Leather Office Chair",
+  "dimensions":"27.5'Wx25'D",
+  "type": "office chair",
+  "status": "New",
+  "details": "Elevate the workspace with the sleek leather office chair by NYC-based designer Nicholas Obeid. Clad in Moore & Giles full-grain leather, the chair features tight cushioning paired with tailored stitching for a clean, minimalist look. Set atop four rolling casters, the swivel base glides around the office with ease. ",
+  "image":  "./img/officechairs/562.jpg",
+  "thumbnails": [
+     
+    "./img/officechairs/562a.jpg",
+    "./img/officechairs/562b.jpg",
+    "./img/officechairs/562c.jpg"
+  
+  ]
+},
+{
+  "id": "563",
+  "color": "Cream",
+  "price": "1099",
+  "material": "Boucle ",
+  "features": "27.5'",
+  "shape": "Swivel",
+  "designer": "Paul McCobb",
+  "name": "Bowtie Cream Boucle Office Chair Model 3002 by Paul McCobb",
+  "dimensions":"27.5'Wx25'D",
+  "type": "office chair",
+  "status": "New",
+  "details": "Cream wool boucle office chair by iconic midcentury designer Paul McCobb has a commanding presence in any office—rightfully so, given this model has been owned by publishing magnates and titans of industry throughout the decades. Has both tilt-back and gas-lift adjustable seat features. ",
+  "image":  "./img/officechairs/563.jpg",
+  "thumbnails": [
+     
+    "./img/officechairs/563a.jpg",
+    "./img/officechairs/563b.jpg",
+    "./img/officechairs/563c.jpg"
+  
+  ]
+},
+{
+  "id": "564",
+  "color": "Grey",
+  "price": "1099",
+  "material": "Boucle ",
+  "features": "27.5'",
+  "shape": "Swivel",
+  "designer": "VUUE",
+  "name": "Ellessi Peppered Grey Boucle Swivel Office Chair",
+  "dimensions":"27.5'Wx25'D",
+  "type": "office chair",
+  "status": "New",
+  "details": "Irresistibly textured boucle desk chair from Melbourne-based VUUE brings living room luxury to the office. Set atop a sleek swivel base with casters, the curvy silhouette is blanketed in a soft, peppered grey boucle for an ultra-plush spot to work.",
+  "image":  "./img/officechairs/564.jpg",
+  "thumbnails": [
+     
+    "./img/officechairs/564a.jpg",
+    "./img/officechairs/564b.jpg",
+    "./img/officechairs/564c.jpg"
+  
+  ]
+},
+{
+  "id": "565",
+  "color": "Brown",
+  "price": "594",
+  "material": "Velvet ",
+  "features": "27.5'",
+  "shape": "Swivel",
+  "designer": "VUUE",
+  "name": "Matrice Camel Velvet Office Chair",
+  "dimensions":"27.5'Wx25'D",
+  "type": "office chair",
+  "status": "New",
+  "details": "Irresistibly textured boucle desk chair from Melbourne-based VUUE brings living room luxury to the office. Set atop a sleek swivel base with casters, the curvy silhouette is blanketed in a soft, peppered grey boucle for an ultra-plush spot to work.",
+  "image":  "./img/officechairs/565.jpg",
+  "thumbnails": [
+     
+    "./img/officechairs/565a.jpg",
+    "./img/officechairs/565b.jpg",
+    "./img/officechairs/565c.jpg"
+  
+  ]
+}
+]

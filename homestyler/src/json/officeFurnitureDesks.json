@@ -1,0 +1,156 @@
+[
+    {
+        "id": "551",
+        "color": "Cream",
+        "price": "1799",
+        "material": "Resin ",
+        "features": "68'",
+        "shape": "rectangle",
+        "designer": "Brett Beldock",
+        "name": "Remoli Swirled Cream Resin Desk 68feet",
+        "dimensions":"68'Wx24'Dx29.25'H",
+        "type": "office desk",
+        "status": "New",
+        "details": "Fluid swirls of cream and warm white adorn this sleek desk by Brett Beldock. Inspired by a vintage lamp of French origin, its architectural silhouette and rounded edges evoke an Art Deco moment. At first glance, this multifunctional piece looks as though it's carved from marble, yet its resin construction requires significantly less care—making it a fine choice for the home office and high-traffic entryways.",
+        "image":  "./img/officedesks/551.jpg",
+        "thumbnails": [
+           
+          "./img/officedesks/551a.jpg",
+          "./img/officedesks/551b.jpg",
+          "./img/officedesks/551c.jpg"
+         
+        ]
+    },
+    {
+      "id": "552",
+      "color": "Black",
+      "price": "999",
+      "material": "Oak ",
+      "features": "68'",
+      "shape": "rectangle",
+      "designer": "Sandra Githinji",
+      "name": "Ebony 3-Drawer Black Oak Desk",
+      "dimensions":"46.5'Wx26'Dx30'H",
+      "type": "office desk",
+      "status": "New",
+      "details": "The Ebony desk draws inspiration from ancient Egyptian cosmetic boxes that facilitated beauty rituals as acts of self-care, says designer Sandra Githinji of Sandra Githinji Studio. Desk's ebonized oak top features three soft-close drawers with subtle detailing on the fronts. Arched steel frame keeps the piece looking visually balanced while subtly evoking hieroglyphics and mythological symbols.",
+      "image":  "./img/officedesks/552.jpg",
+      "thumbnails": [
+         
+        "./img/officedesks/552a.jpg",
+        "./img/officedesks/552b.jpg",
+        "./img/officedesks/552c.jpg"
+      
+      ]
+  },
+  {
+    "id": "553",
+    "color": "Brown",
+    "price": "599",
+    "material": "Oak ",
+    "features": "58.25'",
+    "shape": "rectangle",
+    "designer": "Caleb Zipperer",
+    "name": "Tuske Brown Wood Desk",
+    "dimensions":"58.25'Wx26.25'Dx29'H",
+    "type": "office desk",
+    "status": "New",
+    "details": "A celebration of the unique silhouettes of the natural world, bold desk by Caleb Zipperer is inspired by the gently curved shape of woolly mammoth tusks. I often like to think about different periods in Earth's history to see where I can conjure up unique shapes. For the Tuske desk, I was drawn to the megafauna of the Cenozoic Era,explains the designer. The desk is crafted of Indonesian sungkai wood for a rich grain pattern that makes each naturally one of a kind. ",
+    "image":  "./img/officedesks/553.jpg",
+    "thumbnails": [
+       
+      "./img/officedesks/553a.jpg",
+      "./img/officedesks/553b.jpg",
+      "./img/officedesks/553c.jpg"
+    
+    ]
+},
+{
+  "id": "554",
+  "color": "Brown",
+  "price": "599",
+  "material": "Oak ",
+  "features": "58.25'",
+  "shape": "rectangle",
+  "designer": "Gianfranco Frattini",
+  "name": "Nirone 2-Drawer Extendable Black Ebonized Oak and Walnut Desk by Gianfranco Frattini",
+  "dimensions":"58.25'Wx26.25'Dx29'H",
+  "type": "office desk",
+  "status": "New",
+  "details": "With its ebonized black oak top, the Nirone desk reclaims a late 1980s design by legendary midcentury Italian designer Gianfranco Frattini for modern interiors. Designed with the intention of combining modern typologies with traditional craftsmanship details, the minimalist silhouette is complemented by angled American black walnut legs. Sleek details, such as hidden drawers and concealed extension leaves, further highlight the high-end craftsmanship that went into designing the piece.",
+  "image":  "./img/officedesks/554.jpg",
+  "thumbnails": [
+     
+    "./img/officedesks/554a.jpg",
+    "./img/officedesks/554b.jpg",
+    "./img/officedesks/554c.jpg"
+  
+  ]
+},
+{
+  "id": "555",
+  "color": "Brown",
+  "price": "999",
+  "material": "Oak ",
+  "features": "66'",
+  "shape": "rectangle",
+  "designer": "Brett Beldock",
+  "name": "Ridge Bleached Oak Desk with Drawer",
+  "dimensions":"66'Wx30'Dx30.25'H",
+  "type": "office desk",
+  "status": "New",
+  "details": "Bleached oak desk designed by Brett Beldock gets the work done in serious style. Made of bleach-stained Mindi wood with a wire-brushed finish, block leg desk flare to the floor dramatically. Single drawer gives desk supplies and private papers a home. Learn more about Brett Beldock on our blog.",
+  "image":  "./img/officedesks/555.jpg",
+  "thumbnails": [
+     
+    "./img/officedesks/555a.jpg",
+    "./img/officedesks/555b.jpg",
+    "./img/officedesks/555c.jpg"
+  
+  ]
+},
+{
+  "id": "556",
+  "color": "Black",
+  "price": "1274",
+  "material": "Oak ",
+  "features": "66'",
+  "shape": "Oval",
+  "designer": "Mermelada Estudio",
+  "name": "Reid Oval Black Wood Storage Desk",
+  "dimensions":"66'Wx30'Dx30.25'H",
+  "type": "office desk",
+  "status": "New",
+  "details": "CEO of sophistication, brought to us by Mermelada Estudio. Modern, oversized executive desk in glossy ebonized oak rounds out on either side for maximum storage, one shelf per side. Push-to-open doors curve with the frame and are hidden beautifully with fluted repetition. ",
+  "image":  "./img/officedesks/556.jpg",
+  "thumbnails": [
+     
+    "./img/officedesks/556a.jpg",
+    "./img/officedesks/556b.jpg",
+    "./img/officedesks/556c.jpg"
+  
+  ]
+},
+{
+  "id": "557",
+  "color": "Brown",
+  "price": "1049",
+  "material": "Burl ",
+  "features": "60'",
+  "shape": "Oval",
+  "designer": "Nicholas Obeid",
+  "name": "Spillo 2-Drawer Brown Burl Wood Desk",
+  "dimensions":"60'Wx21'Dx29'H",
+  "type": "office desk",
+  "status": "New",
+  "details": "A refined take on the traditional writer's desk, Nicholas Obeid's design is versatile enough to serve in the office or entryway. Warm burl wood imparts a subtle pattern throughout, while a narrow silhouette, tapered legs and brass ferrules subtly nod to art deco elegance. Three push-to-open drawers with undermount glides provide smooth movement and a clean, minimalist shape. ",
+  "image":  "./img/officedesks/557.jpg",
+  "thumbnails": [
+     
+    "./img/officedesks/557a.jpg",
+    "./img/officedesks/557b.jpg",
+    "./img/officedesks/557c.jpg"
+  
+  ]
+}
+]

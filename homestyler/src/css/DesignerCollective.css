@@ -1,0 +1,101 @@
+.designer-collective {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .header-section {
+    position: relative;
+    text-align: center;
+    color: white; 
+    padding: 100px 20px;
+    background-image: url('https://cb2.scene7.com/is/image/CB2/080824_DesignerCollective_dHP?wid=1920&qlt=85'); 
+    background-size: cover; 
+    background-position: center; 
+    height: 50vh; 
+    margin-bottom: 50px;
+  }
+  
+  .header-section h1 {
+    font-size: 50px; 
+    margin-bottom: 20px;
+  }
+  
+  .header-section p {
+    font-size: 18px;
+    max-width: 600px; 
+    margin: 0 auto;
+  }
+  
+  .designer-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+  }
+  
+  .designer-card {
+    text-align: left;
+    width: 330px;
+    cursor: pointer;
+  }
+  
+  .designer-card img {
+    width: 330px;
+    height: 330px;
+    object-fit: cover;
+    margin-bottom: 20px;
+  }
+  
+  .designer-card h3 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-decoration: none;
+  }
+  
+  .designer-card p {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 10px;
+    text-decoration: none;
+  }
+  
+  .designer-card a {
+    font-size: 16px;
+    color: #000;
+  }
+  
+  .quote-card {
+    grid-column: span 2; 
+    padding: 40px;
+    text-align: center;
+    font-style: italic;
+    position: relative; 
+    color: white;
+  }
+  
+  .quote-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url('https://tse1.mm.bing.net/th?id=OIP.Z8VJk8e4CxwSHcddh7Yz3QHaE8&pid=Api&P=0&h=220'); 
+    background-size: cover;
+    background-position: center;
+    z-index: 1; 
+    height: 330px;
+  }
+  
+  .quote-card p {
+    position: relative; 
+    z-index: 2; 
+  }
+  
+  .quote-card p:first-child {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  

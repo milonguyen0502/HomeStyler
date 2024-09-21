@@ -6,8 +6,9 @@ function SleeperAndDaybeds({ daybeds }) {
     const displayedProducts = daybeds.slice(0, 8);
 
     const handleSeeMore = () => {
-        navigate('/all-products', { state: { products: daybeds } });
+        navigate('/all-products', { state: { products: daybeds, category: 'Sleepers & Daybeds' } });
     };
+
     const handleProductClick = (id) => {
         navigate(`/product-details/${id}`);
     };
@@ -15,9 +16,9 @@ function SleeperAndDaybeds({ daybeds }) {
     return (
         <div>
             <h1>Sleepers & Daybeds</h1>
-            <div className="product-grid">
+            <div className="product-grid row">
                 {displayedProducts.map(product => (
-                    <div key={product.id} className="cate-product-item"  onClick={() => handleProductClick(product.id)}>
+                    <div key={product.id} className="cate-product-item col-lg-3 col-md-6"  onClick={() => handleProductClick(product.id)}>
                         <img src={product.image} alt={product.name} width="200px" height="200px" />
                         <h3>{product.status}</h3>
                         <p>{product.name}</p>
@@ -26,7 +27,7 @@ function SleeperAndDaybeds({ daybeds }) {
                 ))}
             </div>
             <div className="see-more">
-                <button onClick={handleSeeMore}>Xem thêm</button>
+                <button onClick={handleSeeMore}>View More</button>
             </div>
         </div>
     );

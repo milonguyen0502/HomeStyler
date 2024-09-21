@@ -27,6 +27,25 @@ function Filter({ daybeds, onFilterChange }) {
         });
     };
 
+    const resetFilters = () => {
+        setFilters({
+            color: [],
+            price: [],
+            fabric: [],
+            features: [],
+            shape: [],
+            designer: [],
+        });
+    };
+
+    const priceRanges = [
+        { label: '100-500', min: 100, max: 500 },
+        { label: '500-1000', min: 500, max: 1000 },
+        { label: '1000-1500', min: 1000, max: 1500 },
+        { label: '1500-2000', min: 1500, max: 2000 },
+        { label: '2000-higher', min: 2000, max: Infinity }
+    ];
+
     const uniqueValuesWithCount = (attribute) => {
         const valueCount = {};
         if (!Array.isArray(daybeds) || daybeds.length === 0) return valueCount;
@@ -44,7 +63,25 @@ function Filter({ daybeds, onFilterChange }) {
 
     return (
         <div className="filter">
-            {['color', 'price', 'fabric', 'features', 'shape', 'designer'].map(attribute => {
+            <div className="filter-group">
+                <h3>Price</h3>
+                {priceRanges.map(range => (
+                    <div key={range.label} className="filter-option">
+                        <input
+                            type="checkbox"
+                            id={`price-${range.label}`}
+                            name="price"
+                            value={range.label}
+                            checked={filters.price.includes(range.label)}
+                            onChange={() => handleCheckboxChange('price', range.label)}
+                        />
+                        <label htmlFor={`price-${range.label}`}>
+                            {range.label}
+                        </label>
+                    </div>
+                ))}
+            </div>
+            {['color', 'fabric', 'features', 'shape', 'designer'].map(attribute => {
                 const counts = uniqueValuesWithCount(attribute);
                 return (
                     <div key={attribute} className="filter-group">
@@ -71,6 +108,9 @@ function Filter({ daybeds, onFilterChange }) {
                     </div>
                 );
             })}
+            <button onClick={resetFilters} className="clear-button">
+                Clear All
+            </button>
         </div>
     );
 }

@@ -1,0 +1,112 @@
+[
+    {
+        "id": "513",
+        "color": "Green",
+        "price": "1999",
+        "fabric": "Velvet ",
+        "features": "38.5'",
+        "shape": "Swivel base",
+        "designer": " VUUE",
+        "name": "Fitz Channeled Green Velvet Swivel Chair",
+        "dimensions":"38.5'Wx32.5'Dx27.5'H",
+        "type": "accent chair",
+        "status": "New",
+        "details": "Channel-tufted in rich green velvet, deco-inspired swivel chair makes a vintage statement wherever it sits. Designed by VUUE, the chair looks good from every angle.",
+        "image":  "https://cb2.scene7.com/is/image/CB2/FaibleWhiteRA6pcSectSHF23/$web_plp_card$/240215085227/faible-6-piece-u-shaped-white-performance-linen-sectional-sofa-with-right-arm.jpg",
+        "thumbnails": [
+           
+          "./img/sofas/513a.jpg",
+          "./img/sofas/513b.jpg",
+          "./img/sofas/513c.jpg",
+          "./img/sofas/513d.jpg"
+        ]
+    },
+    {
+        "id": "514",
+        "color": "Green",
+        "price": "1499",
+        "fabric": "Velvet ",
+        "features": "34.5'",
+        "shape": "Swivel base",
+        "designer": " Gianfranco Frattini",
+        "name": "Marconi Tufted Green Velvet Accent Chair by Gianfranco Frattini",
+        "dimensions":"34.5'Wx33'Dx24'H",
+        "type": "accent chair",
+        "status": "New",
+        "details": "This sleek, low accent chair was originally created by iconic Italian designer Gianfranco Frattini for the fashionable Restaurant St. Andrews in the heart of old Milan. Now, a modern classic returns with the same spirit of the original design, reimagined in a rich, olive green-colored velvet with room for four. Period-authentic details include hand-sewn button tufts on the interior sides and cushions, along with the inset walnut legs that are characteristic of the designer's signature style.",
+        "image":  "https://cb2.scene7.com/is/image/CB2/GwynethIvoryBclChairSHF23?$web_pdp_main_carousel_med$",
+        "thumbnails": [
+           
+          "./img/sofas/514a.jpg",
+          "./img/sofas/514b.jpg",
+          "./img/sofas/514c.jpg",
+          "./img/sofas/514d.jpg"
+        ]
+    },
+    {
+        "id": "515",
+        "color": "Camel Brown",
+        "price": "1299",
+        "fabric": "Boucle ",
+        "features": "34.5'",
+        "shape": "Swivel base",
+        "designer": "Ross Cassidy",
+        "name": "Laszlo Camel Brown Boucle Swivel Chair by Ross Cassidy",
+        "dimensions":"35.5'Wx37'Dx25.5'H",
+        "type": "accent chair",
+        "status": "New",
+        "details": "Boucle swivel chair by Los Angeles-based designer Ross Cassidy strikes the perfect balance between modern style and cloud-like comfort. Floating atop a natural oak swivel base, the curved back hugs a generously cushioned seat. Developed exclusively for CB2, the texture-rich custom boucle features a uniquely fluffy hand for an ultra-plush sit. It's easily one of our most comfortable swivel chairs to date.",
+        "image":  "https://cb2.scene7.com/is/image/CB2/IrwinBkMrblCoffeeTableII3QSSF24?$web_pdp_main_carousel_med$",
+        "thumbnails": [
+           
+          "./img/sofas/515a.jpg",
+          "./img/sofas/515b.jpg",
+          "./img/sofas/515c.jpg",
+          "./img/sofas/515d.jpg"
+        ]
+    },
+    {
+        "id": "516",
+        "color": "Camel Brown",
+        "price": "1299",
+        "fabric": "Velvet ",
+        "features": "34.5'",
+        "shape": "Swivel base",
+        "designer": "Lawson-Fenning",
+        "name": "Muir Camel Velvet Swivel Chair by Lawson-Fenning",
+        "dimensions":"35.5'Wx37'Dx25.5'H",
+        "type": "accent chair",
+        "status": "New",
+        "details": "Swivel chair by Lawson-Fenning draws on the designers' admiration of California interior design in the 1950s and 1960s. Inviting seat fully swivels 360 degrees, appearing to float above a circular base of wood certified sustainable by the Forest Stewardship Council ®. Sumptuous camel-colored velvet finishes things off with a luxurious midcentury-inspired moment.",
+        "image":  "https://cb2.scene7.com/is/image/CB2/LuminGyPrfFbcOttoman3QSSF23/$web_plp_card$/240920033315/LuminGyPrfFbcOttoman3QSSF23.jpg",
+        "thumbnails": [
+           
+          "./img/sofas/516a.jpg",
+          "./img/sofas/516b.jpg",
+          "./img/sofas/516c.jpg",
+          "./img/sofas/516d.jpg"
+        ]
+    },
+    {
+        "id": "516",
+        "color": "Camel Brown",
+        "price": "1299",
+        "fabric": "Velvet ",
+        "features": "34.5'",
+        "shape": "Swivel base",
+        "designer": "Lawson-Fenning",
+        "name": "Muir Camel Velvet Swivel Chair by Lawson-Fenning",
+        "dimensions":"35.5'Wx37'Dx25.5'H",
+        "type": "accent chair",
+        "status": "New",
+        "details": "Swivel chair by Lawson-Fenning draws on the designers' admiration of California interior design in the 1950s and 1960s. Inviting seat fully swivels 360 degrees, appearing to float above a circular base of wood certified sustainable by the Forest Stewardship Council ®. Sumptuous camel-colored velvet finishes things off with a luxurious midcentury-inspired moment.",
+        "image":  "https://cb2.scene7.com/is/image/CB2/BodeneBlkConsoleTableSOSSF23?$web_pdp_main_carousel_med$",
+        "thumbnails": [
+           
+          "./img/sofas/516a.jpg",
+          "./img/sofas/516b.jpg",
+          "./img/sofas/516c.jpg",
+          "./img/sofas/516d.jpg"
+        ]
+    }
+]

@@ -1,10 +1,9 @@
-/* Style the navbar */
 .navbar {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 15px;
-  background-color: #fff; /* Adjust background color if needed */
+  background-color: #fff; 
 }
 
 .nav ul {
@@ -34,14 +33,19 @@
 }
 
 .navbar-left .search-bar {
-  width: 200px; /* Adjust search bar width */
+  width: 200px; 
   padding: 5px;
   border: 1px solid #ccc;
 }
-
-.navbar-left .search-button {
+.search-button{
   padding: 5px 10px;
-  background-color: #ccc;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  color: black;
+}
+.navbar-left {
+  padding: 5px 10px;
   border: none;
   cursor: pointer;
 }
@@ -109,4 +113,5 @@ li.dropdown {
 
 .navbar-center img {
   width: 100px;
+  margin-right: 180px;
 }

@@ -1,0 +1,339 @@
+[
+    {
+        "id": "500",
+        "color": "White",
+        "price": "3516",
+        "fabric": "Linen ",
+        "features": "125.5'",
+        "shape": "L-Shaped ",
+        "combo":"5-Piece – Left-Arm Sofa + Armless Chair + Corner Chair + Armless Chair + Right-Arm Sofa",
+        "designer": "Ceci Thompson",
+        "status": "new",
+        "name": "Piazza 4-Piece Modular White Linen Sectional Sofa",
+        "dimensions": "125.5'Wx44'Dx31'H",
+        "product status": "new",
+        "details": "Long, lean, super deep four-piece sectional lounges low to the floor. Clean silhouette has a fresh, casual vibe with European appeal. Luxe white fabric plays well against contrasting white oak. CB2 exclusive.",
+         "image": "./img/sessionals/500.jpg",
+
+        "thumbnails": [
+          "./img/sessionals/500a.jpg",
+          "./img/sessionals/500b.jpg",
+          "./img/sessionals/500c.jpg"
+         
+        ]
+    },
+    {
+        "id": "501",
+        "color": "nomad snow",
+        "price":"2699",
+        "fabric": "Performance",
+        "features": "144'",
+        "shape": "L-Shaped ",
+        "combo":"5-Piece – Left-Arm Sofa + Armless Chair + Corner Chair + Armless Chair + Right-Arm Sofa",
+
+        "designer": "Ceci Thompson",
+        "name": "Marguerite 5-Piece L-Shaped White Performance Fabric Sectional Sofa",
+        "dimensions": "144'Wx144'Dx29'H",
+        "type":"sessionals",
+        "status": "new",
+        "details": "Perfectly proportioned in scale, long white sofa has a slim frame that cuts a confident silhouette. Quality is apparent throughout, with a kiln-dried wooden frame certified by the Forest Stewardship Council ® and thick foam-core cushions generously filled with a feather blend for exceptional comfort. The piece is upholstered in an easy-to-clean Crypton® performance fabric that feels like a plush chenille with a hint of linen, giving it a soft texture designed to withstand plenty of wear while retaining its casually elegant feel. CB2 exclusive.",
+        "image": "./img/sessionals/501.jpg",
+        "thumbnails": [
+           "./img/sessionals/501a.jpg",
+           "./img/sessionals/501b.jpg",
+           "./img/sessionals/501c.jpg"
+           
+        ]
+    },
+    {
+        "id": "503",
+        "color": "Charcoal Black",
+        "price": "3436",
+        "fabric": "Linen",
+        "features": "127.5'",
+        "shape": "L-Shaped ",
+        "combo":"4-Piece – Ottoman + Left Arm Chair + Armless Chair + Corner Chair",
+        "designer": "Mermelada Estudio",
+        "name": "Mattea 4-Piece Charcoal Black Performance Linen Sectional Sofa with Left-Arm",
+      
+        "status": "new",
+        "details": "Low, oversized linen sectional sofa is casually chic while maximizing comfort.. Double-stacked pillowy seat and loose cushions throughout are upholstered in a charcoal black easy-care performance linen blend, creating an unbelievably soft place you'll never want to leave. Combine it with other Mattea pieces to create a sectional to fit your space. CB2 exclusive.",
+
+
+        "dimensions": "127.5'Wx37.5'Dx29.5'H",
+        "image":  "./img/sessionals/503.jpg",
+        "thumbnails": [
+          "./img/sessionals/503a.jpg",
+          "./img/sessionals/503b.jpg",
+          "./img/sessionals/503c.jpg"
+         
+        ]
+    },
+    {
+        "id": "503",
+        "color": "Charcoal Black",
+        "price": "3436",
+        "fabric": "Linen",
+        "features": "100'",
+        "shape": "U-Shaped",
+        "combo":"4-Piece – Ottoman + Left Arm Chair + Armless Chair + Corner Chair",
+        "designer": "Mermelada Estudio",
+        "name": "Mattea 4-Piece Charcoal Black Performance Linen Sectional Sofa with Left-Arm",
+      
+        "status": "new",
+        "details": "Low, oversized linen sectional sofa is casually chic while maximizing comfort.. Double-stacked pillowy seat and loose cushions throughout are upholstered in a charcoal black easy-care performance linen blend, creating an unbelievably soft place you'll never want to leave. Combine it with other Mattea pieces to create a sectional to fit your space. CB2 exclusive.",
+
+
+        "dimensions": "127.5'Wx37.5'Dx29.5'H",
+        "image":  "./img/sessionals/503.jpg",
+        "thumbnails": [
+          "./img/sessionals/503a.jpg",
+          "./img/sessionals/503b.jpg",
+          "./img/sessionals/503c.jpg"
+         
+        ]
+    },
+    {
+        "id": "504",
+        "color": "Charcoal Grey",
+        "price": "3436",
+        "fabric": "Linen",
+        "features": "123.75'",
+        "shape": "L-Shaped ",
+        "combo":"4-Piece – Ottoman + Armless Chair + Corner Chair + Armless Loveseat",
+        "designer": "Mermelada Estudio",
+        "name": "Deseo 4-Piece Modular Charcoal Grey Performance Velvet Sectional Sofa with Loveseat",
+      
+        "status": "new",
+        "details": "Upholstered in a charcoal performance velvet, large-scale sectional sits low to the ground for modern appeal. The plush silhouette features pillow-like detached cushions with broad armrests that can serve as a relaxed perch for socializing. Sectional pieces can be configured to suit your space. CB2 exclusive.",
+
+
+        "dimensions": " 123.75'Wx115'Dx31'H",
+        "image":  "./img/sessionals/504.jpg",
+        "thumbnails": [
+          "./img/sessionals/504a.jpg",
+          "./img/sessionals/504b.jpg",
+          "./img/sessionals/504c.jpg"
+         
+        ]
+    },
+    {
+        "id": "505",
+        "color": "Camel Brown",
+        "price": "4996",
+        "fabric": "Velvet",
+        "features": "125'",
+        "shape": "L-Shaped ",
+        "combo":"4-Piece – Left Arm Sofa + Armless Chair + Corner Chair + Right Arm Sofa",
+        "designer": "Mermelada Estudio",
+        "name": "Strato 4-Piece L-Shaped Camel Brown Velvet Sectional Sofa",
+      
+        "status": "new",
+        "details": "Designed by Mermelada Estudio, this vintage '70s-inspired sectional sofa is upholstered in rich camel velvet with plush channel tufting. Luxe doesn't do it justice. Learn more about Mermelada Estudio on our blog. CB2 exclusive.",
+
+
+
+        "dimensions": "125'Wx98'Dx27.5'H",
+        "image":  "./img/sessionals/505.jpg",
+        "thumbnails": [
+          "./img/sessionals/505a.jpg",
+          "./img/sessionals/505b.jpg",
+          "./img/sessionals/505c.jpg"
+         
+        ]
+    },
+    {
+        "id": "506",
+        "color": "Wheat",
+        "price": "7494",
+        "fabric": "Velvet",
+        "features": "123.75'",
+        "shape": "L-Shaped ",
+        "combo":"4-Piece – Ottoman + Armless Chair + Corner Chair + Armless Loveseat",
+        "designer": "Mermelada Estudio",
+        "name": "Faible 6-Piece L-Shaped  Wheat Performance Velvet Sectional Sofa with Right-Arm",
+      
+        "status": "new",
+        "details": "6-Piece – Ottoman + Corner Chair + Armless Chair + Armless Chair + Corner Chair + Right Arm Chair.",
+
+
+        "dimensions": " 123.75'Wx115'Dx31'H",
+        "image":  "./img/sessionals/506.jpg",
+        "thumbnails": [
+          "./img/sessionals/506a.jpg",
+          "./img/sessionals/506b.jpg",
+          "./img/sessionals/506c.jpg"
+         
+        ]
+    },
+    {
+        "id": "507",
+        "color": "Brown",
+        "price": " 9035",
+        "fabric": "Leather",
+        "features": "180'",
+        "shape": "L-Shaped ",
+        "combo":"6-Piece – Ottoman + Corner Chair + Armless Chair + Armless Chair + Corner Chair + Right Arm Chair",
+        "designer": "VUUE",
+        "name": "Faible 6-Piece U-Shaped Brown Leather Sectional Sofa with Right-Arm",
+      
+        "status": "new",
+        "details": "Grand in scale, vintage-inspired leather sectional sofa by Nicholas Obeid makes the most out of its low-slung silhouette. Set atop a polished stainless steel plinth base, the seat has semi-detached channel-tufted cushions wrapped in tobacco-colored European leather. It's an incredibly comfortable sectional sofa in a naturally worn-in finish. CB2 exclusive.",
+
+
+        "dimensions": "180'Wx90'Dx29'H",
+        "image":  "./img/sessionals/507.jpg",
+        "thumbnails": [
+          "./img/sessionals/507a.jpg",
+          "./img/sessionals/507b.jpg",
+          "./img/sessionals/507c.jpg"
+         
+        ]
+    },
+    {
+        "id": "508",
+        "color": "Brown",
+        "price": "12394",
+        "fabric": "Leather",
+        "features": "180'",
+        "shape": "U-Shaped",
+        "combo":"6-Piece – Ottoman + Corner Chair + Armless Chair + Armless Chair + Corner Chair + Right Arm Chair",
+        "designer": "VUUE",
+        "name": "Faible 6-Piece U-Shaped Brown Leather Sectional Sofa with Right-Arm",
+      
+        "status": "new",
+        "details": "Deep, generously proportioned sectional sofa designed by VUUE is sophisticated in Moore & Giles full-grain leather upholstery. The oversized profile is perfect for lounging with family and friends without sacrificing style. Hand-selected for its inherent markings and characteristics, the leather upholstery is finished with layers of wax for a naturally worn-in aesthetic. Customize the sectional layout to suit your individual space. CB2 exclusive.",
+
+
+        "dimensions": "180'Wx90'Dx29'H",
+        "image":  "./img/sessionals/508.jpg",
+        "thumbnails": [
+          "./img/sessionals/508a.jpg",
+          "./img/sessionals/508b.jpg",
+          "./img/sessionals/508c.jpg"
+         
+        ]
+    },
+    {
+        "id": "509",
+        "color": "Brown",
+        "price": "12394",
+        "fabric": "Leather",
+        "features": "180'",
+        "shape": "U-Shaped",
+        "combo":"6-Piece – Ottoman + Corner Chair + Armless Chair + Armless Chair + Corner Chair + Right Arm Chair",
+        "designer": "VUUE",
+        "name": "Faible 6-Piece U-Shaped Brown Leather Sectional Sofa with Right-Arm",
+      
+        "status": "new",
+        "details": "Deep, generously proportioned sectional sofa designed by VUUE is sophisticated in Moore & Giles full-grain leather upholstery. The oversized profile is perfect for lounging with family and friends without sacrificing style. Hand-selected for its inherent markings and characteristics, the leather upholstery is finished with layers of wax for a naturally worn-in aesthetic. Customize the sectional layout to suit your individual space. CB2 exclusive.",
+
+
+        "dimensions": "180'Wx90'Dx29'H",
+        "image":  "./img/sessionals/508.jpg",
+        "thumbnails": [
+          "./img/sessionals/508a.jpg",
+          "./img/sessionals/508b.jpg",
+          "./img/sessionals/508c.jpg"
+         
+        ]
+    },
+    {
+        "id": "509",
+        "color": "Brown",
+        "price": "5846",
+        "fabric": "Linen",
+        "features": "142'",
+        "shape": "Modular",
+        "combo":"4-Piece – Ottoman + Armless Apartment Sofa + Corner Chair + Armless Chair",
+        "designer": "VUUE",
+        "name": "Piazza 4-Piece Modular Sectional Sofa with White Oak Legs 105",
+      
+        "status": "new",
+        "details": "Long, lean, super deep four-piece sectional lounges low on four solid hardwood feet—an elevated update that appreciates high-end craftsmanship and honest materials. Clean silhouette has a plush, pillowed feel thanks to the improved feather-down cushion design. Soft white linen-blend upholstery plays well against the contrasting hardwood feet. Sectional set includes armless chair, corner chair, ottoman and apartment sofa. Can be configured in various ways. CB2 exclusive.",
+
+
+        "dimensions": "142'Wx44'Dx31'H",
+        "image":  "./img/sessionals/509.jpg",
+        "thumbnails": [
+          "./img/sessionals/509a.jpg",
+          "./img/sessionals/509b.jpg",
+          "./img/sessionals/509c.jpg"
+         
+        ]
+    },
+    {
+        "id": "510",
+        "color": "Grey",
+        "price": "5196",
+        "fabric": "Performance",
+        "features": "126'",
+        "shape": "U-Shaped",
+        "combo":"4-Piece – Corner Chair + Armless Chair + Corner Chair + Ottoman",
+        "designer": "VUUE",
+        "name": "Lumis 4-Piece Modular Grey Performance Fabric Sectional Sofa",
+      
+        "status": "new",
+        "details": "Sink into relaxed luxury with this low-slung design by Barcelona-based Mermelada Estudio. Formed of four modular pieces, the sectional's deep, pillow-topped seat and back cushions are finished with a clean piping welt in a soft, linen-like performance fabric. Arrange and rearrange sectional pieces to fit your changing needs. CB2 exclusive.",
+
+
+        "dimensions": "126'Wx83.5'Dx27'H",
+        "image":  "./img/sessionals/510.jpg",
+        "thumbnails": [
+          "./img/sessionals/510a.jpg",
+          "./img/sessionals/510b.jpg",
+          "./img/sessionals/510c.jpg"
+         
+        ]
+    },
+    {
+        "id": "511",
+        "color": "Grey",
+        "price": "9896",
+        "fabric": "Leather",
+        "features": "180'",
+        "shape": "L-Shaped ",
+        "combo":"6-Piece – Ottoman + Corner Chair + Armless Chair + Armless Chair + Corner Chair + Right Arm Chair",
+        "designer": "VUUE",
+        "name": "Salon Leather 4-Piece Sectional Sofa Bello Grey",
+      
+        "status": "new",
+        "details": "Scaled just right for smaller spaces, sectional sofa by Nicholas Obeid makes the most out of its footprint. Set atop a polished stainless steel plinth base, the seat has semi-detached channel-tufted cushions wrapped in leather. It's an incredibly comfortable sectional sofa in a very of-the-moment finish. CB2 exclusive.",
+
+
+
+        "dimensions": "180'Wx90'Dx29'H",
+        "image":  "./img/sessionals/511.jpg",
+        "thumbnails": [
+          "./img/sessionals/511a.jpg",
+          "./img/sessionals/511b.jpg",
+          "./img/sessionals/511c.jpg"
+         
+        ]
+    },
+    {
+        "id": "512",
+        "color": "Brown",
+        "price": "12394",
+        "fabric": "Leather",
+        "features": "180'",
+        "shape": "U-Shaped",
+        "combo":"6-Piece – Ottoman + Corner Chair + Armless Chair + Armless Chair + Corner Chair + Right Arm Chair",
+        "designer": "VUUE",
+        "name": "Faible 6-Piece U-Shaped Brown Leather Sectional Sofa with Right-Arm",
+      
+        "status": "new",
+        "details": "Deep, generously proportioned sectional sofa designed by VUUE is sophisticated in Moore & Giles full-grain leather upholstery. The oversized profile is perfect for lounging with family and friends without sacrificing style. Hand-selected for its inherent markings and characteristics, the leather upholstery is finished with layers of wax for a naturally worn-in aesthetic. Customize the sectional layout to suit your individual space. CB2 exclusive.",
+
+
+        "dimensions": "180'Wx90'Dx29'H",
+        "image":  "./img/sessionals/512.jpg",
+        "thumbnails": [
+          "./img/sessionals/512a.jpg",
+          "./img/sessionals/512b.jpg",
+          "./img/sessionals/512c.jpg"
+         
+        ]
+    }
+
+]

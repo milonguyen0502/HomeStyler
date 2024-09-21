@@ -1,0 +1,70 @@
+.collection-detail {
+    display: grid; 
+    grid-template-columns: 60% auto;
+    margin: 20px;
+}
+
+.image-gallery {
+    display: flex;
+    justify-content: center;
+}
+
+.thumbnails {
+    display: flex;
+    flex-direction: column; 
+    gap: 10px;
+}
+
+.thumbnail {
+    width: 72px; 
+    height: 72px;
+    margin-bottom: 5px; 
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.large-image {
+    width: 600px; 
+    height: 500px;
+    object-fit: cover; 
+}
+
+.product-detail-info {
+    flex-grow: 1; 
+    text-align: left; 
+}
+
+h1 {
+    margin: 0; 
+    font-size: 24px;
+}
+
+.quantity-controls {
+    display: flex;
+    align-items: center; 
+    margin-top: 10px; 
+}
+
+.btn-quantity {
+    margin: 0 5px; 
+}
+
+
+
+h4 {
+    margin-top: 20px; 
+    font-size: 18px;
+}
+
+.ReactModal__Overlay {
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
+.ReactModal__Content {
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    background: white;
+    border-radius: 4px;
+    outline: none;
+}

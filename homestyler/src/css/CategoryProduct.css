@@ -2,37 +2,36 @@
     display: grid;
     grid-template-columns: auto auto auto auto;
     grid-template-rows: auto auto;
-    width: 70%; /* Đặt chiều rộng của grid */
-    margin: 0 auto; /* Căn giữa grid trong container */
+    width: 70%; 
+    margin: 0 auto; 
 }
 
 .cate-product-item {
-    background-color: #f4f4f4;
-    padding: 16px;
-    border: 1px solid #ddd;
-    text-align: center;
+    border: none;
+    text-align: left;
+    width: 300px;
 }
 
 .cate-product-item img {
     width: 100%;
-    height: auto;
+    height: 300px;
 }
 
-.see-more {
-    text-align: center; /* Canh giữa nội dung của nút */
-    margin-top: 20px; /* Khoảng cách trên của nút */
-}
+@media only screen and (max-width: 1024px) {
+    .cate-product-item {
+        margin-left: auto ;
+        margin-right: auto;
+        
+    }
+    
+  }
+  
+  /* Mobile layout (for screens smaller than 768px) */
+@media only screen and (max-width: 768px) {
+    .cate-product-item {
+        display: grid;
+        grid-template-columns: auto;
+    }
+  }
 
-.see-more button {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #007bff; /* Màu nền của nút */
-    color: #fff; /* Màu chữ của nút */
-    text-decoration: none; /* Bỏ gạch chân dưới chữ */
-    border-radius: 5px; /* Bo tròn các góc của nút */
-    border: none;
-}
 
-.see-more a:hover {
-    background-color: #0056b3; /* Màu nền của nút khi hover */
-}

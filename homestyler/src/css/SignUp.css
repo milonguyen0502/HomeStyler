@@ -1,0 +1,48 @@
+.signup {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 400px;
+    color: white;
+}
+
+.signup td {
+    padding: 5px;
+}
+
+.signup a {
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.signup input {
+    width: 100%;
+    padding: 10px 16px;
+    border: none;
+    margin-bottom: 10px;
+}
+
+.signup input[type="password"] {
+    margin-top: 5px;
+}
+
+.signup input::placeholder {
+    color: #999;
+}
+
+.btn-signup input {
+    background-color: #000000;
+    border: none;
+    cursor: pointer;
+    color: white;
+    width: 100%;
+    padding: 10px 0;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}

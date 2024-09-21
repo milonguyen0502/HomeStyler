@@ -6,7 +6,7 @@ function SofaCollections({ collections }) {
     const displayedProducts = collections.slice(0, 8);
 
     const handleSeeMore = () => {
-        navigate('/all-products', { state: { products: collections } });
+        navigate('/all-products', { state: { products: collections, category: 'Sofa & Sectional Collections' } });
     };
     const handleProductClick = (id) => {
         navigate(`/product-details/${id}`);
@@ -26,7 +26,7 @@ function SofaCollections({ collections }) {
                 ))}
             </div>
             <div className="see-more">
-                <button onClick={handleSeeMore}>Xem thêm</button>
+                <button onClick={handleSeeMore}>View More</button>
             </div>
         </div>
     );
