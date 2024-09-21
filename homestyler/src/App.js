@@ -32,7 +32,7 @@ import MostView from "./components/MostView";
 import BackToTop from "./components/BacktoTop";
 import LoginForm from "./components/LoginForm";
 import Signup from "./components/SignUp";
-
+import Sitemap from "./components/Sitemap";
 
 
 function App() {
@@ -65,6 +65,7 @@ const handleDelete = (index) => {
             <Route path="/mostview" element={<MostView daybeds={furnitureLivingRoomDaybeds} collections={furnitureLivingRoomCollections}/>}/>
             <Route path="/login" element={<LoginForm />} />
             <Route path="/signup" element={<Signup />} />
+            <Route path="/sitemap" element={<Sitemap />} />
       </Routes>
       <BackToTop/>
       <Footer />

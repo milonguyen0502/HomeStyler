@@ -46,6 +46,7 @@ function Navbar({ daybeds }) {
               <i className="fa fa-user" aria-hidden="true"></i>
             </i>
           </Link>
+          
         </div>
       </nav>
       {searchTerm && (
@@ -72,6 +73,7 @@ function Navbar({ daybeds }) {
           <li><a href="/options">PILLOWS & THROWS</a></li>
           <li><a href="/options">BEDDING & BATH</a></li>
           <li><a href="/designer">DESIGNER</a></li>
+          
           <li className="dropdown">
             <a href="javascript:void(0)" className="dropbtn">
               OUR SELECTIONS
@@ -84,6 +86,7 @@ function Navbar({ daybeds }) {
               <a href="/options">Wedding Registry</a>
             </div>
           </li>
+          <li><a href="/sitemap">SITEMAP</a></li>
         </ul>
       </nav>
     </div>
